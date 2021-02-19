@@ -10,10 +10,11 @@ const getStatResult = async (path, dirArr, level = 0) => {
     const StatResult = await dirArr.reduce(async (previousPromise, current) => {
       const acc = await previousPromise;
       const currentPath = path + "/" + current;
+      acc.level = level;
       if (!_.startsWith(current, ".") && current !== "node_modules") {
         const filestat = await fs.stat(currentPath);
         if (filestat.isFile()) {
-          acc[current] = { isFile: true };
+          acc.leaf = [...acc.leaf, current];
           //need refactor
           if (_.endsWith(current, ".less")) {
             acc.currentLess++;
@@ -40,10 +41,9 @@ const getStatResult = async (path, dirArr, level = 0) => {
           console.log("result", result);
           acc.childrenLess =
             acc.childrenLess + result.currentLess + result.childrenLess;
-          acc[current] = result;
+          acc.children = [...acc.children, { name: current, ...result }];
         }
         acc.totalLess = acc.currentLess + acc.childrenLess;
-        acc.level = level;
       }
       return acc;
     }, Promise.resolve(initStat()));

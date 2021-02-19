@@ -8,6 +8,8 @@ export const initStat = (stat) => {
     json: 0,
     ts: 0,
     yml: 0,
+    children: [],
+    leaf: [],
   };
 };
 export const mainPath = "G:/airhost_pms_nextjs";
