@@ -10,15 +10,43 @@ const getStatResult = async (path, dirArr) => {
     const StatResult = await dirArr.reduce(async (previousPromise, current) => {
       const acc = await previousPromise;
       const currentPath = path + "/" + current;
-      if (!_.startsWith(current, ".")) {
+      if (!_.startsWith(current, ".") && current !== "node_modules") {
         const filestat = await fs.stat(currentPath);
-        console.log("filestat", current, filestat);
-        acc[current] = filestat;
+        if (filestat.isFile()) {
+          acc[current] = filestat;
+          acc[current] = { isFile: true };
+          if (_.endsWith(current, ".less")) {
+            acc.currentLess++;
+          }
+          if (_.endsWith(current, ".js")) {
+            acc.js++;
+          }
+          if (_.endsWith(current, ".sh")) {
+            acc.sh++;
+          }
+          if (_.endsWith(current, ".json")) {
+            acc.json++;
+          }
+          if (_.endsWith(current, ".ts")) {
+            acc.ts++;
+          }
+          if (_.endsWith(current, ".yml")) {
+            acc.yml++;
+          }
+        }
+        if (filestat.isDirectory()) {
+          const dirArr = await fs.readdir(currentPath);
+          const result = await getStatResult(currentPath, dirArr);
+          console.log("result", result);
+          acc.childrenLess =
+            acc.childrenLess + result.currentLess + result.childrenLess;
+          acc[current] = result;
+        }
+        acc.totalLess = acc.currentLess + acc.childrenLess;
         return acc;
       }
       return acc;
-    }, Promise.resolve({ less: 0 }));
-    console.log("StatResult", StatResult);
+    }, Promise.resolve({ currentLess: 0, childrenLess: 0, totalLess: 0, js: 0, sh: 0, json: 0, ts: 0, yml: 0 }));
     return StatResult;
   } catch (error) {}
 };
@@ -28,25 +56,4 @@ fs.writeFile("stat.json", JSON.stringify(result, null, 2), (err) => {
   if (err) throw err;
   console.log("文件已被保存");
 });
-console.log("result", result);
-// async function print(path) {
-//   const result = dirArr.reduce(async (acc, current) => {
-//     const currentPath = path + "/" + current;
-//     if () {
-//       const filestat = await fs.stat(currentPath);
-
-//       await Promise.all(
-//         files.map(async (file) => {
-//           const contents = await fs.readFile(file, "utf8");
-//           console.log(contents);
-//         })
-//       );
-
-//       if (filestat.isFile()) {
-//         return acc[current];
-//         // if (_.endsWith(current, ".less")) {
-//         // }
-//       }
-//     }
-//   }, {});
-// }
+// console.log("result", result);

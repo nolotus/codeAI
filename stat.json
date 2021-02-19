@@ -1,823 +1,5891 @@
 {
-  "less": 0,
+  "currentLess": 0,
+  "childrenLess": 129,
+  "totalLess": 129,
+  "js": 5,
+  "sh": 3,
+  "json": 3,
+  "ts": 2,
+  "yml": 4,
   "assets": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976764499,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591585.6287,
-    "mtimeMs": 1613615952823.3936,
-    "ctimeMs": 1613615952823.3936,
-    "birthtimeMs": 1612861389814.2869,
-    "atime": "2021-02-19T02:09:51.586Z",
-    "mtime": "2021-02-18T02:39:12.823Z",
-    "ctime": "2021-02-18T02:39:12.823Z",
-    "birthtime": "2021-02-09T09:03:09.814Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "images": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "logo.png": {
+        "isFile": true
+      }
+    }
   },
   "build-base-image.sh": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421898,
-    "size": 96,
-    "blocks": 0,
-    "atimeMs": 1613698054306.6504,
-    "mtimeMs": 1609222420599.4868,
-    "ctimeMs": 1609222420599.4868,
-    "birthtimeMs": 1609222420599.4868,
-    "atime": "2021-02-19T01:27:34.307Z",
-    "mtime": "2020-12-29T06:13:40.599Z",
-    "ctime": "2020-12-29T06:13:40.599Z",
-    "birthtime": "2020-12-29T06:13:40.599Z"
+    "isFile": true
   },
   "build-stage.sh": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421899,
-    "size": 86,
-    "blocks": 0,
-    "atimeMs": 1613698054306.6504,
-    "mtimeMs": 1609222420599.4868,
-    "ctimeMs": 1609222420599.4868,
-    "birthtimeMs": 1609222420599.4868,
-    "atime": "2021-02-19T01:27:34.307Z",
-    "mtime": "2020-12-29T06:13:40.599Z",
-    "ctime": "2020-12-29T06:13:40.599Z",
-    "birthtime": "2020-12-29T06:13:40.599Z"
+    "isFile": true
   },
   "build.sh": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421900,
-    "size": 60,
-    "blocks": 0,
-    "atimeMs": 1613698054306.6504,
-    "mtimeMs": 1609222420600.483,
-    "ctimeMs": 1609222420600.483,
-    "birthtimeMs": 1609222420599.4868,
-    "atime": "2021-02-19T01:27:34.307Z",
-    "mtime": "2020-12-29T06:13:40.600Z",
-    "ctime": "2020-12-29T06:13:40.600Z",
-    "birthtime": "2020-12-29T06:13:40.599Z"
+    "isFile": true
   },
   "buildspec-base-image.yml": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421901,
-    "size": 609,
-    "blocks": 1,
-    "atimeMs": 1613698054307.6497,
-    "mtimeMs": 1609222420600.483,
-    "ctimeMs": 1609222420600.483,
-    "birthtimeMs": 1609222420600.483,
-    "atime": "2021-02-19T01:27:34.308Z",
-    "mtime": "2020-12-29T06:13:40.600Z",
-    "ctime": "2020-12-29T06:13:40.600Z",
-    "birthtime": "2020-12-29T06:13:40.600Z"
+    "isFile": true
   },
   "buildspec-stage.yml": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421902,
-    "size": 1479,
-    "blocks": 8,
-    "atimeMs": 1613698054307.6497,
-    "mtimeMs": 1609222420600.483,
-    "ctimeMs": 1609222420600.483,
-    "birthtimeMs": 1609222420600.483,
-    "atime": "2021-02-19T01:27:34.308Z",
-    "mtime": "2020-12-29T06:13:40.600Z",
-    "ctime": "2020-12-29T06:13:40.600Z",
-    "birthtime": "2020-12-29T06:13:40.600Z"
+    "isFile": true
   },
   "buildspec.yml": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421903,
-    "size": 1396,
-    "blocks": 8,
-    "atimeMs": 1613698054307.6497,
-    "mtimeMs": 1609222420600.483,
-    "ctimeMs": 1609222420600.483,
-    "birthtimeMs": 1609222420600.483,
-    "atime": "2021-02-19T01:27:34.308Z",
-    "mtime": "2020-12-29T06:13:40.600Z",
-    "ctime": "2020-12-29T06:13:40.600Z",
-    "birthtime": "2020-12-29T06:13:40.600Z"
+    "isFile": true
   },
   "components": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976764516,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700598263.9673,
-    "mtimeMs": 1613657345882.4934,
-    "ctimeMs": 1613657345882.4934,
-    "birthtimeMs": 1609222420600.483,
-    "atime": "2021-02-19T02:09:58.264Z",
-    "mtime": "2021-02-18T14:09:05.882Z",
-    "ctime": "2021-02-18T14:09:05.882Z",
-    "birthtime": "2020-12-29T06:13:40.600Z"
+    "currentLess": 5,
+    "childrenLess": 21,
+    "totalLess": 26,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "avatar": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "avatar.tsx": {
+        "isFile": true
+      }
+    },
+    "buttons": {
+      "currentLess": 3,
+      "childrenLess": 0,
+      "totalLess": 3,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "GiantButton.module.less": {
+        "isFile": true
+      },
+      "GiantButton.tsx": {
+        "isFile": true
+      },
+      "IconButton.module.less": {
+        "isFile": true
+      },
+      "IconButton.tsx": {
+        "isFile": true
+      },
+      "TextButton.module.less": {
+        "isFile": true
+      },
+      "TextButton.tsx": {
+        "isFile": true
+      },
+      "UploaderButton.tsx": {
+        "isFile": true
+      }
+    },
+    "Can.tsx": {
+      "isFile": true
+    },
+    "ChannelLogoSquare.tsx": {
+      "isFile": true
+    },
+    "Container.module.less": {
+      "isFile": true
+    },
+    "Container.tsx": {
+      "isFile": true
+    },
+    "customTables": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "DateSwitch.tsx": {
+        "isFile": true
+      },
+      "Table.module.less": {
+        "isFile": true
+      },
+      "Table.tsx": {
+        "isFile": true
+      }
+    },
+    "DateFormat.tsx": {
+      "isFile": true
+    },
+    "Dots.tsx": {
+      "isFile": true
+    },
+    "drawer": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "DrawerContainer.tsx": {
+        "isFile": true
+      },
+      "DrawerHeader.module.less": {
+        "isFile": true
+      },
+      "DrawerHeader.tsx": {
+        "isFile": true
+      }
+    },
+    "filter": {
+      "currentLess": 2,
+      "childrenLess": 0,
+      "totalLess": 2,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 2,
+      "yml": 0,
+      "filterPanel.module.less": {
+        "isFile": true
+      },
+      "FilterPanel.tsx": {
+        "isFile": true
+      },
+      "FilterResult.module.less": {
+        "isFile": true
+      },
+      "FilterResult.test.ts": {
+        "isFile": true
+      },
+      "FilterResult.tsx": {
+        "isFile": true
+      },
+      "Sort.tsx": {
+        "isFile": true
+      },
+      "SortPanel.tsx": {
+        "isFile": true
+      },
+      "SortUtils.ts": {
+        "isFile": true
+      }
+    },
+    "forms": {
+      "currentLess": 2,
+      "childrenLess": 0,
+      "totalLess": 2,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "EditableTextArea.module.less": {
+        "isFile": true
+      },
+      "EditableTextArea.tsx": {
+        "isFile": true
+      },
+      "ImageUploadPreview.module.less": {
+        "isFile": true
+      },
+      "ImageUploadPreview.tsx": {
+        "isFile": true
+      },
+      "LanguageSelector.tsx": {
+        "isFile": true
+      },
+      "LoadingWrapper.tsx": {
+        "isFile": true
+      },
+      "Nationality.tsx": {
+        "isFile": true
+      },
+      "PhoneNumberInput.tsx": {
+        "isFile": true
+      },
+      "rangePickerHooks.test.ts": {
+        "isFile": true
+      },
+      "rangePickerHooks.tsx": {
+        "isFile": true
+      },
+      "TimePickerWihoutOk.tsx": {
+        "isFile": true
+      },
+      "useLoading.tsx": {
+        "isFile": true
+      }
+    },
+    "Gender.tsx": {
+      "isFile": true
+    },
+    "header": {
+      "currentLess": 6,
+      "childrenLess": 0,
+      "totalLess": 6,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "PageHeader.module.less": {
+        "isFile": true
+      },
+      "PageHeader.tsx": {
+        "isFile": true
+      },
+      "PageHeaderSimple.module.less": {
+        "isFile": true
+      },
+      "PageHeaderSimple.tsx": {
+        "isFile": true
+      },
+      "SiteHeader.module.less": {
+        "isFile": true
+      },
+      "SiteHeader.tsx": {
+        "isFile": true
+      },
+      "SwitchLanguage.module.less": {
+        "isFile": true
+      },
+      "SwitchLanguage.tsx": {
+        "isFile": true
+      },
+      "UnreadTicket.module.less": {
+        "isFile": true
+      },
+      "UnreadTicket.tsx": {
+        "isFile": true
+      },
+      "UserProfileDropdown.module.less": {
+        "isFile": true
+      },
+      "UserProfileDropdown.tsx": {
+        "isFile": true
+      }
+    },
+    "HouseMenu.module.less": {
+      "isFile": true
+    },
+    "HouseMenu.tsx": {
+      "isFile": true
+    },
+    "Icon": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "AddIcon.tsx": {
+        "isFile": true
+      },
+      "AddNewIcon.tsx": {
+        "isFile": true
+      },
+      "AdminConsoleIcon.tsx": {
+        "isFile": true
+      },
+      "AdvancedIcon.tsx": {
+        "isFile": true
+      },
+      "ApartmentIcon.tsx": {
+        "isFile": true
+      },
+      "autoMessage": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "BeforeCheckinIcon.tsx": {
+          "isFile": true
+        },
+        "BeforeCheckinIconGrey.tsx": {
+          "isFile": true
+        },
+        "BookingIcon.tsx": {
+          "isFile": true
+        },
+        "BookingIconGrey.tsx": {
+          "isFile": true
+        },
+        "BookingsIcon.tsx": {
+          "isFile": true
+        },
+        "BookingSiteIcon.tsx": {
+          "isFile": true
+        },
+        "CalendarIcon.tsx": {
+          "isFile": true
+        },
+        "CardIcon.tsx": {
+          "isFile": true
+        },
+        "CheckinCodeIcon.tsx": {
+          "isFile": true
+        },
+        "CheckinDateIcon.tsx": {
+          "isFile": true
+        },
+        "CheckinInfoIcon.tsx": {
+          "isFile": true
+        },
+        "CheckinPinCodeIcon.tsx": {
+          "isFile": true
+        },
+        "CheckinTimeIcon.tsx": {
+          "isFile": true
+        },
+        "CheckoutDateIcon.tsx": {
+          "isFile": true
+        },
+        "CheckoutTimeIcon.tsx": {
+          "isFile": true
+        },
+        "CloseIcon.tsx": {
+          "isFile": true
+        },
+        "ConfirmNumberIcon.tsx": {
+          "isFile": true
+        },
+        "DisabledIcon.tsx": {
+          "isFile": true
+        },
+        "EditIcon.tsx": {
+          "isFile": true
+        },
+        "ExtraMemoIcon.tsx": {
+          "isFile": true
+        },
+        "GuestNameIcon.tsx": {
+          "isFile": true
+        },
+        "HostNameIcon.tsx": {
+          "isFile": true
+        },
+        "HouseNameIcon.tsx": {
+          "isFile": true
+        },
+        "InvoiceIcon.tsx": {
+          "isFile": true
+        },
+        "LockCodeIcon.tsx": {
+          "isFile": true
+        },
+        "PhoneIcon.tsx": {
+          "isFile": true
+        },
+        "PreCheckinUrlIcon.tsx": {
+          "isFile": true
+        },
+        "QuestionIcon.tsx": {
+          "isFile": true
+        },
+        "RoomManualIcon.tsx": {
+          "isFile": true
+        },
+        "RoomNoIcon.tsx": {
+          "isFile": true
+        },
+        "RoomTypeIcon.tsx": {
+          "isFile": true
+        },
+        "SendForEachRoomIcon.tsx": {
+          "isFile": true
+        },
+        "SignatureIcon.tsx": {
+          "isFile": true
+        }
+      },
+      "AutoMessageIcon.tsx": {
+        "isFile": true
+      },
+      "BasicIcon.tsx": {
+        "isFile": true
+      },
+      "BellIcon.tsx": {
+        "isFile": true
+      },
+      "BirthdayIcon.tsx": {
+        "isFile": true
+      },
+      "BookingIcon.tsx": {
+        "isFile": true
+      },
+      "BuildingIcon.tsx": {
+        "isFile": true
+      },
+      "CalendarIcon.tsx": {
+        "isFile": true
+      },
+      "ChangeIcon.tsx": {
+        "isFile": true
+      },
+      "CheckinIcon.tsx": {
+        "isFile": true
+      },
+      "CheckinSettingsIcon.tsx": {
+        "isFile": true
+      },
+      "CheckoutIcon.tsx": {
+        "isFile": true
+      },
+      "CloseIcon.tsx": {
+        "isFile": true
+      },
+      "CloudIcon.tsx": {
+        "isFile": true
+      },
+      "CollapseIcon.tsx": {
+        "isFile": true
+      },
+      "CommentIcon.tsx": {
+        "isFile": true
+      },
+      "CountryFlag.tsx": {
+        "isFile": true
+      },
+      "CreateIcon.tsx": {
+        "isFile": true
+      },
+      "CreateListingIcon.tsx": {
+        "isFile": true
+      },
+      "CurrencyIcon.tsx": {
+        "isFile": true
+      },
+      "DashboardIcon.tsx": {
+        "isFile": true
+      },
+      "DeleteIcon.tsx": {
+        "isFile": true
+      },
+      "DownloadIcon.tsx": {
+        "isFile": true
+      },
+      "Edit2Icon.tsx": {
+        "isFile": true
+      },
+      "EditIcon.tsx": {
+        "isFile": true
+      },
+      "FilterIcon.tsx": {
+        "isFile": true
+      },
+      "GuestIcon.tsx": {
+        "isFile": true
+      },
+      "HookIcon.tsx": {
+        "isFile": true
+      },
+      "HotelIcon.tsx": {
+        "isFile": true
+      },
+      "HouseInformationIcons.tsx": {
+        "isFile": true
+      },
+      "HouseListCheckinIcon.tsx": {
+        "isFile": true
+      },
+      "HouseListCheckoutIcon.tsx": {
+        "isFile": true
+      },
+      "HousePropertyIcon.tsx": {
+        "isFile": true
+      },
+      "ImportBookingsIcon.tsx": {
+        "isFile": true
+      },
+      "LocationIcon.tsx": {
+        "isFile": true
+      },
+      "LockIcon.tsx": {
+        "isFile": true
+      },
+      "MarkerIcon.tsx": {
+        "isFile": true
+      },
+      "MessageIcon.tsx": {
+        "isFile": true
+      },
+      "NameIcon.tsx": {
+        "isFile": true
+      },
+      "OccupationIcon.tsx": {
+        "isFile": true
+      },
+      "OrderBellIcon.tsx": {
+        "isFile": true
+      },
+      "OrdersIcon.tsx": {
+        "isFile": true
+      },
+      "PackageIcon.tsx": {
+        "isFile": true
+      },
+      "PhoneIcon.tsx": {
+        "isFile": true
+      },
+      "PlusIcon.tsx": {
+        "isFile": true
+      },
+      "PreviewIcon.tsx": {
+        "isFile": true
+      },
+      "ProfessionalPlanIcon.tsx": {
+        "isFile": true
+      },
+      "ProIcon.tsx": {
+        "isFile": true
+      },
+      "PropertyApartmentIcon.tsx": {
+        "isFile": true
+      },
+      "PropertyHotelIcon.tsx": {
+        "isFile": true
+      },
+      "RedClose.tsx": {
+        "isFile": true
+      },
+      "ReportIcon.tsx": {
+        "isFile": true
+      },
+      "ResendEmailIcon.tsx": {
+        "isFile": true
+      },
+      "RoomTypeIcon.tsx": {
+        "isFile": true
+      },
+      "RoomUnitsIcon.tsx": {
+        "isFile": true
+      },
+      "Sadness.tsx": {
+        "isFile": true
+      },
+      "SaveIcon.tsx": {
+        "isFile": true
+      },
+      "SearchIcon.tsx": {
+        "isFile": true
+      },
+      "SettingsIcon.tsx": {
+        "isFile": true
+      },
+      "SidebarIcon.tsx": {
+        "isFile": true
+      },
+      "SortIcon.tsx": {
+        "isFile": true
+      },
+      "SuccessCompletedIcon.tsx": {
+        "isFile": true
+      },
+      "SuccessIcon.tsx": {
+        "isFile": true
+      },
+      "SwitchIcon.tsx": {
+        "isFile": true
+      },
+      "TimeIcon.tsx": {
+        "isFile": true
+      },
+      "TimezoneIcon.tsx": {
+        "isFile": true
+      },
+      "UploadIcon.tsx": {
+        "isFile": true
+      },
+      "UserCheckIcon.tsx": {
+        "isFile": true
+      },
+      "UserIcon.tsx": {
+        "isFile": true
+      },
+      "VerifiedIcon.tsx": {
+        "isFile": true
+      },
+      "VerifyEmailIcon.tsx": {
+        "isFile": true
+      },
+      "XlsIcon.tsx": {
+        "isFile": true
+      }
+    },
+    "layout": {
+      "currentLess": 3,
+      "childrenLess": 0,
+      "totalLess": 3,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "layout.module.less": {
+        "isFile": true
+      },
+      "Layout.tsx": {
+        "isFile": true
+      },
+      "PageContainer.module.less": {
+        "isFile": true
+      },
+      "PageContainer.tsx": {
+        "isFile": true
+      },
+      "SecondaryMenu.module.less": {
+        "isFile": true
+      },
+      "SecondaryMenu.tsx": {
+        "isFile": true
+      },
+      "Sidebar.tsx": {
+        "isFile": true
+      }
+    },
+    "Link.tsx": {
+      "isFile": true
+    },
+    "loading": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "PageLoading.tsx": {
+        "isFile": true
+      }
+    },
+    "map": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "GoogleMap.tsx": {
+        "isFile": true
+      }
+    },
+    "Menu.tsx": {
+      "isFile": true
+    },
+    "navbar": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "Navbar.module.less": {
+        "isFile": true
+      },
+      "Navbar.tsx": {
+        "isFile": true
+      },
+      "navbarConfig.tsx": {
+        "isFile": true
+      }
+    },
+    "navigation": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "navigation.module.less": {
+        "isFile": true
+      },
+      "Navigation.tsx": {
+        "isFile": true
+      }
+    },
+    "navigations": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 3,
+      "yml": 0,
+      "AdminNav.tsx": {
+        "isFile": true
+      },
+      "InPageNav.tsx": {
+        "isFile": true
+      },
+      "propertyItems.ts": {
+        "isFile": true
+      },
+      "styled.ts": {
+        "isFile": true
+      },
+      "topLevelItems.ts": {
+        "isFile": true
+      }
+    },
+    "PageLayout.module.less": {
+      "isFile": true
+    },
+    "PageLayout.tsx": {
+      "isFile": true
+    },
+    "PageTitleWithBreadcrumb.tsx": {
+      "isFile": true
+    },
+    "PricePoint.module.less": {
+      "isFile": true
+    },
+    "PricePoint.tsx": {
+      "isFile": true
+    },
+    "stripe": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "CardElement.module.less": {
+        "isFile": true
+      },
+      "CardElement.tsx": {
+        "isFile": true
+      }
+    },
+    "tables": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "THead.tsx": {
+        "isFile": true
+      }
+    },
+    "WindowLayout.module.less": {
+      "isFile": true
+    },
+    "WindowLayout.tsx": {
+      "isFile": true
+    }
   },
   "config": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976765639,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700591586.6284,
-    "mtimeMs": 1613615953468.3928,
-    "ctimeMs": 1613615953468.3928,
-    "birthtimeMs": 1609222420630.403,
-    "atime": "2021-02-19T02:09:51.587Z",
-    "mtime": "2021-02-18T02:39:13.468Z",
-    "ctime": "2021-02-18T02:39:13.468Z",
-    "birthtime": "2020-12-29T06:13:40.630Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 2,
+    "sh": 0,
+    "json": 0,
+    "ts": 8,
+    "yml": 0,
+    "antdLessLoader.js": {
+      "isFile": true
+    },
+    "colors.ts": {
+      "isFile": true
+    },
+    "countryList.ts": {
+      "isFile": true
+    },
+    "facilities.ts": {
+      "isFile": true
+    },
+    "importBookingFields.ts": {
+      "isFile": true
+    },
+    "languageList.ts": {
+      "isFile": true
+    },
+    "mock": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 5,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "cli.js": {
+        "isFile": true
+      },
+      "config.js": {
+        "isFile": true
+      },
+      "generator.js": {
+        "isFile": true
+      },
+      "mock.js": {
+        "isFile": true
+      },
+      "util.js": {
+        "isFile": true
+      }
+    },
+    "nginx-prod": {
+      "isFile": true
+    },
+    "prod-td-agent-bit-parsers.conf": {
+      "isFile": true
+    },
+    "prod-td-agent-bit.conf": {
+      "isFile": true
+    },
+    "propertyStyles.test.ts": {
+      "isFile": true
+    },
+    "propertyStyles.ts": {
+      "isFile": true
+    },
+    "service-nextjs": {
+      "isFile": true
+    },
+    "service-td-agent-bit": {
+      "isFile": true
+    },
+    "setupFormily.ts": {
+      "isFile": true
+    },
+    "ssl": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "crt.pem": {
+        "isFile": true
+      },
+      "key.pem": {
+        "isFile": true
+      }
+    },
+    "svgLoader.js": {
+      "isFile": true
+    }
   },
   "containers": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976765755,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700591591.6287,
-    "mtimeMs": 1613615954696.3936,
-    "ctimeMs": 1613615954696.3936,
-    "birthtimeMs": 1609222420634.3923,
-    "atime": "2021-02-19T02:09:51.592Z",
-    "mtime": "2021-02-18T02:39:14.696Z",
-    "ctime": "2021-02-18T02:39:14.696Z",
-    "birthtime": "2020-12-29T06:13:40.634Z"
+    "currentLess": 0,
+    "childrenLess": 97,
+    "totalLess": 97,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "adminLayout": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "AdminLayout.module.less": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "styled.ts": {
+        "isFile": true
+      }
+    },
+    "checkin": {
+      "currentLess": 0,
+      "childrenLess": 3,
+      "totalLess": 3,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "archives": {
+        "currentLess": 3,
+        "childrenLess": 0,
+        "totalLess": 3,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "ExportArchiveData.module.less": {
+          "isFile": true
+        },
+        "ExportArchiveData.tsx": {
+          "isFile": true
+        },
+        "index.module.less": {
+          "isFile": true
+        },
+        "index.tsx": {
+          "isFile": true
+        },
+        "ListingDropdown.module.less": {
+          "isFile": true
+        },
+        "ListingDropdown.tsx": {
+          "isFile": true
+        }
+      }
+    },
+    "checkinManagement": {
+      "currentLess": 7,
+      "childrenLess": 19,
+      "totalLess": 26,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 2,
+      "yml": 0,
+      "addBooking": {
+        "currentLess": 2,
+        "childrenLess": 2,
+        "totalLess": 4,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "AddAdjustment.tsx": {
+          "isFile": true
+        },
+        "AddBookingDrawer.module.less": {
+          "isFile": true
+        },
+        "AddBookingDrawer.tsx": {
+          "isFile": true
+        },
+        "AddBookingStep.module.less": {
+          "isFile": true
+        },
+        "AddBookingStep.tsx": {
+          "isFile": true
+        },
+        "pages": {
+          "currentLess": 2,
+          "childrenLess": 0,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 1,
+          "yml": 0,
+          "AdditionalInfo.tsx": {
+            "isFile": true
+          },
+          "PickHotel.tsx": {
+            "isFile": true
+          },
+          "RatePlan.module.less": {
+            "isFile": true
+          },
+          "RatePlan.tsx": {
+            "isFile": true
+          },
+          "RequesterInfo.tsx": {
+            "isFile": true
+          },
+          "RoomGuest.module.less": {
+            "isFile": true
+          },
+          "RoomGuest.test.ts": {
+            "isFile": true
+          },
+          "RoomGuest.tsx": {
+            "isFile": true
+          }
+        }
+      },
+      "addOrder": {
+        "currentLess": 2,
+        "childrenLess": 2,
+        "totalLess": 4,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "AddAdjustment.tsx": {
+          "isFile": true
+        },
+        "AddBookingDrawer.module.less": {
+          "isFile": true
+        },
+        "AddBookingDrawer.tsx": {
+          "isFile": true
+        },
+        "AddBookingStep.module.less": {
+          "isFile": true
+        },
+        "AddBookingStep.tsx": {
+          "isFile": true
+        },
+        "pages": {
+          "currentLess": 2,
+          "childrenLess": 0,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 1,
+          "yml": 0,
+          "AdditionalInfo.tsx": {
+            "isFile": true
+          },
+          "PickHotel.tsx": {
+            "isFile": true
+          },
+          "RatePlan.module.less": {
+            "isFile": true
+          },
+          "RatePlan.tsx": {
+            "isFile": true
+          },
+          "RequesterInfo.tsx": {
+            "isFile": true
+          },
+          "RoomGuest.module.less": {
+            "isFile": true
+          },
+          "RoomGuest.test.ts": {
+            "isFile": true
+          },
+          "RoomGuest.tsx": {
+            "isFile": true
+          }
+        }
+      },
+      "BookingDetailInDrawer.module.less": {
+        "isFile": true
+      },
+      "BookingDetailInDrawer.test.ts": {
+        "isFile": true
+      },
+      "BookingDetailInDrawer.tsx": {
+        "isFile": true
+      },
+      "BookingExport.tsx": {
+        "isFile": true
+      },
+      "BookingSelector.module.less": {
+        "isFile": true
+      },
+      "BookingSelector.tsx": {
+        "isFile": true
+      },
+      "BookingTable.module.less": {
+        "isFile": true
+      },
+      "BookingTable.tsx": {
+        "isFile": true
+      },
+      "CheckInBookingIdContext.tsx": {
+        "isFile": true
+      },
+      "CheckinDrawer": {
+        "currentLess": 4,
+        "childrenLess": 0,
+        "totalLess": 4,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 1,
+        "yml": 0,
+        "checkin.ts": {
+          "isFile": true
+        },
+        "CheckinDrawer.module.less": {
+          "isFile": true
+        },
+        "CheckinForm.module.less": {
+          "isFile": true
+        },
+        "CheckinForm.tsx": {
+          "isFile": true
+        },
+        "index.tsx": {
+          "isFile": true
+        },
+        "passport.png": {
+          "isFile": true
+        },
+        "photo.png": {
+          "isFile": true
+        },
+        "Signatue.module.less": {
+          "isFile": true
+        },
+        "Signature.tsx": {
+          "isFile": true
+        },
+        "Upload.module.less": {
+          "isFile": true
+        },
+        "Upload.tsx": {
+          "isFile": true
+        }
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "invoice": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "InvoiceDetailContent.tsx": {
+          "isFile": true
+        },
+        "InvoiceDetailDrawer.tsx": {
+          "isFile": true
+        },
+        "InvoiceLineItemsTable.tsx": {
+          "isFile": true
+        },
+        "OrderAdjustmentTable.tsx": {
+          "isFile": true
+        },
+        "SplitPayment.tsx": {
+          "isFile": true
+        }
+      },
+      "LogsDrawer.module.less": {
+        "isFile": true
+      },
+      "LogsDrawer.tsx": {
+        "isFile": true
+      },
+      "MessageDrawer.module.less": {
+        "isFile": true
+      },
+      "MessageDrawer.test.ts": {
+        "isFile": true
+      },
+      "MessageDrawer.tsx": {
+        "isFile": true
+      },
+      "payment": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "PaymentDetailDrawer.tsx": {
+          "isFile": true
+        },
+        "RefundModal.tsx": {
+          "isFile": true
+        }
+      },
+      "PinCodeDrawer.module.less": {
+        "isFile": true
+      },
+      "PinCodeDrawer.tsx": {
+        "isFile": true
+      },
+      "RangeFilter.tsx": {
+        "isFile": true
+      },
+      "RoomInfoDrawer.module.less": {
+        "isFile": true
+      },
+      "RoomInfoDrawer.tsx": {
+        "isFile": true
+      },
+      "RoomUnitSelector.tsx": {
+        "isFile": true
+      },
+      "transaction": {
+        "currentLess": 7,
+        "childrenLess": 0,
+        "totalLess": 7,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "AddTransaction.module.less": {
+          "isFile": true
+        },
+        "AddTransaction.tsx": {
+          "isFile": true
+        },
+        "ArrangePaymentDrawer.module.less": {
+          "isFile": true
+        },
+        "ArrangePaymentDrawer.tsx": {
+          "isFile": true
+        },
+        "Icon": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "invoice_item.png": {
+            "isFile": true
+          },
+          "payment.png": {
+            "isFile": true
+          },
+          "refund.png": {
+            "isFile": true
+          }
+        },
+        "PayDrawer.module.less": {
+          "isFile": true
+        },
+        "PayDrawer.tsx": {
+          "isFile": true
+        },
+        "PrintTransaction.module.less": {
+          "isFile": true
+        },
+        "PrintTransaction.tsx": {
+          "isFile": true
+        },
+        "RecordPayment.module.less": {
+          "isFile": true
+        },
+        "RecordPayment.tsx": {
+          "isFile": true
+        },
+        "TransactionDetail.module.less": {
+          "isFile": true
+        },
+        "TransactionDetail.tsx": {
+          "isFile": true
+        },
+        "TransactionList.tsx": {
+          "isFile": true
+        },
+        "TransactionStep.tsx": {
+          "isFile": true
+        },
+        "TransactionTable.module.less": {
+          "isFile": true
+        },
+        "TransactionTable.tsx": {
+          "isFile": true
+        }
+      }
+    },
+    "confirmation": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.module.less": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "forgotPassword": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "guests": {
+      "currentLess": 1,
+      "childrenLess": 1,
+      "totalLess": 2,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "detail": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "Aside.tsx": {
+          "isFile": true
+        },
+        "Breadcrumb.tsx": {
+          "isFile": true
+        },
+        "detail.module.less": {
+          "isFile": true
+        }
+      },
+      "guestlist.module.less": {
+        "isFile": true
+      }
+    },
+    "houses": {
+      "currentLess": 2,
+      "childrenLess": 12,
+      "totalLess": 14,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "checkin": {
+        "currentLess": 2,
+        "childrenLess": 9,
+        "totalLess": 11,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "BorderedForm.module.less": {
+          "isFile": true
+        },
+        "CheckinLayout.tsx": {
+          "isFile": true
+        },
+        "guestInformation": {
+          "currentLess": 1,
+          "childrenLess": 1,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "GuestInformation.module.less": {
+            "isFile": true
+          },
+          "GuestInformation.tsx": {
+            "isFile": true
+          },
+          "previews": {
+            "currentLess": 1,
+            "childrenLess": 0,
+            "totalLess": 1,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "GuestInformationPreview.module.less": {
+              "isFile": true
+            },
+            "GuestInformationPreview.tsx": {
+              "isFile": true
+            }
+          }
+        },
+        "hotelSettings": {
+          "currentLess": 0,
+          "childrenLess": 1,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "HotelSettings.tsx": {
+            "isFile": true
+          },
+          "previews": {
+            "currentLess": 1,
+            "childrenLess": 0,
+            "totalLess": 1,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "HotelSettingsPreview.module.less": {
+              "isFile": true
+            },
+            "HotelSettingsPreview.tsx": {
+              "isFile": true
+            }
+          }
+        },
+        "iPhone12Pro.png": {
+          "isFile": true
+        },
+        "layout": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "HouseCheckinSettingsLayout.tsx": {
+            "isFile": true
+          },
+          "SettingsWithPreviewLayout.module.less": {
+            "isFile": true
+          },
+          "SettingsWithPreviewLayout.tsx": {
+            "isFile": true
+          }
+        },
+        "paymentCollections": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "PaymentCollections.module.less": {
+            "isFile": true
+          },
+          "PaymentCollections.tsx": {
+            "isFile": true
+          },
+          "SecurityDepositSettings.tsx": {
+            "isFile": true
+          }
+        },
+        "Preview.module.less": {
+          "isFile": true
+        },
+        "Preview.tsx": {
+          "isFile": true
+        },
+        "roomKeyConfiguration": {
+          "currentLess": 1,
+          "childrenLess": 1,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "previews": {
+            "currentLess": 1,
+            "childrenLess": 0,
+            "totalLess": 1,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "RoomKeyConfigurationPreview.module.less": {
+              "isFile": true
+            },
+            "RoomKeyConfigurationPreview.tsx": {
+              "isFile": true
+            }
+          },
+          "RoomKeyConfiguration.module.less": {
+            "isFile": true
+          },
+          "RoomKeyConfiguration.tsx": {
+            "isFile": true
+          }
+        },
+        "verificationSteps": {
+          "currentLess": 1,
+          "childrenLess": 1,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "previews": {
+            "currentLess": 1,
+            "childrenLess": 0,
+            "totalLess": 1,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "map.jpg": {
+              "isFile": true
+            },
+            "VerificationStepsPreview.module.less": {
+              "isFile": true
+            },
+            "VerificationStepsPreview.tsx": {
+              "isFile": true
+            }
+          },
+          "VerificationSteps.module.less": {
+            "isFile": true
+          },
+          "VerificationSteps.tsx": {
+            "isFile": true
+          }
+        }
+      },
+      "components": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 1,
+        "yml": 0,
+        "houseCard.module.less": {
+          "isFile": true
+        },
+        "HouseCard.test.ts": {
+          "isFile": true
+        },
+        "HouseCard.tsx": {
+          "isFile": true
+        },
+        "HouseLogo.tsx": {
+          "isFile": true
+        },
+        "HouseSidebar.tsx": {
+          "isFile": true
+        },
+        "HouseStatus.tsx": {
+          "isFile": true
+        },
+        "HouseUnlistModal.tsx": {
+          "isFile": true
+        },
+        "PropertySelect.tsx": {
+          "isFile": true
+        }
+      },
+      "FormItem.tsx": {
+        "isFile": true
+      },
+      "HouseClient": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 1,
+        "yml": 0,
+        "AddClientModal.tsx": {
+          "isFile": true
+        },
+        "HouseClient.tsx": {
+          "isFile": true
+        },
+        "HouseClientEdit.test.ts": {
+          "isFile": true
+        },
+        "HouseClientEdit.tsx": {
+          "isFile": true
+        },
+        "HouseClientView.tsx": {
+          "isFile": true
+        }
+      },
+      "HouseDescriptions": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 1,
+        "yml": 0,
+        "DescriptionItem.tsx": {
+          "isFile": true
+        },
+        "HouseDescription.tsx": {
+          "isFile": true
+        },
+        "HouseDescriptionEdit.test.ts": {
+          "isFile": true
+        },
+        "HouseDescriptionEdit.tsx": {
+          "isFile": true
+        },
+        "HouseDescriptionView.tsx": {
+          "isFile": true
+        }
+      },
+      "HouseDropdown.tsx": {
+        "isFile": true
+      },
+      "HouseFacilities": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "HouseFacilities.tsx": {
+          "isFile": true
+        },
+        "HouseFacilitiesEdit.tsx": {
+          "isFile": true
+        },
+        "HouseFacilitiesView.tsx": {
+          "isFile": true
+        }
+      },
+      "HouseList.module.less": {
+        "isFile": true
+      },
+      "HouseList.tsx": {
+        "isFile": true
+      },
+      "houseSection.module.less": {
+        "isFile": true
+      },
+      "HouseSection.tsx": {
+        "isFile": true
+      },
+      "HouseSettings": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "HouseSettingsEdit.tsx": {
+          "isFile": true
+        },
+        "HouseSettingsView.tsx": {
+          "isFile": true
+        }
+      },
+      "HouseSettings.tsx": {
+        "isFile": true
+      },
+      "mockHouseResponse.ts": {
+        "isFile": true
+      }
+    },
+    "importBooking": {
+      "currentLess": 2,
+      "childrenLess": 0,
+      "totalLess": 2,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 5,
+      "yml": 0,
+      "ApplyStep.test.ts": {
+        "isFile": true
+      },
+      "ApplyStep.tsx": {
+        "isFile": true
+      },
+      "FinishStep.tsx": {
+        "isFile": true
+      },
+      "importFooter.test.ts": {
+        "isFile": true
+      },
+      "importFooter.ts": {
+        "isFile": true
+      },
+      "MappingField.module.less": {
+        "isFile": true
+      },
+      "MappingField.tsx": {
+        "isFile": true
+      },
+      "mappingList.ts": {
+        "isFile": true
+      },
+      "MappingStep.module.less": {
+        "isFile": true
+      },
+      "MappingStep.tsx": {
+        "isFile": true
+      },
+      "sampleData.ts": {
+        "isFile": true
+      },
+      "UploadStep.tsx": {
+        "isFile": true
+      }
+    },
+    "importHistory": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "FilterBar.tsx": {
+        "isFile": true
+      },
+      "ImportHistory.module.less": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "invoices": {
+      "currentLess": 2,
+      "childrenLess": 0,
+      "totalLess": 2,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.module.less": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "InvoiceDetail.module.less": {
+        "isFile": true
+      },
+      "InvoiceDetail.tsx": {
+        "isFile": true
+      }
+    },
+    "pms": {
+      "currentLess": 0,
+      "childrenLess": 25,
+      "totalLess": 25,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "checkinManagement": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "CheckinManagementPageNewLayout.module.less": {
+          "isFile": true
+        },
+        "CheckinManagementPageNewLayout.tsx": {
+          "isFile": true
+        }
+      },
+      "dashboard": {
+        "currentLess": 4,
+        "childrenLess": 0,
+        "totalLess": 4,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "Dashboard.module.less": {
+          "isFile": true
+        },
+        "Dashboard.tsx": {
+          "isFile": true
+        },
+        "DashboardItem.module.less": {
+          "isFile": true
+        },
+        "DashboardItem.tsx": {
+          "isFile": true
+        },
+        "OnboardingWizard.module.less": {
+          "isFile": true
+        },
+        "OnboardingWizard.tsx": {
+          "isFile": true
+        },
+        "VerifyEmail.module.less": {
+          "isFile": true
+        },
+        "VerifyEmail.tsx": {
+          "isFile": true
+        }
+      },
+      "houses": {
+        "currentLess": 2,
+        "childrenLess": 4,
+        "totalLess": 6,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "AddRoomTypeDrawer.module.less": {
+          "isFile": true
+        },
+        "AddRoomTypeDrawer.tsx": {
+          "isFile": true
+        },
+        "createHouse": {
+          "currentLess": 2,
+          "childrenLess": 0,
+          "totalLess": 2,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "CreateHouse.module.less": {
+            "isFile": true
+          },
+          "CreateHouseProgress.module.less": {
+            "isFile": true
+          },
+          "CreateHouseProgress.tsx": {
+            "isFile": true
+          },
+          "HouseBasicInfo.tsx": {
+            "isFile": true
+          },
+          "index.tsx": {
+            "isFile": true
+          }
+        },
+        "detail": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 1,
+          "yml": 0,
+          "HouseDetail.module.less": {
+            "isFile": true
+          },
+          "HouseDetail.tsx": {
+            "isFile": true
+          },
+          "styled.ts": {
+            "isFile": true
+          }
+        },
+        "edit": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "HouseBasicInfo.tsx": {
+            "isFile": true
+          },
+          "HouseEditPage.module.less": {
+            "isFile": true
+          },
+          "HouseEditPage.tsx": {
+            "isFile": true
+          }
+        },
+        "RoomTypeList.module.less": {
+          "isFile": true
+        },
+        "RoomTypeList.tsx": {
+          "isFile": true
+        },
+        "RoomTypePage.tsx": {
+          "isFile": true
+        }
+      },
+      "importBooking": {
+        "currentLess": 4,
+        "childrenLess": 1,
+        "totalLess": 5,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 2,
+        "yml": 0,
+        "ApplyStep.tsx": {
+          "isFile": true
+        },
+        "FinishStep.tsx": {
+          "isFile": true
+        },
+        "ImportBook.tsx": {
+          "isFile": true
+        },
+        "ImportFooter.tsx": {
+          "isFile": true
+        },
+        "ImportHooks.ts": {
+          "isFile": true
+        },
+        "ImportStep.ts": {
+          "isFile": true
+        },
+        "index.module.less": {
+          "isFile": true
+        },
+        "index.tsx": {
+          "isFile": true
+        },
+        "MappingField": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "DateFormat.tsx": {
+            "isFile": true
+          },
+          "EnumField.tsx": {
+            "isFile": true
+          },
+          "Header.tsx": {
+            "isFile": true
+          },
+          "index.tsx": {
+            "isFile": true
+          },
+          "MapField.tsx": {
+            "isFile": true
+          },
+          "MappingField.module.less": {
+            "isFile": true
+          }
+        },
+        "MappingModal.module.less": {
+          "isFile": true
+        },
+        "MappingModal.tsx": {
+          "isFile": true
+        },
+        "MappingStep.module.less": {
+          "isFile": true
+        },
+        "MappingStep.tsx": {
+          "isFile": true
+        },
+        "UploadStep.module.less": {
+          "isFile": true
+        },
+        "UploadStep.tsx": {
+          "isFile": true
+        }
+      },
+      "layout": {
+        "currentLess": 3,
+        "childrenLess": 0,
+        "totalLess": 3,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 1,
+        "yml": 0,
+        "HouseDropMenuItem.tsx": {
+          "isFile": true
+        },
+        "HouseSwitcher.module.less": {
+          "isFile": true
+        },
+        "HouseSwitcher.tsx": {
+          "isFile": true
+        },
+        "PmsLayout.module.less": {
+          "isFile": true
+        },
+        "PmsLayout.tsx": {
+          "isFile": true
+        },
+        "styled.ts": {
+          "isFile": true
+        },
+        "ThemableTable.module.less": {
+          "isFile": true
+        },
+        "ThemableTable.tsx": {
+          "isFile": true
+        }
+      },
+      "settings": {
+        "currentLess": 0,
+        "childrenLess": 6,
+        "totalLess": 6,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "account": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 1,
+          "yml": 0,
+          "Account.module.less": {
+            "isFile": true
+          },
+          "EditAccount.tsx": {
+            "isFile": true
+          },
+          "useAccount.ts": {
+            "isFile": true
+          },
+          "UserAccount.tsx": {
+            "isFile": true
+          }
+        },
+        "autoMessage": {
+          "currentLess": 4,
+          "childrenLess": 0,
+          "totalLess": 4,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 1,
+          "yml": 0,
+          "AutoMessage.module.less": {
+            "isFile": true
+          },
+          "AutoMessage.tsx": {
+            "isFile": true
+          },
+          "AutoMessageEdit.tsx": {
+            "isFile": true
+          },
+          "AutoMessageEditDrawer.module.less": {
+            "isFile": true
+          },
+          "AutoMessageEditDrawer.tsx": {
+            "isFile": true
+          },
+          "AutoMessageIcon.module.less": {
+            "isFile": true
+          },
+          "AutoMessageIcon.tsx": {
+            "isFile": true
+          },
+          "AutoMessageItemInList.tsx": {
+            "isFile": true
+          },
+          "autoMessageTimeline.ts": {
+            "isFile": true
+          },
+          "ExtraMemoHint.module.less": {
+            "isFile": true
+          },
+          "ExtraMemoHint.tsx": {
+            "isFile": true
+          },
+          "HouseAutoMessage.tsx": {
+            "isFile": true
+          }
+        },
+        "houseInformation": {
+          "currentLess": 1,
+          "childrenLess": 0,
+          "totalLess": 1,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "HouseInformations.module.less": {
+            "isFile": true
+          },
+          "HouseInformations.tsx": {
+            "isFile": true
+          },
+          "IconMaps.tsx": {
+            "isFile": true
+          },
+          "InformationForm.tsx": {
+            "isFile": true
+          },
+          "Preview.tsx": {
+            "isFile": true
+          }
+        }
+      }
+    },
+    "profile": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "EditProfile.tsx": {
+        "isFile": true
+      },
+      "ModifyPassword.tsx": {
+        "isFile": true
+      },
+      "Profile.module.less": {
+        "isFile": true
+      },
+      "UserNameField.tsx": {
+        "isFile": true
+      },
+      "useUser.ts": {
+        "isFile": true
+      }
+    },
+    "resetPassword": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "Sales": {
+      "currentLess": 1,
+      "childrenLess": 4,
+      "totalLess": 5,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 2,
+      "yml": 0,
+      "Breadcrumb": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "Breadcrumb.module.less": {
+          "isFile": true
+        },
+        "Breadcrumb.tsx": {
+          "isFile": true
+        }
+      },
+      "FilterBar": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "FilterBar.module.less": {
+          "isFile": true
+        },
+        "FilterBar.tsx": {
+          "isFile": true
+        }
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "PerCountry": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "PerCountry.tsx": {
+          "isFile": true
+        }
+      },
+      "PerOTAData": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "PerOTAData.tsx": {
+          "isFile": true
+        }
+      },
+      "PerPeriodData": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "PerPeriodData.tsx": {
+          "isFile": true
+        }
+      },
+      "PerRoomTypeData": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "PerRoomTypeData.tsx": {
+          "isFile": true
+        }
+      },
+      "sales.less": {
+        "isFile": true
+      },
+      "Sales.ts": {
+        "isFile": true
+      },
+      "SalesDetail": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "SalesDetail.tsx": {
+          "isFile": true
+        }
+      },
+      "Tooltip": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "Tooltip.module.less": {
+          "isFile": true
+        },
+        "Tooltip.tsx": {
+          "isFile": true
+        }
+      },
+      "TotalSales": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "TotalSales.tsx": {
+          "isFile": true
+        }
+      },
+      "TotalSummary": {
+        "currentLess": 1,
+        "childrenLess": 0,
+        "totalLess": 1,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "TotalSummary.module.less": {
+          "isFile": true
+        },
+        "TotalSummary.tsx": {
+          "isFile": true
+        }
+      },
+      "useRequest.ts": {
+        "isFile": true
+      }
+    },
+    "sampleLayout": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "SampleAdminLayout.tsx": {
+        "isFile": true
+      },
+      "SampleLayoutPage.tsx": {
+        "isFile": true
+      }
+    },
+    "signin": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      },
+      "signin.ts": {
+        "isFile": true
+      }
+    },
+    "signup": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "images": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "slide-1.png": {
+          "isFile": true
+        },
+        "slide-2.png": {
+          "isFile": true
+        },
+        "slide-3.png": {
+          "isFile": true
+        }
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "Steps": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "AccountInfo.tsx": {
+          "isFile": true
+        },
+        "BasicInfo.tsx": {
+          "isFile": true
+        },
+        "Completed.tsx": {
+          "isFile": true
+        }
+      },
+      "Swiper.tsx": {
+        "isFile": true
+      }
+    },
+    "subscription": {
+      "currentLess": 4,
+      "childrenLess": 0,
+      "totalLess": 4,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "compare.module.less": {
+        "isFile": true
+      },
+      "compare.tsx": {
+        "isFile": true
+      },
+      "currentSubscription.tsx": {
+        "isFile": true
+      },
+      "index.module.less": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "payment.module.less": {
+        "isFile": true
+      },
+      "payment.tsx": {
+        "isFile": true
+      },
+      "updateSubscription.module.less": {
+        "isFile": true
+      },
+      "updateSubscription.tsx": {
+        "isFile": true
+      },
+      "useSubscription.ts": {
+        "isFile": true
+      }
+    },
+    "userProfile": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "UserProfile.tsx": {
+        "isFile": true
+      }
+    },
+    "users": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "AddUsers.tsx": {
+        "isFile": true
+      },
+      "EditUserDrawer.tsx": {
+        "isFile": true
+      },
+      "UserList.tsx": {
+        "isFile": true
+      },
+      "Users.module.less": {
+        "isFile": true
+      }
+    },
+    "videos": {
+      "currentLess": 9,
+      "childrenLess": 0,
+      "totalLess": 9,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "bookingInfo.module.less": {
+        "isFile": true
+      },
+      "bookingInfo.tsx": {
+        "isFile": true
+      },
+      "bookingSummary.module.less": {
+        "isFile": true
+      },
+      "bookingSummary.tsx": {
+        "isFile": true
+      },
+      "comments.module.less": {
+        "isFile": true
+      },
+      "comments.tsx": {
+        "isFile": true
+      },
+      "demo.ts": {
+        "isFile": true
+      },
+      "guest.module.less": {
+        "isFile": true
+      },
+      "guest.tsx": {
+        "isFile": true
+      },
+      "guestInfo.module.less": {
+        "isFile": true
+      },
+      "guestInfo.tsx": {
+        "isFile": true
+      },
+      "header.module.less": {
+        "isFile": true
+      },
+      "header.tsx": {
+        "isFile": true
+      },
+      "images": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "photo.png": {
+          "isFile": true
+        },
+        "video.png": {
+          "isFile": true
+        }
+      },
+      "videoInfo.module.less": {
+        "isFile": true
+      },
+      "videoInfo.tsx": {
+        "isFile": true
+      },
+      "videoList.module.less": {
+        "isFile": true
+      },
+      "videoList.tsx": {
+        "isFile": true
+      },
+      "videosManagement.module.less": {
+        "isFile": true
+      },
+      "videosManagement.tsx": {
+        "isFile": true
+      }
+    }
   },
   "contexts": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 844424930141065,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591591.6287,
-    "mtimeMs": 1613657345895.4912,
-    "ctimeMs": 1613657345895.4912,
-    "birthtimeMs": 1613657345895.4912,
-    "atime": "2021-02-19T02:09:51.592Z",
-    "mtime": "2021-02-18T14:09:05.895Z",
-    "ctime": "2021-02-18T14:09:05.895Z",
-    "birthtime": "2021-02-18T14:09:05.895Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "NavContext.tsx": {
+      "isFile": true
+    }
   },
   "Dockerfile": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421904,
-    "size": 843,
-    "blocks": 8,
-    "atimeMs": 1613698054352.6504,
-    "mtimeMs": 1609222420598.4893,
-    "ctimeMs": 1609222420598.4893,
-    "birthtimeMs": 1609222420598.4893,
-    "atime": "2021-02-19T01:27:34.353Z",
-    "mtime": "2020-12-29T06:13:40.598Z",
-    "ctime": "2020-12-29T06:13:40.598Z",
-    "birthtime": "2020-12-29T06:13:40.598Z"
+    "isFile": true
   },
   "Dockerfile-base-image": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421905,
-    "size": 2638,
-    "blocks": 8,
-    "atimeMs": 1613698054351.6504,
-    "mtimeMs": 1609222420598.4893,
-    "ctimeMs": 1609222420598.4893,
-    "birthtimeMs": 1609222420598.4893,
-    "atime": "2021-02-19T01:27:34.352Z",
-    "mtime": "2020-12-29T06:13:40.598Z",
-    "ctime": "2020-12-29T06:13:40.598Z",
-    "birthtime": "2020-12-29T06:13:40.598Z"
+    "isFile": true
   },
   "Dockerfile-stage": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421906,
-    "size": 1172,
-    "blocks": 8,
-    "atimeMs": 1613698054342.6514,
-    "mtimeMs": 1613463538067.5964,
-    "ctimeMs": 1613463538067.5964,
-    "birthtimeMs": 1613463538067.5964,
-    "atime": "2021-02-19T01:27:34.343Z",
-    "mtime": "2021-02-16T08:18:58.068Z",
-    "ctime": "2021-02-16T08:18:58.068Z",
-    "birthtime": "2021-02-16T08:18:58.068Z"
+    "isFile": true
   },
   "i18n.d.ts": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421907,
-    "size": 503,
-    "blocks": 0,
-    "atimeMs": 1613698227056.3362,
-    "mtimeMs": 1609222420703.401,
-    "ctimeMs": 1609222420703.401,
-    "birthtimeMs": 1609222420703.401,
-    "atime": "2021-02-19T01:30:27.056Z",
-    "mtime": "2020-12-29T06:13:40.703Z",
-    "ctime": "2020-12-29T06:13:40.703Z",
-    "birthtime": "2020-12-29T06:13:40.703Z"
+    "isFile": true
   },
   "i18n.js": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421908,
-    "size": 422,
-    "blocks": 0,
-    "atimeMs": 1613698204229.1538,
-    "mtimeMs": 1609738701737.4373,
-    "ctimeMs": 1609738701737.4373,
-    "birthtimeMs": 1609738701737.4373,
-    "atime": "2021-02-19T01:30:04.229Z",
-    "mtime": "2021-01-04T05:38:21.737Z",
-    "ctime": "2021-01-04T05:38:21.737Z",
-    "birthtime": "2021-01-04T05:38:21.737Z"
+    "isFile": true
   },
   "images": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976768064,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591591.6287,
-    "mtimeMs": 1613615954763.3938,
-    "ctimeMs": 1613615954763.3938,
-    "birthtimeMs": 1609222420703.401,
-    "atime": "2021-02-19T02:09:51.592Z",
-    "mtime": "2021-02-18T02:39:14.763Z",
-    "ctime": "2021-02-18T02:39:14.763Z",
-    "birthtime": "2020-12-29T06:13:40.703Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "logo.png": {
+      "isFile": true
+    }
   },
   "layouts": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976768077,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591591.6287,
-    "mtimeMs": 1613615954784.394,
-    "ctimeMs": 1613615954784.394,
-    "birthtimeMs": 1609222420703.401,
-    "atime": "2021-02-19T02:09:51.592Z",
-    "mtime": "2021-02-18T02:39:14.784Z",
-    "ctime": "2021-02-18T02:39:14.784Z",
-    "birthtime": "2020-12-29T06:13:40.703Z"
+    "currentLess": 0,
+    "childrenLess": 1,
+    "totalLess": 1,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "EmptyLayout.tsx": {
+      "isFile": true
+    },
+    "PageTitle.tsx": {
+      "isFile": true
+    },
+    "ProfileLayout.tsx": {
+      "isFile": true
+    },
+    "SecondaryLayout.tsx": {
+      "isFile": true
+    },
+    "StartLayout": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "FormTitle.tsx": {
+        "isFile": true
+      },
+      "FormWrapper.ts": {
+        "isFile": true
+      },
+      "images": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "signin.png": {
+          "isFile": true
+        },
+        "signup.png": {
+          "isFile": true
+        }
+      },
+      "index.tsx": {
+        "isFile": true
+      },
+      "Left.tsx": {
+        "isFile": true
+      },
+      "StartHeader.module.less": {
+        "isFile": true
+      },
+      "StartHeader.tsx": {
+        "isFile": true
+      }
+    },
+    "WithHead.tsx": {
+      "isFile": true
+    }
   },
   "main": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421909,
-    "size": 14038395,
-    "blocks": 27424,
-    "atimeMs": 1613698054341.6504,
-    "mtimeMs": 1609222420791.166,
-    "ctimeMs": 1609222420791.166,
-    "birthtimeMs": 1609222420787.1765,
-    "atime": "2021-02-19T01:27:34.342Z",
-    "mtime": "2020-12-29T06:13:40.791Z",
-    "ctime": "2020-12-29T06:13:40.791Z",
-    "birthtime": "2020-12-29T06:13:40.787Z"
+    "isFile": true
   },
   "mocks": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976768158,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591592.6284,
-    "mtimeMs": 1613615954833.3938,
-    "ctimeMs": 1613615954833.3938,
-    "birthtimeMs": 1609222420792.1633,
-    "atime": "2021-02-19T02:09:51.593Z",
-    "mtime": "2021-02-18T02:39:14.833Z",
-    "ctime": "2021-02-18T02:39:14.833Z",
-    "birthtime": "2020-12-29T06:13:40.792Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "jsonStyle": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 2,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "guests.js": {
+        "isFile": true
+      },
+      "table_sort.js": {
+        "isFile": true
+      }
+    },
+    "yamlStyle": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "billings": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "billings.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 2,
+          "ts": 0,
+          "yml": 0,
+          "billings-detail-get.json": {
+            "isFile": true
+          },
+          "billings-get.json": {
+            "isFile": true
+          }
+        }
+      },
+      "bookings": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "bookings.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 5,
+          "ts": 0,
+          "yml": 0,
+          "booking_imports.json": {
+            "isFile": true
+          },
+          "comments.json": {
+            "isFile": true
+          },
+          "createComment.json": {
+            "isFile": true
+          },
+          "export.json": {
+            "isFile": true
+          },
+          "overlapped_count.json": {
+            "isFile": true
+          }
+        }
+      },
+      "boookingImport": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "checkin.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 7,
+          "ts": 0,
+          "yml": 0,
+          "booking_imports-post.json": {
+            "isFile": true
+          },
+          "booking_import_template-delete.json": {
+            "isFile": true
+          },
+          "booking_import_template-get.json": {
+            "isFile": true
+          },
+          "booking_import_templates-get.json": {
+            "isFile": true
+          },
+          "booking_import_templates-post.json": {
+            "isFile": true
+          },
+          "booking_import_templates-put.json": {
+            "isFile": true
+          },
+          "upload-post.json": {
+            "isFile": true
+          }
+        }
+      },
+      "checkin": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "checkin.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 12,
+          "ts": 0,
+          "yml": 0,
+          "attachments-post.json": {
+            "isFile": true
+          },
+          "booking.json": {
+            "isFile": true
+          },
+          "bookings.json": {
+            "isFile": true
+          },
+          "guests-delete.json": {
+            "isFile": true
+          },
+          "guests-get.json": {
+            "isFile": true
+          },
+          "guests-patch.json": {
+            "isFile": true
+          },
+          "guests-post.json": {
+            "isFile": true
+          },
+          "house-settings.json": {
+            "isFile": true
+          },
+          "houses-get.json": {
+            "isFile": true
+          },
+          "houses.json": {
+            "isFile": true
+          },
+          "linkedBooking.json": {
+            "isFile": true
+          },
+          "transactions.json": {
+            "isFile": true
+          }
+        }
+      },
+      "configuration": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "configuration.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "configuration.json": {
+            "isFile": true
+          }
+        }
+      },
+      "guests": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "detail.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 4,
+          "ts": 0,
+          "yml": 0,
+          "guest-get.json": {
+            "isFile": true
+          },
+          "guests-get.json": {
+            "isFile": true
+          },
+          "guests-patch.json": {
+            "isFile": true
+          },
+          "guests_order-get.json": {
+            "isFile": true
+          }
+        }
+      },
+      "house": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "channel.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "channel_sources.json": {
+            "isFile": true
+          }
+        }
+      },
+      "houses": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "houses.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 26,
+          "ts": 0,
+          "yml": 0,
+          "addresses-get.json": {
+            "isFile": true
+          },
+          "addresses-put.json": {
+            "isFile": true
+          },
+          "advanced-create.json": {
+            "isFile": true
+          },
+          "checkin-house-details.json": {
+            "isFile": true
+          },
+          "checkin-settings.json": {
+            "isFile": true
+          },
+          "clients-get.json": {
+            "isFile": true
+          },
+          "clients-put.json": {
+            "isFile": true
+          },
+          "currencies-get.json": {
+            "isFile": true
+          },
+          "currencies-put.json": {
+            "isFile": true
+          },
+          "descriptions-get.json": {
+            "isFile": true
+          },
+          "descriptions-put.json": {
+            "isFile": true
+          },
+          "facilities-get.json": {
+            "isFile": true
+          },
+          "facilities-put.json": {
+            "isFile": true
+          },
+          "house-detail-put.json": {
+            "isFile": true
+          },
+          "house-message.json": {
+            "isFile": true
+          },
+          "houses-get.json": {
+            "isFile": true
+          },
+          "houses-roomTypes-get.json": {
+            "isFile": true
+          },
+          "rooms_simple-get.json": {
+            "isFile": true
+          },
+          "settings-get.json": {
+            "isFile": true
+          },
+          "settings-put.json": {
+            "isFile": true
+          },
+          "settings_clients-get.json": {
+            "isFile": true
+          },
+          "simple-get.json": {
+            "isFile": true
+          },
+          "statuses-get.json": {
+            "isFile": true
+          },
+          "statuses-put.json": {
+            "isFile": true
+          },
+          "summaries-get.json": {
+            "isFile": true
+          },
+          "summaries-put.json": {
+            "isFile": true
+          }
+        }
+      },
+      "invoices": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "invoices.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "invoice-detail.json": {
+            "isFile": true
+          }
+        }
+      },
+      "iotAccesses": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "iotAccesses.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 3,
+          "ts": 0,
+          "yml": 0,
+          "iot_accesses-delete.json": {
+            "isFile": true
+          },
+          "iot_accesses-put.json": {
+            "isFile": true
+          },
+          "iot_accesses_revoke-post.json": {
+            "isFile": true
+          }
+        }
+      },
+      "me": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "me.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "me.json": {
+            "isFile": true
+          }
+        }
+      },
+      "navbar": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "navbar.json": {
+            "isFile": true
+          }
+        },
+        "navbar.yml": {
+          "isFile": true
+        }
+      },
+      "order": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 4,
+          "ts": 0,
+          "yml": 0,
+          "hotel-product-order.json": {
+            "isFile": true
+          },
+          "payment.json": {
+            "isFile": true
+          },
+          "room-order.json": {
+            "isFile": true
+          },
+          "split-order.json": {
+            "isFile": true
+          }
+        },
+        "order.yml": {
+          "isFile": true
+        }
+      },
+      "payment": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 4,
+          "ts": 0,
+          "yml": 0,
+          "delete-payment-detail.json": {
+            "isFile": true
+          },
+          "payment-detail.json": {
+            "isFile": true
+          },
+          "refund.json": {
+            "isFile": true
+          },
+          "update-payment-detail.json": {
+            "isFile": true
+          }
+        },
+        "payment.yml": {
+          "isFile": true
+        }
+      },
+      "pms": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 6,
+        "account.yml": {
+          "isFile": true
+        },
+        "autoMessages.yml": {
+          "isFile": true
+        },
+        "bookings.yml": {
+          "isFile": true
+        },
+        "checkinSettings.yml": {
+          "isFile": true
+        },
+        "houses.yml": {
+          "isFile": true
+        },
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 14,
+          "ts": 0,
+          "yml": 0,
+          "account-detail-get.json": {
+            "isFile": true
+          },
+          "auto-message-detail-before-checkin-get.json": {
+            "isFile": true
+          },
+          "auto-message-detail-get.json": {
+            "isFile": true
+          },
+          "auto-message-get.json": {
+            "isFile": true
+          },
+          "bookings-post.json": {
+            "isFile": true
+          },
+          "checkin-settings-security-deposit-get.json": {
+            "isFile": true
+          },
+          "checkin-settings-security-deposit-put.json": {
+            "isFile": true
+          },
+          "house-auto-message-detail-get.json": {
+            "isFile": true
+          },
+          "house-auto-message-get.json": {
+            "isFile": true
+          },
+          "houses-detail-get.json": {
+            "isFile": true
+          },
+          "houses-room-types-delete.json": {
+            "isFile": true
+          },
+          "houses-room-types-get.json": {
+            "isFile": true
+          },
+          "houses-room-types-post.json": {
+            "isFile": true
+          },
+          "preflights-get.json": {
+            "isFile": true
+          }
+        },
+        "settings.yml": {
+          "isFile": true
+        }
+      },
+      "products": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 2,
+          "ts": 0,
+          "yml": 0,
+          "products.json": {
+            "isFile": true
+          },
+          "ratePlans.json": {
+            "isFile": true
+          }
+        },
+        "product.yml": {
+          "isFile": true
+        }
+      },
+      "report-sales": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 11,
+          "ts": 0,
+          "yml": 0,
+          "clients-get.json": {
+            "isFile": true
+          },
+          "listings-get.json": {
+            "isFile": true
+          },
+          "period_fee_type-get.json": {
+            "isFile": true
+          },
+          "period_ota_data-get.json": {
+            "isFile": true
+          },
+          "per_country-get.json": {
+            "isFile": true
+          },
+          "per_fee_type-get.json": {
+            "isFile": true
+          },
+          "per_ota-get.json": {
+            "isFile": true
+          },
+          "per_period-get.json": {
+            "isFile": true
+          },
+          "per_room_type-get.json": {
+            "isFile": true
+          },
+          "total_by_ota-get.json": {
+            "isFile": true
+          },
+          "total_summary-get.json": {
+            "isFile": true
+          }
+        },
+        "report-sales.yml": {
+          "isFile": true
+        }
+      },
+      "settings": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 9,
+          "ts": 0,
+          "yml": 0,
+          "adjustment_type.json": {
+            "isFile": true
+          },
+          "availableHouses.json": {
+            "isFile": true
+          },
+          "google_maps-get.json": {
+            "isFile": true
+          },
+          "onboardings.json": {
+            "isFile": true
+          },
+          "preflights-get.json": {
+            "isFile": true
+          },
+          "property_styles-get.json": {
+            "isFile": true
+          },
+          "roomStyles.json": {
+            "isFile": true
+          },
+          "settings_currencies-get.json": {
+            "isFile": true
+          },
+          "timezones-get.json": {
+            "isFile": true
+          }
+        },
+        "settings.yml": {
+          "isFile": true
+        }
+      },
+      "signup": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "signup.json": {
+            "isFile": true
+          }
+        },
+        "signup.yml": {
+          "isFile": true
+        }
+      },
+      "subscription": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 3,
+          "ts": 0,
+          "yml": 0,
+          "subscription-get.json": {
+            "isFile": true
+          },
+          "subscription-patch.json": {
+            "isFile": true
+          },
+          "subscription-products-get.json": {
+            "isFile": true
+          }
+        },
+        "subscription.yml": {
+          "isFile": true
+        }
+      },
+      "tickets": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 1,
+          "ts": 0,
+          "yml": 0,
+          "unread.json": {
+            "isFile": true
+          }
+        },
+        "tickets.yml": {
+          "isFile": true
+        }
+      },
+      "transactions": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 2,
+          "ts": 0,
+          "yml": 0,
+          "getTransactions.json": {
+            "isFile": true
+          },
+          "prints-post.json": {
+            "isFile": true
+          }
+        },
+        "transactions.yml": {
+          "isFile": true
+        }
+      },
+      "user": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 2,
+          "ts": 0,
+          "yml": 0,
+          "get-confirmation.json": {
+            "isFile": true
+          },
+          "post-password.json": {
+            "isFile": true
+          }
+        },
+        "user.yml": {
+          "isFile": true
+        }
+      },
+      "userNotifications": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 4,
+          "ts": 0,
+          "yml": 0,
+          "eventList.json": {
+            "isFile": true
+          },
+          "settings.json": {
+            "isFile": true
+          },
+          "subscribableEvents.json": {
+            "isFile": true
+          },
+          "userNotifications.json": {
+            "isFile": true
+          }
+        },
+        "notifications.yml": {
+          "isFile": true
+        }
+      },
+      "users": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 1,
+        "mock-data": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 5,
+          "ts": 0,
+          "yml": 0,
+          "user-delete.json": {
+            "isFile": true
+          },
+          "user-get.json": {
+            "isFile": true
+          },
+          "user-put.json": {
+            "isFile": true
+          },
+          "users-get.json": {
+            "isFile": true
+          },
+          "users-post.json": {
+            "isFile": true
+          }
+        },
+        "users.yml": {
+          "isFile": true
+        }
+      }
+    }
   },
   "next-env.d.ts": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421910,
-    "size": 77,
-    "blocks": 0,
-    "atimeMs": 1613698227056.3362,
-    "mtimeMs": 1609222420817.0962,
-    "ctimeMs": 1609222420817.0962,
-    "birthtimeMs": 1609222420817.0962,
-    "atime": "2021-02-19T01:30:27.056Z",
-    "mtime": "2020-12-29T06:13:40.817Z",
-    "ctime": "2020-12-29T06:13:40.817Z",
-    "birthtime": "2020-12-29T06:13:40.817Z"
+    "isFile": true
   },
   "next.config.js": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 1125899906843223,
-    "size": 1915,
-    "blocks": 8,
-    "atimeMs": 1613698233544.847,
-    "mtimeMs": 1613618373542.7976,
-    "ctimeMs": 1613618373542.7976,
-    "birthtimeMs": 1613618373541.8,
-    "atime": "2021-02-19T01:30:33.545Z",
-    "mtime": "2021-02-18T03:19:33.543Z",
-    "ctime": "2021-02-18T03:19:33.543Z",
-    "birthtime": "2021-02-18T03:19:33.542Z"
+    "isFile": true
   },
   "next.config.serverless.js": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421912,
-    "size": 946,
-    "blocks": 8,
-    "atimeMs": 1613698227119.3357,
-    "mtimeMs": 1609222420817.0962,
-    "ctimeMs": 1609222420817.0962,
-    "birthtimeMs": 1609222420817.0962,
-    "atime": "2021-02-19T01:30:27.119Z",
-    "mtime": "2020-12-29T06:13:40.817Z",
-    "ctime": "2020-12-29T06:13:40.817Z",
-    "birthtime": "2020-12-29T06:13:40.817Z"
-  },
-  "node_modules": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976769241,
-    "size": 0,
-    "blocks": 512,
-    "atimeMs": 1613698304368.7207,
-    "mtimeMs": 1613616601509.8418,
-    "ctimeMs": 1613616601509.8418,
-    "birthtimeMs": 1609223164914.3345,
-    "atime": "2021-02-19T01:31:44.369Z",
-    "mtime": "2021-02-18T02:50:01.510Z",
-    "ctime": "2021-02-18T02:50:01.510Z",
-    "birthtime": "2020-12-29T06:26:04.914Z"
+    "isFile": true
   },
   "package.json": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421913,
-    "size": 3683,
-    "blocks": 8,
-    "atimeMs": 1613698296127.7212,
-    "mtimeMs": 1613526305091.2483,
-    "ctimeMs": 1613526305091.2483,
-    "birthtimeMs": 1613526305091.2483,
-    "atime": "2021-02-19T01:31:36.128Z",
-    "mtime": "2021-02-17T01:45:05.091Z",
-    "ctime": "2021-02-17T01:45:05.091Z",
-    "birthtime": "2021-02-17T01:45:05.091Z"
+    "isFile": true
   },
   "pages": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967325,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700591589.6287,
-    "mtimeMs": 1613657345895.4912,
-    "ctimeMs": 1613657345895.4912,
-    "birthtimeMs": 1609222420817.0962,
-    "atime": "2021-02-19T02:09:51.590Z",
-    "mtime": "2021-02-18T14:09:05.895Z",
-    "ctime": "2021-02-18T14:09:05.895Z",
-    "birthtime": "2020-12-29T06:13:40.817Z"
+    "currentLess": 0,
+    "childrenLess": 1,
+    "totalLess": 1,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "api": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "hello.ts": {
+        "isFile": true
+      }
+    },
+    "bookings": {
+      "currentLess": 1,
+      "childrenLess": 0,
+      "totalLess": 1,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "checkin-management.tsx": {
+        "isFile": true
+      },
+      "checkin_management.tsx": {
+        "isFile": true
+      },
+      "import.module.less": {
+        "isFile": true
+      },
+      "import.tsx": {
+        "isFile": true
+      },
+      "import_bak.tsx": {
+        "isFile": true
+      },
+      "import_history.tsx": {
+        "isFile": true
+      },
+      "[id].tsx": {
+        "isFile": true
+      }
+    },
+    "checkin": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "archives.tsx": {
+        "isFile": true
+      }
+    },
+    "confirmation": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "dashboard": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "example": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "table_sort.tsx": {
+        "isFile": true
+      }
+    },
+    "index.tsx": {
+      "isFile": true
+    },
+    "invoices": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "[invoiceId].tsx": {
+        "isFile": true
+      }
+    },
+    "password": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "edit.tsx": {
+        "isFile": true
+      },
+      "new.tsx": {
+        "isFile": true
+      }
+    },
+    "profile": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "change-password.tsx": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "sales": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "sample-layout": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "admin.tsx": {
+        "isFile": true
+      },
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "settings": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "account": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "index.tsx": {
+          "isFile": true
+        }
+      },
+      "auto-message": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "index.tsx": {
+          "isFile": true
+        }
+      },
+      "houses": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "create.tsx": {
+          "isFile": true
+        },
+        "index.tsx": {
+          "isFile": true
+        },
+        "[id]": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "auto-message": {
+            "currentLess": 0,
+            "childrenLess": 0,
+            "totalLess": 0,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "index.tsx": {
+              "isFile": true
+            }
+          },
+          "checkin-settings": {
+            "currentLess": 0,
+            "childrenLess": 0,
+            "totalLess": 0,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "guest-information.tsx": {
+              "isFile": true
+            },
+            "house-settings.tsx": {
+              "isFile": true
+            },
+            "payment-collections.tsx": {
+              "isFile": true
+            },
+            "room-key-configuration.tsx": {
+              "isFile": true
+            },
+            "verification-steps.tsx": {
+              "isFile": true
+            }
+          },
+          "index.tsx": {
+            "isFile": true
+          },
+          "informations": {
+            "currentLess": 0,
+            "childrenLess": 0,
+            "totalLess": 0,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "index.tsx": {
+              "isFile": true
+            }
+          },
+          "room-types": {
+            "currentLess": 0,
+            "childrenLess": 0,
+            "totalLess": 0,
+            "js": 0,
+            "sh": 0,
+            "json": 0,
+            "ts": 0,
+            "yml": 0,
+            "index.tsx": {
+              "isFile": true
+            }
+          }
+        }
+      },
+      "invoices": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "index.tsx": {
+          "isFile": true
+        }
+      },
+      "subscription": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "index.tsx": {
+          "isFile": true
+        }
+      }
+    },
+    "sign_in": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "sign_up": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "users": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "videos": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "index.tsx": {
+        "isFile": true
+      }
+    },
+    "websites": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "guests": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "index.tsx": {
+          "isFile": true
+        },
+        "[id]": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "order-history.tsx": {
+            "isFile": true
+          },
+          "profile.tsx": {
+            "isFile": true
+          }
+        }
+      }
+    },
+    "_app.tsx": {
+      "isFile": true
+    },
+    "_document.tsx": {
+      "isFile": true
+    },
+    "_error.tsx": {
+      "isFile": true
+    }
   },
   "public": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967401,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591589.6287,
-    "mtimeMs": 1613616602048.868,
-    "ctimeMs": 1613616602048.868,
-    "birthtimeMs": 1609222420825.0752,
-    "atime": "2021-02-19T02:09:51.590Z",
-    "mtime": "2021-02-18T02:50:02.049Z",
-    "ctime": "2021-02-18T02:50:02.049Z",
-    "birthtime": "2020-12-29T06:13:40.825Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "favicon.ico": {
+      "isFile": true
+    },
+    "static": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 0,
+      "yml": 0,
+      "images": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "channel_logos_square": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "agoda.png": {
+            "isFile": true
+          },
+          "agoda@2x.png": {
+            "isFile": true
+          },
+          "agoda@3x.png": {
+            "isFile": true
+          },
+          "airbnb.png": {
+            "isFile": true
+          },
+          "airbnb@2x.png": {
+            "isFile": true
+          },
+          "airbnb@3x.png": {
+            "isFile": true
+          },
+          "airhost.png": {
+            "isFile": true
+          },
+          "airhost@2x.png": {
+            "isFile": true
+          },
+          "airhost@3x.png": {
+            "isFile": true
+          },
+          "asia_yo.png": {
+            "isFile": true
+          },
+          "asia_yo@2x.png": {
+            "isFile": true
+          },
+          "asia_yo@3x.png": {
+            "isFile": true
+          },
+          "booking.png": {
+            "isFile": true
+          },
+          "booking@2x.png": {
+            "isFile": true
+          },
+          "booking@3x.png": {
+            "isFile": true
+          },
+          "ctrip.png": {
+            "isFile": true
+          },
+          "ctrip@2x.png": {
+            "isFile": true
+          },
+          "ctrip@3x.png": {
+            "isFile": true
+          },
+          "expedia.png": {
+            "isFile": true
+          },
+          "expedia@2x.png": {
+            "isFile": true
+          },
+          "flipkey.png": {
+            "isFile": true
+          },
+          "flipkey@2x.png": {
+            "isFile": true
+          },
+          "homeaway.png": {
+            "isFile": true
+          },
+          "homeaway@2x.png": {
+            "isFile": true
+          },
+          "homeaway@3x.png": {
+            "isFile": true
+          },
+          "ikyu.png": {
+            "isFile": true
+          },
+          "ikyu@2x.png": {
+            "isFile": true
+          },
+          "neppan.png": {
+            "isFile": true
+          },
+          "neppan@2x.png": {
+            "isFile": true
+          },
+          "rakuten.png": {
+            "isFile": true
+          },
+          "rakuten@2x.png": {
+            "isFile": true
+          },
+          "rakuten_travel.png": {
+            "isFile": true
+          },
+          "rakuten_travel@2x.png": {
+            "isFile": true
+          },
+          "temairazu.png": {
+            "isFile": true
+          },
+          "temairazu@2x.png": {
+            "isFile": true
+          },
+          "temairazu@3x.png": {
+            "isFile": true
+          },
+          "tujia.png": {
+            "isFile": true
+          },
+          "tujia@2x.png": {
+            "isFile": true
+          },
+          "tujia@3x.png": {
+            "isFile": true
+          },
+          "zizaike.png": {
+            "isFile": true
+          },
+          "zizaike@2x.png": {
+            "isFile": true
+          },
+          "zizaike@3x.png": {
+            "isFile": true
+          }
+        },
+        "checkin-settings": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "hotel-image.jpg": {
+            "isFile": true
+          },
+          "passport-photo.jpg": {
+            "isFile": true
+          },
+          "passport-photo.png": {
+            "isFile": true
+          },
+          "passport.jpg": {
+            "isFile": true
+          },
+          "video-call.jpg": {
+            "isFile": true
+          },
+          "video-call.png": {
+            "isFile": true
+          }
+        },
+        "country_flag": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "ad.svg": {
+            "isFile": true
+          },
+          "ae.svg": {
+            "isFile": true
+          },
+          "af.svg": {
+            "isFile": true
+          },
+          "ag.svg": {
+            "isFile": true
+          },
+          "ai.svg": {
+            "isFile": true
+          },
+          "al.svg": {
+            "isFile": true
+          },
+          "am.svg": {
+            "isFile": true
+          },
+          "an.svg": {
+            "isFile": true
+          },
+          "ao.svg": {
+            "isFile": true
+          },
+          "aq.svg": {
+            "isFile": true
+          },
+          "ar.svg": {
+            "isFile": true
+          },
+          "as.svg": {
+            "isFile": true
+          },
+          "at.svg": {
+            "isFile": true
+          },
+          "au.svg": {
+            "isFile": true
+          },
+          "aw.svg": {
+            "isFile": true
+          },
+          "ax.svg": {
+            "isFile": true
+          },
+          "az.svg": {
+            "isFile": true
+          },
+          "ba.svg": {
+            "isFile": true
+          },
+          "bb.svg": {
+            "isFile": true
+          },
+          "bd.svg": {
+            "isFile": true
+          },
+          "be.svg": {
+            "isFile": true
+          },
+          "bf.svg": {
+            "isFile": true
+          },
+          "bg.svg": {
+            "isFile": true
+          },
+          "bh.svg": {
+            "isFile": true
+          },
+          "bi.svg": {
+            "isFile": true
+          },
+          "bj.svg": {
+            "isFile": true
+          },
+          "bl.svg": {
+            "isFile": true
+          },
+          "bm.svg": {
+            "isFile": true
+          },
+          "bn.svg": {
+            "isFile": true
+          },
+          "bo.svg": {
+            "isFile": true
+          },
+          "bq.svg": {
+            "isFile": true
+          },
+          "br.svg": {
+            "isFile": true
+          },
+          "bs.svg": {
+            "isFile": true
+          },
+          "bt.svg": {
+            "isFile": true
+          },
+          "bv.svg": {
+            "isFile": true
+          },
+          "bw.svg": {
+            "isFile": true
+          },
+          "by.svg": {
+            "isFile": true
+          },
+          "bz.svg": {
+            "isFile": true
+          },
+          "ca.svg": {
+            "isFile": true
+          },
+          "cc.svg": {
+            "isFile": true
+          },
+          "cd.svg": {
+            "isFile": true
+          },
+          "cf.svg": {
+            "isFile": true
+          },
+          "cg.svg": {
+            "isFile": true
+          },
+          "ch.svg": {
+            "isFile": true
+          },
+          "ci.svg": {
+            "isFile": true
+          },
+          "ck.svg": {
+            "isFile": true
+          },
+          "cl.svg": {
+            "isFile": true
+          },
+          "cm.svg": {
+            "isFile": true
+          },
+          "cn.svg": {
+            "isFile": true
+          },
+          "co.svg": {
+            "isFile": true
+          },
+          "cr.svg": {
+            "isFile": true
+          },
+          "cu.svg": {
+            "isFile": true
+          },
+          "cv.svg": {
+            "isFile": true
+          },
+          "cw.svg": {
+            "isFile": true
+          },
+          "cx.svg": {
+            "isFile": true
+          },
+          "cy.svg": {
+            "isFile": true
+          },
+          "cz.svg": {
+            "isFile": true
+          },
+          "de.svg": {
+            "isFile": true
+          },
+          "dj.svg": {
+            "isFile": true
+          },
+          "dk.svg": {
+            "isFile": true
+          },
+          "dm.svg": {
+            "isFile": true
+          },
+          "do.svg": {
+            "isFile": true
+          },
+          "dz.svg": {
+            "isFile": true
+          },
+          "ec.svg": {
+            "isFile": true
+          },
+          "ee.svg": {
+            "isFile": true
+          },
+          "eg.svg": {
+            "isFile": true
+          },
+          "eh.svg": {
+            "isFile": true
+          },
+          "er.svg": {
+            "isFile": true
+          },
+          "es.svg": {
+            "isFile": true
+          },
+          "et.svg": {
+            "isFile": true
+          },
+          "eu.svg": {
+            "isFile": true
+          },
+          "fi.svg": {
+            "isFile": true
+          },
+          "fj.svg": {
+            "isFile": true
+          },
+          "fk.svg": {
+            "isFile": true
+          },
+          "fm.svg": {
+            "isFile": true
+          },
+          "fo.svg": {
+            "isFile": true
+          },
+          "fr.svg": {
+            "isFile": true
+          },
+          "ga.svg": {
+            "isFile": true
+          },
+          "gb-eng.svg": {
+            "isFile": true
+          },
+          "gb-nir.svg": {
+            "isFile": true
+          },
+          "gb-sct.svg": {
+            "isFile": true
+          },
+          "gb-wls.svg": {
+            "isFile": true
+          },
+          "gb.svg": {
+            "isFile": true
+          },
+          "gd.svg": {
+            "isFile": true
+          },
+          "ge.svg": {
+            "isFile": true
+          },
+          "gf.svg": {
+            "isFile": true
+          },
+          "gg.svg": {
+            "isFile": true
+          },
+          "gh.svg": {
+            "isFile": true
+          },
+          "gi.svg": {
+            "isFile": true
+          },
+          "gl.svg": {
+            "isFile": true
+          },
+          "gm.svg": {
+            "isFile": true
+          },
+          "gn.svg": {
+            "isFile": true
+          },
+          "gp.svg": {
+            "isFile": true
+          },
+          "gq.svg": {
+            "isFile": true
+          },
+          "gr.svg": {
+            "isFile": true
+          },
+          "gs.svg": {
+            "isFile": true
+          },
+          "gt.svg": {
+            "isFile": true
+          },
+          "gu.svg": {
+            "isFile": true
+          },
+          "gw.svg": {
+            "isFile": true
+          },
+          "gy.svg": {
+            "isFile": true
+          },
+          "hk.svg": {
+            "isFile": true
+          },
+          "hm.svg": {
+            "isFile": true
+          },
+          "hn.svg": {
+            "isFile": true
+          },
+          "hr.svg": {
+            "isFile": true
+          },
+          "ht.svg": {
+            "isFile": true
+          },
+          "hu.svg": {
+            "isFile": true
+          },
+          "id.svg": {
+            "isFile": true
+          },
+          "ie.svg": {
+            "isFile": true
+          },
+          "il.svg": {
+            "isFile": true
+          },
+          "im.svg": {
+            "isFile": true
+          },
+          "in.svg": {
+            "isFile": true
+          },
+          "international.svg": {
+            "isFile": true
+          },
+          "io.svg": {
+            "isFile": true
+          },
+          "iq.svg": {
+            "isFile": true
+          },
+          "ir.svg": {
+            "isFile": true
+          },
+          "is.svg": {
+            "isFile": true
+          },
+          "it.svg": {
+            "isFile": true
+          },
+          "je.svg": {
+            "isFile": true
+          },
+          "jm.svg": {
+            "isFile": true
+          },
+          "jo.svg": {
+            "isFile": true
+          },
+          "jp.svg": {
+            "isFile": true
+          },
+          "ke.svg": {
+            "isFile": true
+          },
+          "kg.svg": {
+            "isFile": true
+          },
+          "kh.svg": {
+            "isFile": true
+          },
+          "ki.svg": {
+            "isFile": true
+          },
+          "km.svg": {
+            "isFile": true
+          },
+          "kn.svg": {
+            "isFile": true
+          },
+          "kp.svg": {
+            "isFile": true
+          },
+          "kr.svg": {
+            "isFile": true
+          },
+          "kw.svg": {
+            "isFile": true
+          },
+          "ky.svg": {
+            "isFile": true
+          },
+          "kz.svg": {
+            "isFile": true
+          },
+          "la.svg": {
+            "isFile": true
+          },
+          "lb.svg": {
+            "isFile": true
+          },
+          "lc.svg": {
+            "isFile": true
+          },
+          "li.svg": {
+            "isFile": true
+          },
+          "lk.svg": {
+            "isFile": true
+          },
+          "lr.svg": {
+            "isFile": true
+          },
+          "ls.svg": {
+            "isFile": true
+          },
+          "lt.svg": {
+            "isFile": true
+          },
+          "lu.svg": {
+            "isFile": true
+          },
+          "lv.svg": {
+            "isFile": true
+          },
+          "ly.svg": {
+            "isFile": true
+          },
+          "ma.svg": {
+            "isFile": true
+          },
+          "mc.svg": {
+            "isFile": true
+          },
+          "md.svg": {
+            "isFile": true
+          },
+          "me.svg": {
+            "isFile": true
+          },
+          "mf.svg": {
+            "isFile": true
+          },
+          "mg.svg": {
+            "isFile": true
+          },
+          "mh.svg": {
+            "isFile": true
+          },
+          "mk.svg": {
+            "isFile": true
+          },
+          "ml.svg": {
+            "isFile": true
+          },
+          "mm.svg": {
+            "isFile": true
+          },
+          "mn.svg": {
+            "isFile": true
+          },
+          "mo.svg": {
+            "isFile": true
+          },
+          "mp.svg": {
+            "isFile": true
+          },
+          "mq.svg": {
+            "isFile": true
+          },
+          "mr.svg": {
+            "isFile": true
+          },
+          "ms.svg": {
+            "isFile": true
+          },
+          "mt.svg": {
+            "isFile": true
+          },
+          "mu.svg": {
+            "isFile": true
+          },
+          "mv.svg": {
+            "isFile": true
+          },
+          "mw.svg": {
+            "isFile": true
+          },
+          "mx.svg": {
+            "isFile": true
+          },
+          "my.svg": {
+            "isFile": true
+          },
+          "mz.svg": {
+            "isFile": true
+          },
+          "na.svg": {
+            "isFile": true
+          },
+          "nc.svg": {
+            "isFile": true
+          },
+          "ne.svg": {
+            "isFile": true
+          },
+          "nf.svg": {
+            "isFile": true
+          },
+          "ng.svg": {
+            "isFile": true
+          },
+          "ni.svg": {
+            "isFile": true
+          },
+          "nl.svg": {
+            "isFile": true
+          },
+          "no.svg": {
+            "isFile": true
+          },
+          "np.svg": {
+            "isFile": true
+          },
+          "nr.svg": {
+            "isFile": true
+          },
+          "nu.svg": {
+            "isFile": true
+          },
+          "nz.svg": {
+            "isFile": true
+          },
+          "om.svg": {
+            "isFile": true
+          },
+          "pa.svg": {
+            "isFile": true
+          },
+          "pe.svg": {
+            "isFile": true
+          },
+          "pf.svg": {
+            "isFile": true
+          },
+          "pg.svg": {
+            "isFile": true
+          },
+          "ph.svg": {
+            "isFile": true
+          },
+          "pk.svg": {
+            "isFile": true
+          },
+          "pl.svg": {
+            "isFile": true
+          },
+          "pm.svg": {
+            "isFile": true
+          },
+          "pn.svg": {
+            "isFile": true
+          },
+          "pr.svg": {
+            "isFile": true
+          },
+          "ps.svg": {
+            "isFile": true
+          },
+          "pt.svg": {
+            "isFile": true
+          },
+          "pw.svg": {
+            "isFile": true
+          },
+          "py.svg": {
+            "isFile": true
+          },
+          "qa.svg": {
+            "isFile": true
+          },
+          "re.svg": {
+            "isFile": true
+          },
+          "ro.svg": {
+            "isFile": true
+          },
+          "rs.svg": {
+            "isFile": true
+          },
+          "ru.svg": {
+            "isFile": true
+          },
+          "rw.svg": {
+            "isFile": true
+          },
+          "sa.svg": {
+            "isFile": true
+          },
+          "sb.svg": {
+            "isFile": true
+          },
+          "sc.svg": {
+            "isFile": true
+          },
+          "sd.svg": {
+            "isFile": true
+          },
+          "se.svg": {
+            "isFile": true
+          },
+          "sg.svg": {
+            "isFile": true
+          },
+          "sh.svg": {
+            "isFile": true
+          },
+          "si.svg": {
+            "isFile": true
+          },
+          "sj.svg": {
+            "isFile": true
+          },
+          "sk.svg": {
+            "isFile": true
+          },
+          "sl.svg": {
+            "isFile": true
+          },
+          "sm.svg": {
+            "isFile": true
+          },
+          "sn.svg": {
+            "isFile": true
+          },
+          "so.svg": {
+            "isFile": true
+          },
+          "sr.svg": {
+            "isFile": true
+          },
+          "ss.svg": {
+            "isFile": true
+          },
+          "st.svg": {
+            "isFile": true
+          },
+          "sv.svg": {
+            "isFile": true
+          },
+          "sx.svg": {
+            "isFile": true
+          },
+          "sy.svg": {
+            "isFile": true
+          },
+          "sz.svg": {
+            "isFile": true
+          },
+          "tc.svg": {
+            "isFile": true
+          },
+          "td.svg": {
+            "isFile": true
+          },
+          "tf.svg": {
+            "isFile": true
+          },
+          "tg.svg": {
+            "isFile": true
+          },
+          "th.svg": {
+            "isFile": true
+          },
+          "tj.svg": {
+            "isFile": true
+          },
+          "tk.svg": {
+            "isFile": true
+          },
+          "tl.svg": {
+            "isFile": true
+          },
+          "tm.svg": {
+            "isFile": true
+          },
+          "tn.svg": {
+            "isFile": true
+          },
+          "to.svg": {
+            "isFile": true
+          },
+          "tr.svg": {
+            "isFile": true
+          },
+          "tt.svg": {
+            "isFile": true
+          },
+          "tv.svg": {
+            "isFile": true
+          },
+          "tw.svg": {
+            "isFile": true
+          },
+          "tz.svg": {
+            "isFile": true
+          },
+          "ua.svg": {
+            "isFile": true
+          },
+          "ug.svg": {
+            "isFile": true
+          },
+          "um.svg": {
+            "isFile": true
+          },
+          "us.svg": {
+            "isFile": true
+          },
+          "uy.svg": {
+            "isFile": true
+          },
+          "uz.svg": {
+            "isFile": true
+          },
+          "va.svg": {
+            "isFile": true
+          },
+          "vc.svg": {
+            "isFile": true
+          },
+          "ve.svg": {
+            "isFile": true
+          },
+          "vg.svg": {
+            "isFile": true
+          },
+          "vi.svg": {
+            "isFile": true
+          },
+          "vn.svg": {
+            "isFile": true
+          },
+          "vu.svg": {
+            "isFile": true
+          },
+          "wf.svg": {
+            "isFile": true
+          },
+          "ws.svg": {
+            "isFile": true
+          },
+          "xk.svg": {
+            "isFile": true
+          },
+          "ye.svg": {
+            "isFile": true
+          },
+          "yt.svg": {
+            "isFile": true
+          },
+          "za.svg": {
+            "isFile": true
+          },
+          "zm.svg": {
+            "isFile": true
+          },
+          "zw.svg": {
+            "isFile": true
+          }
+        },
+        "flags": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "en.png": {
+            "isFile": true
+          },
+          "ja.png": {
+            "isFile": true
+          },
+          "zh-CN.png": {
+            "isFile": true
+          },
+          "zh.png": {
+            "isFile": true
+          }
+        },
+        "logos": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "airhost_logo.svg": {
+            "isFile": true
+          },
+          "airhost_logo_large.png": {
+            "isFile": true
+          }
+        },
+        "onboarding-wizard": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 0,
+          "ts": 0,
+          "yml": 0,
+          "auto-message.png": {
+            "isFile": true
+          },
+          "checkin-settings.png": {
+            "isFile": true
+          },
+          "create-listing.png": {
+            "isFile": true
+          },
+          "import-bookings.png": {
+            "isFile": true
+          }
+        }
+      },
+      "locales": {
+        "currentLess": 0,
+        "childrenLess": 0,
+        "totalLess": 0,
+        "js": 0,
+        "sh": 0,
+        "json": 0,
+        "ts": 0,
+        "yml": 0,
+        "en": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 26,
+          "ts": 0,
+          "yml": 0,
+          "account.json": {
+            "isFile": true
+          },
+          "add-room-type.json": {
+            "isFile": true
+          },
+          "admin-layout.json": {
+            "isFile": true
+          },
+          "auth.json": {
+            "isFile": true
+          },
+          "auto-message.json": {
+            "isFile": true
+          },
+          "booking-checkin-management.json": {
+            "isFile": true
+          },
+          "booking-import-history.json": {
+            "isFile": true
+          },
+          "checkin-archives.json": {
+            "isFile": true
+          },
+          "common.json": {
+            "isFile": true
+          },
+          "country.json": {
+            "isFile": true
+          },
+          "create-house.json": {
+            "isFile": true
+          },
+          "dashboard.json": {
+            "isFile": true
+          },
+          "guests.json": {
+            "isFile": true
+          },
+          "house-checkin-settings.json": {
+            "isFile": true
+          },
+          "house-detail.json": {
+            "isFile": true
+          },
+          "house-information.json": {
+            "isFile": true
+          },
+          "house.json": {
+            "isFile": true
+          },
+          "import-booking.json": {
+            "isFile": true
+          },
+          "profile.json": {
+            "isFile": true
+          },
+          "room-type.json": {
+            "isFile": true
+          },
+          "sales.json": {
+            "isFile": true
+          },
+          "secondary-menu.json": {
+            "isFile": true
+          },
+          "signin.json": {
+            "isFile": true
+          },
+          "signup.json": {
+            "isFile": true
+          },
+          "subscription.json": {
+            "isFile": true
+          },
+          "users.json": {
+            "isFile": true
+          }
+        },
+        "ja": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 26,
+          "ts": 0,
+          "yml": 0,
+          "account.json": {
+            "isFile": true
+          },
+          "add-room-type.json": {
+            "isFile": true
+          },
+          "admin-layout.json": {
+            "isFile": true
+          },
+          "auth.json": {
+            "isFile": true
+          },
+          "auto-message.json": {
+            "isFile": true
+          },
+          "booking-checkin-management.json": {
+            "isFile": true
+          },
+          "booking-import-history.json": {
+            "isFile": true
+          },
+          "checkin-archives.json": {
+            "isFile": true
+          },
+          "common.json": {
+            "isFile": true
+          },
+          "country.json": {
+            "isFile": true
+          },
+          "create-house.json": {
+            "isFile": true
+          },
+          "dashboard.json": {
+            "isFile": true
+          },
+          "guests.json": {
+            "isFile": true
+          },
+          "house-checkin-settings.json": {
+            "isFile": true
+          },
+          "house-detail.json": {
+            "isFile": true
+          },
+          "house-information.json": {
+            "isFile": true
+          },
+          "house.json": {
+            "isFile": true
+          },
+          "import-booking.json": {
+            "isFile": true
+          },
+          "profile.json": {
+            "isFile": true
+          },
+          "room-type.json": {
+            "isFile": true
+          },
+          "sales.json": {
+            "isFile": true
+          },
+          "secondary-menu.json": {
+            "isFile": true
+          },
+          "signin.json": {
+            "isFile": true
+          },
+          "signup.json": {
+            "isFile": true
+          },
+          "subscription.json": {
+            "isFile": true
+          },
+          "users.json": {
+            "isFile": true
+          }
+        },
+        "zh": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 26,
+          "ts": 0,
+          "yml": 0,
+          "account.json": {
+            "isFile": true
+          },
+          "add-room-type.json": {
+            "isFile": true
+          },
+          "admin-layout.json": {
+            "isFile": true
+          },
+          "auth.json": {
+            "isFile": true
+          },
+          "auto-message.json": {
+            "isFile": true
+          },
+          "booking-checkin-management.json": {
+            "isFile": true
+          },
+          "booking-import-history.json": {
+            "isFile": true
+          },
+          "checkin-archives.json": {
+            "isFile": true
+          },
+          "common.json": {
+            "isFile": true
+          },
+          "country.json": {
+            "isFile": true
+          },
+          "create-house.json": {
+            "isFile": true
+          },
+          "dashboard.json": {
+            "isFile": true
+          },
+          "guests.json": {
+            "isFile": true
+          },
+          "house-checkin-settings.json": {
+            "isFile": true
+          },
+          "house-detail.json": {
+            "isFile": true
+          },
+          "house-information.json": {
+            "isFile": true
+          },
+          "house.json": {
+            "isFile": true
+          },
+          "import-booking.json": {
+            "isFile": true
+          },
+          "profile.json": {
+            "isFile": true
+          },
+          "room-type.json": {
+            "isFile": true
+          },
+          "sales.json": {
+            "isFile": true
+          },
+          "secondary-menu.json": {
+            "isFile": true
+          },
+          "signin.json": {
+            "isFile": true
+          },
+          "signup.json": {
+            "isFile": true
+          },
+          "subscription.json": {
+            "isFile": true
+          },
+          "users.json": {
+            "isFile": true
+          }
+        },
+        "zh-CN": {
+          "currentLess": 0,
+          "childrenLess": 0,
+          "totalLess": 0,
+          "js": 0,
+          "sh": 0,
+          "json": 26,
+          "ts": 0,
+          "yml": 0,
+          "account.json": {
+            "isFile": true
+          },
+          "add-room-type.json": {
+            "isFile": true
+          },
+          "admin-layout.json": {
+            "isFile": true
+          },
+          "auth.json": {
+            "isFile": true
+          },
+          "auto-message.json": {
+            "isFile": true
+          },
+          "booking-checkin-management.json": {
+            "isFile": true
+          },
+          "booking-import-history.json": {
+            "isFile": true
+          },
+          "checkin-archives.json": {
+            "isFile": true
+          },
+          "common.json": {
+            "isFile": true
+          },
+          "country.json": {
+            "isFile": true
+          },
+          "create-house.json": {
+            "isFile": true
+          },
+          "dashboard.json": {
+            "isFile": true
+          },
+          "guests.json": {
+            "isFile": true
+          },
+          "house-checkin-settings.json": {
+            "isFile": true
+          },
+          "house-detail.json": {
+            "isFile": true
+          },
+          "house-information.json": {
+            "isFile": true
+          },
+          "house.json": {
+            "isFile": true
+          },
+          "import-booking.json": {
+            "isFile": true
+          },
+          "profile.json": {
+            "isFile": true
+          },
+          "room-type.json": {
+            "isFile": true
+          },
+          "sales.json": {
+            "isFile": true
+          },
+          "secondary-menu.json": {
+            "isFile": true
+          },
+          "signin.json": {
+            "isFile": true
+          },
+          "signup.json": {
+            "isFile": true
+          },
+          "subscription.json": {
+            "isFile": true
+          },
+          "users.json": {
+            "isFile": true
+          }
+        }
+      }
+    },
+    "vercel.svg": {
+      "isFile": true
+    }
   },
   "pull_request_template.md": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421914,
-    "size": 1158,
-    "blocks": 8,
-    "atimeMs": 1613698138317.4597,
-    "mtimeMs": 1609222420911.3572,
-    "ctimeMs": 1609222420911.3572,
-    "birthtimeMs": 1609222420911.3572,
-    "atime": "2021-02-19T01:28:58.317Z",
-    "mtime": "2020-12-29T06:13:40.911Z",
-    "ctime": "2020-12-29T06:13:40.911Z",
-    "birthtime": "2020-12-29T06:13:40.911Z"
+    "isFile": true
   },
   "README.md": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421915,
-    "size": 1076,
-    "blocks": 8,
-    "atimeMs": 1613698182657.102,
-    "mtimeMs": 1611825550158.291,
-    "ctimeMs": 1611825550158.291,
-    "birthtimeMs": 1611825550158.291,
-    "atime": "2021-02-19T01:29:42.657Z",
-    "mtime": "2021-01-28T09:19:10.158Z",
-    "ctime": "2021-01-28T09:19:10.158Z",
-    "birthtime": "2021-01-28T09:19:10.158Z"
+    "isFile": true
   },
   "server": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967837,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591590.6282,
-    "mtimeMs": 1613616604691.2874,
-    "ctimeMs": 1613616604691.2874,
-    "birthtimeMs": 1609222420912.3542,
-    "atime": "2021-02-19T02:09:51.591Z",
-    "mtime": "2021-02-18T02:50:04.691Z",
-    "ctime": "2021-02-18T02:50:04.691Z",
-    "birthtime": "2020-12-29T06:13:40.912Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 1,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "index.js": {
+      "isFile": true
+    }
   },
   "serverless.yml": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421916,
-    "size": 60,
-    "blocks": 0,
-    "atimeMs": 1613698054312.6506,
-    "mtimeMs": 1609222420912.3755,
-    "ctimeMs": 1609222420912.3755,
-    "birthtimeMs": 1609222420912.3755,
-    "atime": "2021-02-19T01:27:34.313Z",
-    "mtime": "2020-12-29T06:13:40.912Z",
-    "ctime": "2020-12-29T06:13:40.912Z",
-    "birthtime": "2020-12-29T06:13:40.912Z"
+    "isFile": true
   },
   "services": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967839,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700595759.948,
-    "mtimeMs": 1613618373559.7979,
-    "ctimeMs": 1613618373559.7979,
-    "birthtimeMs": 1609222420912.3755,
-    "atime": "2021-02-19T02:09:55.760Z",
-    "mtime": "2021-02-18T03:19:33.560Z",
-    "ctime": "2021-02-18T03:19:33.560Z",
-    "birthtime": "2020-12-29T06:13:40.912Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 32,
+    "yml": 0,
+    "accounts.ts": {
+      "isFile": true
+    },
+    "bookingImport.d.ts": {
+      "isFile": true
+    },
+    "bookingImport.ts": {
+      "isFile": true
+    },
+    "bookings.ts": {
+      "isFile": true
+    },
+    "checkin.ts": {
+      "isFile": true
+    },
+    "checkinArchives.ts": {
+      "isFile": true
+    },
+    "client.ts": {
+      "isFile": true
+    },
+    "configuration.ts": {
+      "isFile": true
+    },
+    "guests.ts": {
+      "isFile": true
+    },
+    "house.ts": {
+      "isFile": true
+    },
+    "houses.ts": {
+      "isFile": true
+    },
+    "invoices.ts": {
+      "isFile": true
+    },
+    "iotAccesses.ts": {
+      "isFile": true
+    },
+    "login.d.ts": {
+      "isFile": true
+    },
+    "login.ts": {
+      "isFile": true
+    },
+    "order.ts": {
+      "isFile": true
+    },
+    "payment.ts": {
+      "isFile": true
+    },
+    "permission.ts": {
+      "isFile": true
+    },
+    "pms": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 7,
+      "yml": 0,
+      "account.ts": {
+        "isFile": true
+      },
+      "autoMessage.ts": {
+        "isFile": true
+      },
+      "bookings.ts": {
+        "isFile": true
+      },
+      "checkinSettings.ts": {
+        "isFile": true
+      },
+      "house.ts": {
+        "isFile": true
+      },
+      "houseInformation.ts": {
+        "isFile": true
+      },
+      "houseSettings.ts": {
+        "isFile": true
+      }
+    },
+    "pmsLogin.ts": {
+      "isFile": true
+    },
+    "print.ts": {
+      "isFile": true
+    },
+    "products.ts": {
+      "isFile": true
+    },
+    "request.ts": {
+      "isFile": true
+    },
+    "roomUnits.ts": {
+      "isFile": true
+    },
+    "sales.ts": {
+      "isFile": true
+    },
+    "settings.ts": {
+      "isFile": true
+    },
+    "signup.ts": {
+      "isFile": true
+    },
+    "subscription.ts": {
+      "isFile": true
+    },
+    "tickets.ts": {
+      "isFile": true
+    },
+    "transactions.ts": {
+      "isFile": true
+    },
+    "users.ts": {
+      "isFile": true
+    },
+    "utils.test.ts": {
+      "isFile": true
+    },
+    "utils.ts": {
+      "isFile": true
+    }
   },
   "styles": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967880,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700595759.948,
-    "mtimeMs": 1613618373560.7988,
-    "ctimeMs": 1613618373560.7988,
-    "birthtimeMs": 1609222420917.3408,
-    "atime": "2021-02-19T02:09:55.760Z",
-    "mtime": "2021-02-18T03:19:33.561Z",
-    "ctime": "2021-02-18T03:19:33.561Z",
-    "birthtime": "2020-12-29T06:13:40.917Z"
+    "currentLess": 4,
+    "childrenLess": 0,
+    "totalLess": 4,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 2,
+    "yml": 0,
+    "antd.less": {
+      "isFile": true
+    },
+    "color.ts": {
+      "isFile": true
+    },
+    "font.ts": {
+      "isFile": true
+    },
+    "nprogress.less": {
+      "isFile": true
+    },
+    "table.less": {
+      "isFile": true
+    },
+    "variable.less": {
+      "isFile": true
+    }
   },
   "tsconfig.json": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421917,
-    "size": 844,
-    "blocks": 8,
-    "atimeMs": 1613698237888.3613,
-    "mtimeMs": 1609222420917.3408,
-    "ctimeMs": 1609222420917.3408,
-    "birthtimeMs": 1609222420917.3408,
-    "atime": "2021-02-19T01:30:37.888Z",
-    "mtime": "2020-12-29T06:13:40.917Z",
-    "ctime": "2020-12-29T06:13:40.917Z",
-    "birthtime": "2020-12-29T06:13:40.917Z"
+    "isFile": true
   },
   "tsconfig.server.json": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421918,
-    "size": 196,
-    "blocks": 0,
-    "atimeMs": 1613698054313.65,
-    "mtimeMs": 1609222420917.3408,
-    "ctimeMs": 1609222420917.3408,
-    "birthtimeMs": 1609222420917.3408,
-    "atime": "2021-02-19T01:27:34.314Z",
-    "mtime": "2020-12-29T06:13:40.917Z",
-    "ctime": "2020-12-29T06:13:40.917Z",
-    "birthtime": "2020-12-29T06:13:40.917Z"
+    "isFile": true
   },
   "typings": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967887,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700595759.948,
-    "mtimeMs": 1613657204455.751,
-    "ctimeMs": 1613657204455.751,
-    "birthtimeMs": 1609222420917.3408,
-    "atime": "2021-02-19T02:09:55.760Z",
-    "mtime": "2021-02-18T14:06:44.456Z",
-    "ctime": "2021-02-18T14:06:44.456Z",
-    "birthtime": "2020-12-29T06:13:40.917Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 6,
+    "yml": 0,
+    "allListings.d.ts": {
+      "isFile": true
+    },
+    "currentAccount.d.ts": {
+      "isFile": true
+    },
+    "currentUser.d.ts": {
+      "isFile": true
+    },
+    "googlemap.d.ts": {
+      "isFile": true
+    },
+    "mock.d.ts": {
+      "isFile": true
+    },
+    "typings.d.ts": {
+      "isFile": true
+    }
   },
   "uploadToS3.js": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421919,
-    "size": 2675,
-    "blocks": 8,
-    "atimeMs": 1613698054313.65,
-    "mtimeMs": 1609222420918.3381,
-    "ctimeMs": 1609222420918.3381,
-    "birthtimeMs": 1609222420918.3381,
-    "atime": "2021-02-19T01:27:34.314Z",
-    "mtime": "2020-12-29T06:13:40.918Z",
-    "ctime": "2020-12-29T06:13:40.918Z",
-    "birthtime": "2020-12-29T06:13:40.918Z"
+    "isFile": true
   },
   "utils": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967894,
-    "size": 0,
-    "blocks": 8,
-    "atimeMs": 1613700595760.9507,
-    "mtimeMs": 1613616604859.059,
-    "ctimeMs": 1613616604859.059,
-    "birthtimeMs": 1609222420918.3381,
-    "atime": "2021-02-19T02:09:55.761Z",
-    "mtime": "2021-02-18T02:50:04.859Z",
-    "ctime": "2021-02-18T02:50:04.859Z",
-    "birthtime": "2020-12-29T06:13:40.918Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 0,
+    "sh": 0,
+    "json": 0,
+    "ts": 6,
+    "yml": 0,
+    "image.ts": {
+      "isFile": true
+    },
+    "locales.ts": {
+      "isFile": true
+    },
+    "routes.test.ts": {
+      "isFile": true
+    },
+    "routes.ts": {
+      "isFile": true
+    },
+    "test": {
+      "currentLess": 0,
+      "childrenLess": 0,
+      "totalLess": 0,
+      "js": 0,
+      "sh": 0,
+      "json": 0,
+      "ts": 1,
+      "yml": 0,
+      "testUtils.ts": {
+        "isFile": true
+      }
+    },
+    "time.ts": {
+      "isFile": true
+    },
+    "useUnsaveForm.ts": {
+      "isFile": true
+    }
   },
   "yarn.lock": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421920,
-    "size": 510308,
-    "blocks": 1000,
-    "atimeMs": 1613698054314.65,
-    "mtimeMs": 1613526305102.249,
-    "ctimeMs": 1613526305102.249,
-    "birthtimeMs": 1613526305102.249,
-    "atime": "2021-02-19T01:27:34.315Z",
-    "mtime": "2021-02-17T01:45:05.102Z",
-    "ctime": "2021-02-17T01:45:05.102Z",
-    "birthtime": "2021-02-17T01:45:05.102Z"
+    "isFile": true
   },
   "_proxy.js": {
-    "dev": 3697072571,
-    "mode": 33206,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 562949953421921,
-    "size": 3743,
-    "blocks": 8,
-    "atimeMs": 1613698054314.65,
-    "mtimeMs": 1609222420599.4868,
-    "ctimeMs": 1609222420599.4868,
-    "birthtimeMs": 1609222420599.4868,
-    "atime": "2021-02-19T01:27:34.315Z",
-    "mtime": "2020-12-29T06:13:40.599Z",
-    "ctime": "2020-12-29T06:13:40.599Z",
-    "birthtime": "2020-12-29T06:13:40.599Z"
+    "isFile": true
   },
   "__mocks__": {
-    "dev": 3697072571,
-    "mode": 16822,
-    "nlink": 1,
-    "uid": 0,
-    "gid": 0,
-    "rdev": 0,
-    "blksize": 4096,
-    "ino": 281474976967903,
-    "size": 0,
-    "blocks": 0,
-    "atimeMs": 1613700591585.6287,
-    "mtimeMs": 1613616604876.057,
-    "ctimeMs": 1613616604876.057,
-    "birthtimeMs": 1609222420599.4868,
-    "atime": "2021-02-19T02:09:51.586Z",
-    "mtime": "2021-02-18T02:50:04.876Z",
-    "ctime": "2021-02-18T02:50:04.876Z",
-    "birthtime": "2020-12-29T06:13:40.599Z"
+    "currentLess": 0,
+    "childrenLess": 0,
+    "totalLess": 0,
+    "js": 2,
+    "sh": 0,
+    "json": 0,
+    "ts": 0,
+    "yml": 0,
+    "fileMock.js": {
+      "isFile": true
+    },
+    "styleMock.js": {
+      "isFile": true
+    }
   }
 }
