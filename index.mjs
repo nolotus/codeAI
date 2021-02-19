@@ -13,8 +13,12 @@ const getStatResult = async (path, dirArr, level = 0) => {
       acc.level = level;
       if (!_.startsWith(current, ".") && current !== "node_modules") {
         const filestat = await fs.stat(currentPath);
-        if (filestat.isFile()) {
-          acc.leaf = [...acc.leaf, current];
+        if (filestat.isFile() && _.endsWith(current, ".less")) {
+          const data = await fs.readFile(currentPath);
+          const count = data.toString().split("\n").length - 1;
+          acc.max = count > acc.max ? count : acc.max;
+          acc.average = (acc.average + count) / 2;
+          acc.leaf = [...acc.leaf, `${current} ${count} line`];
           //need refactor
           if (_.endsWith(current, ".less")) {
             acc.currentLess++;
@@ -38,7 +42,6 @@ const getStatResult = async (path, dirArr, level = 0) => {
         if (filestat.isDirectory()) {
           const dirArr = await fs.readdir(currentPath);
           const result = await getStatResult(currentPath, dirArr, level + 1);
-          console.log("result", result);
           acc.childrenLess =
             acc.childrenLess + result.currentLess + result.childrenLess;
           acc.children = [...acc.children, { name: current, ...result }];
@@ -52,7 +55,20 @@ const getStatResult = async (path, dirArr, level = 0) => {
 };
 
 const result = await getStatResult(mainPath, dirArr);
+
+// write stat.json
 fs.writeFile("stat.json", JSON.stringify(result, null, 2), (err) => {
+  if (err) throw err;
+  console.log("文件已被保存");
+});
+
+const lessStat = result.children.filter((item) => item.totalLess !== 0);
+console.log("lessStat", lessStat);
+fs.writeFile("stat.json", JSON.stringify(result, null, 2), (err) => {
+  if (err) throw err;
+  console.log("文件已被保存");
+});
+fs.writeFile("lessStat.json", JSON.stringify(lessStat, null, 2), (err) => {
   if (err) throw err;
   console.log("文件已被保存");
 });

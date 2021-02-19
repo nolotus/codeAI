@@ -10,6 +10,8 @@ export const initStat = (stat) => {
     yml: 0,
     children: [],
     leaf: [],
+    max: 0,
+    average: 0,
   };
 };
 export const mainPath = "G:/airhost_pms_nextjs";

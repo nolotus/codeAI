@@ -2,11 +2,11 @@
   "currentLess": 0,
   "childrenLess": 129,
   "totalLess": 129,
-  "js": 5,
-  "sh": 3,
-  "json": 3,
-  "ts": 2,
-  "yml": 4,
+  "js": 0,
+  "sh": 0,
+  "json": 0,
+  "ts": 0,
+  "yml": 0,
   "children": [
     {
       "name": "assets",
@@ -30,13 +30,15 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "logo.png"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
       "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -61,9 +63,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "avatar.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -78,14 +80,12 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "GiantButton.module.less",
-            "GiantButton.tsx",
-            "IconButton.module.less",
-            "IconButton.tsx",
-            "TextButton.module.less",
-            "TextButton.tsx",
-            "UploaderButton.tsx"
+            "GiantButton.module.less 7 line",
+            "IconButton.module.less 16 line",
+            "TextButton.module.less 16 line"
           ],
+          "max": 16,
+          "average": 12.875,
           "level": 2
         },
         {
@@ -100,10 +100,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "DateSwitch.tsx",
-            "Table.module.less",
-            "Table.tsx"
+            "Table.module.less 38 line"
           ],
+          "max": 38,
+          "average": 19,
           "level": 2
         },
         {
@@ -118,10 +118,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "DrawerContainer.tsx",
-            "DrawerHeader.module.less",
-            "DrawerHeader.tsx"
+            "DrawerHeader.module.less 24 line"
           ],
+          "max": 24,
+          "average": 12,
           "level": 2
         },
         {
@@ -132,19 +132,15 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 2,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "filterPanel.module.less",
-            "FilterPanel.tsx",
-            "FilterResult.module.less",
-            "FilterResult.test.ts",
-            "FilterResult.tsx",
-            "Sort.tsx",
-            "SortPanel.tsx",
-            "SortUtils.ts"
+            "filterPanel.module.less 14 line",
+            "FilterResult.module.less 18 line"
           ],
+          "max": 18,
+          "average": 12.5,
           "level": 2
         },
         {
@@ -155,23 +151,15 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "EditableTextArea.module.less",
-            "EditableTextArea.tsx",
-            "ImageUploadPreview.module.less",
-            "ImageUploadPreview.tsx",
-            "LanguageSelector.tsx",
-            "LoadingWrapper.tsx",
-            "Nationality.tsx",
-            "PhoneNumberInput.tsx",
-            "rangePickerHooks.test.ts",
-            "rangePickerHooks.tsx",
-            "TimePickerWihoutOk.tsx",
-            "useLoading.tsx"
+            "EditableTextArea.module.less 110 line",
+            "ImageUploadPreview.module.less 23 line"
           ],
+          "max": 110,
+          "average": 39,
           "level": 2
         },
         {
@@ -186,19 +174,15 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "PageHeader.module.less",
-            "PageHeader.tsx",
-            "PageHeaderSimple.module.less",
-            "PageHeaderSimple.tsx",
-            "SiteHeader.module.less",
-            "SiteHeader.tsx",
-            "SwitchLanguage.module.less",
-            "SwitchLanguage.tsx",
-            "UnreadTicket.module.less",
-            "UnreadTicket.tsx",
-            "UserProfileDropdown.module.less",
-            "UserProfileDropdown.tsx"
+            "PageHeader.module.less 49 line",
+            "PageHeaderSimple.module.less 75 line",
+            "SiteHeader.module.less 46 line",
+            "SwitchLanguage.module.less 6 line",
+            "UnreadTicket.module.less 18 line",
+            "UserProfileDropdown.module.less 6 line"
           ],
+          "max": 75,
+          "average": 14.234375,
           "level": 2
         },
         {
@@ -223,122 +207,15 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "BeforeCheckinIcon.tsx",
-                "BeforeCheckinIconGrey.tsx",
-                "BookingIcon.tsx",
-                "BookingIconGrey.tsx",
-                "BookingsIcon.tsx",
-                "BookingSiteIcon.tsx",
-                "CalendarIcon.tsx",
-                "CardIcon.tsx",
-                "CheckinCodeIcon.tsx",
-                "CheckinDateIcon.tsx",
-                "CheckinInfoIcon.tsx",
-                "CheckinPinCodeIcon.tsx",
-                "CheckinTimeIcon.tsx",
-                "CheckoutDateIcon.tsx",
-                "CheckoutTimeIcon.tsx",
-                "CloseIcon.tsx",
-                "ConfirmNumberIcon.tsx",
-                "DisabledIcon.tsx",
-                "EditIcon.tsx",
-                "ExtraMemoIcon.tsx",
-                "GuestNameIcon.tsx",
-                "HostNameIcon.tsx",
-                "HouseNameIcon.tsx",
-                "InvoiceIcon.tsx",
-                "LockCodeIcon.tsx",
-                "PhoneIcon.tsx",
-                "PreCheckinUrlIcon.tsx",
-                "QuestionIcon.tsx",
-                "RoomManualIcon.tsx",
-                "RoomNoIcon.tsx",
-                "RoomTypeIcon.tsx",
-                "SendForEachRoomIcon.tsx",
-                "SignatureIcon.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
-          "leaf": [
-            "AddIcon.tsx",
-            "AddNewIcon.tsx",
-            "AdminConsoleIcon.tsx",
-            "AdvancedIcon.tsx",
-            "ApartmentIcon.tsx",
-            "AutoMessageIcon.tsx",
-            "BasicIcon.tsx",
-            "BellIcon.tsx",
-            "BirthdayIcon.tsx",
-            "BookingIcon.tsx",
-            "BuildingIcon.tsx",
-            "CalendarIcon.tsx",
-            "ChangeIcon.tsx",
-            "CheckinIcon.tsx",
-            "CheckinSettingsIcon.tsx",
-            "CheckoutIcon.tsx",
-            "CloseIcon.tsx",
-            "CloudIcon.tsx",
-            "CollapseIcon.tsx",
-            "CommentIcon.tsx",
-            "CountryFlag.tsx",
-            "CreateIcon.tsx",
-            "CreateListingIcon.tsx",
-            "CurrencyIcon.tsx",
-            "DashboardIcon.tsx",
-            "DeleteIcon.tsx",
-            "DownloadIcon.tsx",
-            "Edit2Icon.tsx",
-            "EditIcon.tsx",
-            "FilterIcon.tsx",
-            "GuestIcon.tsx",
-            "HookIcon.tsx",
-            "HotelIcon.tsx",
-            "HouseInformationIcons.tsx",
-            "HouseListCheckinIcon.tsx",
-            "HouseListCheckoutIcon.tsx",
-            "HousePropertyIcon.tsx",
-            "ImportBookingsIcon.tsx",
-            "LocationIcon.tsx",
-            "LockIcon.tsx",
-            "MarkerIcon.tsx",
-            "MessageIcon.tsx",
-            "NameIcon.tsx",
-            "OccupationIcon.tsx",
-            "OrderBellIcon.tsx",
-            "OrdersIcon.tsx",
-            "PackageIcon.tsx",
-            "PhoneIcon.tsx",
-            "PlusIcon.tsx",
-            "PreviewIcon.tsx",
-            "ProfessionalPlanIcon.tsx",
-            "ProIcon.tsx",
-            "PropertyApartmentIcon.tsx",
-            "PropertyHotelIcon.tsx",
-            "RedClose.tsx",
-            "ReportIcon.tsx",
-            "ResendEmailIcon.tsx",
-            "RoomTypeIcon.tsx",
-            "RoomUnitsIcon.tsx",
-            "Sadness.tsx",
-            "SaveIcon.tsx",
-            "SearchIcon.tsx",
-            "SettingsIcon.tsx",
-            "SidebarIcon.tsx",
-            "SortIcon.tsx",
-            "SuccessCompletedIcon.tsx",
-            "SuccessIcon.tsx",
-            "SwitchIcon.tsx",
-            "TimeIcon.tsx",
-            "TimezoneIcon.tsx",
-            "UploadIcon.tsx",
-            "UserCheckIcon.tsx",
-            "UserIcon.tsx",
-            "VerifiedIcon.tsx",
-            "VerifyEmailIcon.tsx",
-            "XlsIcon.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -353,14 +230,12 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "layout.module.less",
-            "Layout.tsx",
-            "PageContainer.module.less",
-            "PageContainer.tsx",
-            "SecondaryMenu.module.less",
-            "SecondaryMenu.tsx",
-            "Sidebar.tsx"
+            "layout.module.less 36 line",
+            "PageContainer.module.less 38 line",
+            "SecondaryMenu.module.less 47 line"
           ],
+          "max": 47,
+          "average": 37.5,
           "level": 2
         },
         {
@@ -374,9 +249,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "PageLoading.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -390,9 +265,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "GoogleMap.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -407,10 +282,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "Navbar.module.less",
-            "Navbar.tsx",
-            "navbarConfig.tsx"
+            "Navbar.module.less 41 line"
           ],
+          "max": 41,
+          "average": 20.5,
           "level": 2
         },
         {
@@ -425,9 +300,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "navigation.module.less",
-            "Navigation.tsx"
+            "navigation.module.less 39 line"
           ],
+          "max": 39,
+          "average": 19.5,
           "level": 2
         },
         {
@@ -438,16 +314,12 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 3,
+          "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "AdminNav.tsx",
-            "InPageNav.tsx",
-            "propertyItems.ts",
-            "styled.ts",
-            "topLevelItems.ts"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -462,9 +334,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "CardElement.module.less",
-            "CardElement.tsx"
+            "CardElement.module.less 22 line"
           ],
+          "max": 22,
+          "average": 11,
           "level": 2
         },
         {
@@ -478,32 +351,21 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "THead.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
       "leaf": [
-        "Can.tsx",
-        "ChannelLogoSquare.tsx",
-        "Container.module.less",
-        "Container.tsx",
-        "DateFormat.tsx",
-        "Dots.tsx",
-        "Gender.tsx",
-        "HouseMenu.module.less",
-        "HouseMenu.tsx",
-        "Link.tsx",
-        "Menu.tsx",
-        "PageLayout.module.less",
-        "PageLayout.tsx",
-        "PageTitleWithBreadcrumb.tsx",
-        "PricePoint.module.less",
-        "PricePoint.tsx",
-        "WindowLayout.module.less",
-        "WindowLayout.tsx"
+        "Container.module.less 7 line",
+        "HouseMenu.module.less 5 line",
+        "PageLayout.module.less 11 line",
+        "PricePoint.module.less 17 line",
+        "WindowLayout.module.less 54 line"
       ],
+      "max": 54,
+      "average": 33.15625,
       "level": 1
     },
     {
@@ -511,10 +373,10 @@
       "currentLess": 0,
       "childrenLess": 0,
       "totalLess": 0,
-      "js": 2,
+      "js": 0,
       "sh": 0,
       "json": 0,
-      "ts": 8,
+      "ts": 0,
       "yml": 0,
       "children": [
         {
@@ -522,19 +384,15 @@
           "currentLess": 0,
           "childrenLess": 0,
           "totalLess": 0,
-          "js": 5,
+          "js": 0,
           "sh": 0,
           "json": 0,
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "cli.js",
-            "config.js",
-            "generator.js",
-            "mock.js",
-            "util.js"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -548,30 +406,15 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "crt.pem",
-            "key.pem"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
-      "leaf": [
-        "antdLessLoader.js",
-        "colors.ts",
-        "countryList.ts",
-        "facilities.ts",
-        "importBookingFields.ts",
-        "languageList.ts",
-        "nginx-prod",
-        "prod-td-agent-bit-parsers.conf",
-        "prod-td-agent-bit.conf",
-        "propertyStyles.test.ts",
-        "propertyStyles.ts",
-        "service-nextjs",
-        "service-td-agent-bit",
-        "setupFormily.ts",
-        "svgLoader.js"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -593,14 +436,14 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "AdminLayout.module.less",
-            "index.tsx",
-            "styled.ts"
+            "AdminLayout.module.less 24 line"
           ],
+          "max": 24,
+          "average": 12,
           "level": 2
         },
         {
@@ -626,17 +469,18 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "ExportArchiveData.module.less",
-                "ExportArchiveData.tsx",
-                "index.module.less",
-                "index.tsx",
-                "ListingDropdown.module.less",
-                "ListingDropdown.tsx"
+                "ExportArchiveData.module.less 6 line",
+                "index.module.less 30 line",
+                "ListingDropdown.module.less 15 line"
               ],
+              "max": 30,
+              "average": 15.75,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -647,7 +491,7 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 2,
+          "ts": 0,
           "yml": 0,
           "children": [
             {
@@ -669,29 +513,24 @@
                   "js": 0,
                   "sh": 0,
                   "json": 0,
-                  "ts": 1,
+                  "ts": 0,
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "AdditionalInfo.tsx",
-                    "PickHotel.tsx",
-                    "RatePlan.module.less",
-                    "RatePlan.tsx",
-                    "RequesterInfo.tsx",
-                    "RoomGuest.module.less",
-                    "RoomGuest.test.ts",
-                    "RoomGuest.tsx"
+                    "RatePlan.module.less 30 line",
+                    "RoomGuest.module.less 6 line"
                   ],
+                  "max": 30,
+                  "average": 10.5,
                   "level": 4
                 }
               ],
               "leaf": [
-                "AddAdjustment.tsx",
-                "AddBookingDrawer.module.less",
-                "AddBookingDrawer.tsx",
-                "AddBookingStep.module.less",
-                "AddBookingStep.tsx"
+                "AddBookingDrawer.module.less 28 line",
+                "AddBookingStep.module.less 7 line"
               ],
+              "max": 28,
+              "average": 10.5,
               "level": 3
             },
             {
@@ -713,29 +552,24 @@
                   "js": 0,
                   "sh": 0,
                   "json": 0,
-                  "ts": 1,
+                  "ts": 0,
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "AdditionalInfo.tsx",
-                    "PickHotel.tsx",
-                    "RatePlan.module.less",
-                    "RatePlan.tsx",
-                    "RequesterInfo.tsx",
-                    "RoomGuest.module.less",
-                    "RoomGuest.test.ts",
-                    "RoomGuest.tsx"
+                    "RatePlan.module.less 30 line",
+                    "RoomGuest.module.less 6 line"
                   ],
+                  "max": 30,
+                  "average": 10.5,
                   "level": 4
                 }
               ],
               "leaf": [
-                "AddAdjustment.tsx",
-                "AddBookingDrawer.module.less",
-                "AddBookingDrawer.tsx",
-                "AddBookingStep.module.less",
-                "AddBookingStep.tsx"
+                "AddBookingDrawer.module.less 28 line",
+                "AddBookingStep.module.less 7 line"
               ],
+              "max": 28,
+              "average": 10.5,
               "level": 3
             },
             {
@@ -746,22 +580,17 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 1,
+              "ts": 0,
               "yml": 0,
               "children": [],
               "leaf": [
-                "checkin.ts",
-                "CheckinDrawer.module.less",
-                "CheckinForm.module.less",
-                "CheckinForm.tsx",
-                "index.tsx",
-                "passport.png",
-                "photo.png",
-                "Signatue.module.less",
-                "Signature.tsx",
-                "Upload.module.less",
-                "Upload.tsx"
+                "CheckinDrawer.module.less 23 line",
+                "CheckinForm.module.less 45 line",
+                "Signatue.module.less 41 line",
+                "Upload.module.less 23 line"
               ],
+              "max": 45,
+              "average": 28.8125,
               "level": 3
             },
             {
@@ -775,13 +604,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "InvoiceDetailContent.tsx",
-                "InvoiceDetailDrawer.tsx",
-                "InvoiceLineItemsTable.tsx",
-                "OrderAdjustmentTable.tsx",
-                "SplitPayment.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -795,10 +620,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "PaymentDetailDrawer.tsx",
-                "RefundModal.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -823,58 +647,37 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "invoice_item.png",
-                    "payment.png",
-                    "refund.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
               "leaf": [
-                "AddTransaction.module.less",
-                "AddTransaction.tsx",
-                "ArrangePaymentDrawer.module.less",
-                "ArrangePaymentDrawer.tsx",
-                "PayDrawer.module.less",
-                "PayDrawer.tsx",
-                "PrintTransaction.module.less",
-                "PrintTransaction.tsx",
-                "RecordPayment.module.less",
-                "RecordPayment.tsx",
-                "TransactionDetail.module.less",
-                "TransactionDetail.tsx",
-                "TransactionList.tsx",
-                "TransactionStep.tsx",
-                "TransactionTable.module.less",
-                "TransactionTable.tsx"
+                "AddTransaction.module.less 8 line",
+                "ArrangePaymentDrawer.module.less 12 line",
+                "PayDrawer.module.less 5 line",
+                "PrintTransaction.module.less 153 line",
+                "RecordPayment.module.less 16 line",
+                "TransactionDetail.module.less 11 line",
+                "TransactionTable.module.less 9 line"
               ],
+              "max": 153,
+              "average": 19.21875,
               "level": 3
             }
           ],
           "leaf": [
-            "BookingDetailInDrawer.module.less",
-            "BookingDetailInDrawer.test.ts",
-            "BookingDetailInDrawer.tsx",
-            "BookingExport.tsx",
-            "BookingSelector.module.less",
-            "BookingSelector.tsx",
-            "BookingTable.module.less",
-            "BookingTable.tsx",
-            "CheckInBookingIdContext.tsx",
-            "index.tsx",
-            "LogsDrawer.module.less",
-            "LogsDrawer.tsx",
-            "MessageDrawer.module.less",
-            "MessageDrawer.test.ts",
-            "MessageDrawer.tsx",
-            "PinCodeDrawer.module.less",
-            "PinCodeDrawer.tsx",
-            "RangeFilter.tsx",
-            "RoomInfoDrawer.module.less",
-            "RoomInfoDrawer.tsx",
-            "RoomUnitSelector.tsx"
+            "BookingDetailInDrawer.module.less 122 line",
+            "BookingSelector.module.less 67 line",
+            "BookingTable.module.less 42 line",
+            "LogsDrawer.module.less 28 line",
+            "MessageDrawer.module.less 129 line",
+            "PinCodeDrawer.module.less 72 line",
+            "RoomInfoDrawer.module.less 14 line"
           ],
+          "max": 129,
+          "average": 46.1875,
           "level": 2
         },
         {
@@ -889,9 +692,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "index.module.less",
-            "index.tsx"
+            "index.module.less 33 line"
           ],
+          "max": 33,
+          "average": 16.5,
           "level": 2
         },
         {
@@ -905,9 +709,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -933,16 +737,18 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "Aside.tsx",
-                "Breadcrumb.tsx",
-                "detail.module.less"
+                "detail.module.less 27 line"
               ],
+              "max": 27,
+              "average": 13.5,
               "level": 3
             }
           ],
           "leaf": [
-            "guestlist.module.less"
+            "guestlist.module.less 26 line"
           ],
+          "max": 26,
+          "average": 13,
           "level": 2
         },
         {
@@ -953,7 +759,7 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [
             {
@@ -990,16 +796,18 @@
                       "yml": 0,
                       "children": [],
                       "leaf": [
-                        "GuestInformationPreview.module.less",
-                        "GuestInformationPreview.tsx"
+                        "GuestInformationPreview.module.less 0 line"
                       ],
+                      "max": 0,
+                      "average": 0,
                       "level": 5
                     }
                   ],
                   "leaf": [
-                    "GuestInformation.module.less",
-                    "GuestInformation.tsx"
+                    "GuestInformation.module.less 32 line"
                   ],
+                  "max": 32,
+                  "average": 16,
                   "level": 4
                 },
                 {
@@ -1025,15 +833,16 @@
                       "yml": 0,
                       "children": [],
                       "leaf": [
-                        "HotelSettingsPreview.module.less",
-                        "HotelSettingsPreview.tsx"
+                        "HotelSettingsPreview.module.less 35 line"
                       ],
+                      "max": 35,
+                      "average": 17.5,
                       "level": 5
                     }
                   ],
-                  "leaf": [
-                    "HotelSettings.tsx"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -1048,10 +857,10 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "HouseCheckinSettingsLayout.tsx",
-                    "SettingsWithPreviewLayout.module.less",
-                    "SettingsWithPreviewLayout.tsx"
+                    "SettingsWithPreviewLayout.module.less 20 line"
                   ],
+                  "max": 20,
+                  "average": 10,
                   "level": 4
                 },
                 {
@@ -1066,10 +875,10 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "PaymentCollections.module.less",
-                    "PaymentCollections.tsx",
-                    "SecurityDepositSettings.tsx"
+                    "PaymentCollections.module.less 46 line"
                   ],
+                  "max": 46,
+                  "average": 23,
                   "level": 4
                 },
                 {
@@ -1095,16 +904,18 @@
                       "yml": 0,
                       "children": [],
                       "leaf": [
-                        "RoomKeyConfigurationPreview.module.less",
-                        "RoomKeyConfigurationPreview.tsx"
+                        "RoomKeyConfigurationPreview.module.less 3 line"
                       ],
+                      "max": 3,
+                      "average": 1.5,
                       "level": 5
                     }
                   ],
                   "leaf": [
-                    "RoomKeyConfiguration.module.less",
-                    "RoomKeyConfiguration.tsx"
+                    "RoomKeyConfiguration.module.less 3 line"
                   ],
+                  "max": 3,
+                  "average": 1.5,
                   "level": 4
                 },
                 {
@@ -1130,27 +941,27 @@
                       "yml": 0,
                       "children": [],
                       "leaf": [
-                        "map.jpg",
-                        "VerificationStepsPreview.module.less",
-                        "VerificationStepsPreview.tsx"
+                        "VerificationStepsPreview.module.less 33 line"
                       ],
+                      "max": 33,
+                      "average": 16.5,
                       "level": 5
                     }
                   ],
                   "leaf": [
-                    "VerificationSteps.module.less",
-                    "VerificationSteps.tsx"
+                    "VerificationSteps.module.less 62 line"
                   ],
+                  "max": 62,
+                  "average": 31,
                   "level": 4
                 }
               ],
               "leaf": [
-                "BorderedForm.module.less",
-                "CheckinLayout.tsx",
-                "iPhone12Pro.png",
-                "Preview.module.less",
-                "Preview.tsx"
+                "BorderedForm.module.less 32 line",
+                "Preview.module.less 40 line"
               ],
+              "max": 40,
+              "average": 28,
               "level": 3
             },
             {
@@ -1161,19 +972,14 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 1,
+              "ts": 0,
               "yml": 0,
               "children": [],
               "leaf": [
-                "houseCard.module.less",
-                "HouseCard.test.ts",
-                "HouseCard.tsx",
-                "HouseLogo.tsx",
-                "HouseSidebar.tsx",
-                "HouseStatus.tsx",
-                "HouseUnlistModal.tsx",
-                "PropertySelect.tsx"
+                "houseCard.module.less 18 line"
               ],
+              "max": 18,
+              "average": 9,
               "level": 3
             },
             {
@@ -1184,16 +990,12 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 1,
+              "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "AddClientModal.tsx",
-                "HouseClient.tsx",
-                "HouseClientEdit.test.ts",
-                "HouseClientEdit.tsx",
-                "HouseClientView.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1204,16 +1006,12 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 1,
+              "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "DescriptionItem.tsx",
-                "HouseDescription.tsx",
-                "HouseDescriptionEdit.test.ts",
-                "HouseDescriptionEdit.tsx",
-                "HouseDescriptionView.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1227,11 +1025,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "HouseFacilities.tsx",
-                "HouseFacilitiesEdit.tsx",
-                "HouseFacilitiesView.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1245,23 +1041,18 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "HouseSettingsEdit.tsx",
-                "HouseSettingsView.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [
-            "FormItem.tsx",
-            "HouseDropdown.tsx",
-            "HouseList.module.less",
-            "HouseList.tsx",
-            "houseSection.module.less",
-            "HouseSection.tsx",
-            "HouseSettings.tsx",
-            "mockHouseResponse.ts"
+            "HouseList.module.less 73 line",
+            "houseSection.module.less 25 line"
           ],
+          "max": 73,
+          "average": 30.75,
           "level": 2
         },
         {
@@ -1272,23 +1063,15 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 5,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "ApplyStep.test.ts",
-            "ApplyStep.tsx",
-            "FinishStep.tsx",
-            "importFooter.test.ts",
-            "importFooter.ts",
-            "MappingField.module.less",
-            "MappingField.tsx",
-            "mappingList.ts",
-            "MappingStep.module.less",
-            "MappingStep.tsx",
-            "sampleData.ts",
-            "UploadStep.tsx"
+            "MappingField.module.less 24 line",
+            "MappingStep.module.less 11 line"
           ],
+          "max": 24,
+          "average": 11.5,
           "level": 2
         },
         {
@@ -1303,10 +1086,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "FilterBar.tsx",
-            "ImportHistory.module.less",
-            "index.tsx"
+            "ImportHistory.module.less 106 line"
           ],
+          "max": 106,
+          "average": 53,
           "level": 2
         },
         {
@@ -1321,11 +1104,11 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "index.module.less",
-            "index.tsx",
-            "InvoiceDetail.module.less",
-            "InvoiceDetail.tsx"
+            "index.module.less 72 line",
+            "InvoiceDetail.module.less 134 line"
           ],
+          "max": 134,
+          "average": 85,
           "level": 2
         },
         {
@@ -1351,9 +1134,10 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "CheckinManagementPageNewLayout.module.less",
-                "CheckinManagementPageNewLayout.tsx"
+                "CheckinManagementPageNewLayout.module.less 42 line"
               ],
+              "max": 42,
+              "average": 21,
               "level": 3
             },
             {
@@ -1368,15 +1152,13 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "Dashboard.module.less",
-                "Dashboard.tsx",
-                "DashboardItem.module.less",
-                "DashboardItem.tsx",
-                "OnboardingWizard.module.less",
-                "OnboardingWizard.tsx",
-                "VerifyEmail.module.less",
-                "VerifyEmail.tsx"
+                "Dashboard.module.less 11 line",
+                "DashboardItem.module.less 67 line",
+                "OnboardingWizard.module.less 90 line",
+                "VerifyEmail.module.less 64 line"
               ],
+              "max": 90,
+              "average": 63.5625,
               "level": 3
             },
             {
@@ -1402,12 +1184,11 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "CreateHouse.module.less",
-                    "CreateHouseProgress.module.less",
-                    "CreateHouseProgress.tsx",
-                    "HouseBasicInfo.tsx",
-                    "index.tsx"
+                    "CreateHouse.module.less 176 line",
+                    "CreateHouseProgress.module.less 84 line"
                   ],
+                  "max": 176,
+                  "average": 86,
                   "level": 4
                 },
                 {
@@ -1418,14 +1199,14 @@
                   "js": 0,
                   "sh": 0,
                   "json": 0,
-                  "ts": 1,
+                  "ts": 0,
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "HouseDetail.module.less",
-                    "HouseDetail.tsx",
-                    "styled.ts"
+                    "HouseDetail.module.less 165 line"
                   ],
+                  "max": 165,
+                  "average": 82.5,
                   "level": 4
                 },
                 {
@@ -1440,20 +1221,19 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "HouseBasicInfo.tsx",
-                    "HouseEditPage.module.less",
-                    "HouseEditPage.tsx"
+                    "HouseEditPage.module.less 20 line"
                   ],
+                  "max": 20,
+                  "average": 10,
                   "level": 4
                 }
               ],
               "leaf": [
-                "AddRoomTypeDrawer.module.less",
-                "AddRoomTypeDrawer.tsx",
-                "RoomTypeList.module.less",
-                "RoomTypeList.tsx",
-                "RoomTypePage.tsx"
+                "AddRoomTypeDrawer.module.less 191 line",
+                "RoomTypeList.module.less 133 line"
               ],
+              "max": 191,
+              "average": 114.25,
               "level": 3
             },
             {
@@ -1464,7 +1244,7 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 2,
+              "ts": 0,
               "yml": 0,
               "children": [
                 {
@@ -1479,32 +1259,21 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "DateFormat.tsx",
-                    "EnumField.tsx",
-                    "Header.tsx",
-                    "index.tsx",
-                    "MapField.tsx",
-                    "MappingField.module.less"
+                    "MappingField.module.less 239 line"
                   ],
+                  "max": 239,
+                  "average": 119.5,
                   "level": 4
                 }
               ],
               "leaf": [
-                "ApplyStep.tsx",
-                "FinishStep.tsx",
-                "ImportBook.tsx",
-                "ImportFooter.tsx",
-                "ImportHooks.ts",
-                "ImportStep.ts",
-                "index.module.less",
-                "index.tsx",
-                "MappingModal.module.less",
-                "MappingModal.tsx",
-                "MappingStep.module.less",
-                "MappingStep.tsx",
-                "UploadStep.module.less",
-                "UploadStep.tsx"
+                "index.module.less 95 line",
+                "MappingModal.module.less 47 line",
+                "MappingStep.module.less 60 line",
+                "UploadStep.module.less 110 line"
               ],
+              "max": 110,
+              "average": 81.8125,
               "level": 3
             },
             {
@@ -1515,19 +1284,16 @@
               "js": 0,
               "sh": 0,
               "json": 0,
-              "ts": 1,
+              "ts": 0,
               "yml": 0,
               "children": [],
               "leaf": [
-                "HouseDropMenuItem.tsx",
-                "HouseSwitcher.module.less",
-                "HouseSwitcher.tsx",
-                "PmsLayout.module.less",
-                "PmsLayout.tsx",
-                "styled.ts",
-                "ThemableTable.module.less",
-                "ThemableTable.tsx"
+                "HouseSwitcher.module.less 55 line",
+                "PmsLayout.module.less 162 line",
+                "ThemableTable.module.less 64 line"
               ],
+              "max": 162,
+              "average": 79.375,
               "level": 3
             },
             {
@@ -1549,15 +1315,14 @@
                   "js": 0,
                   "sh": 0,
                   "json": 0,
-                  "ts": 1,
+                  "ts": 0,
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "Account.module.less",
-                    "EditAccount.tsx",
-                    "useAccount.ts",
-                    "UserAccount.tsx"
+                    "Account.module.less 150 line"
                   ],
+                  "max": 150,
+                  "average": 75,
                   "level": 4
                 },
                 {
@@ -1568,23 +1333,17 @@
                   "js": 0,
                   "sh": 0,
                   "json": 0,
-                  "ts": 1,
+                  "ts": 0,
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "AutoMessage.module.less",
-                    "AutoMessage.tsx",
-                    "AutoMessageEdit.tsx",
-                    "AutoMessageEditDrawer.module.less",
-                    "AutoMessageEditDrawer.tsx",
-                    "AutoMessageIcon.module.less",
-                    "AutoMessageIcon.tsx",
-                    "AutoMessageItemInList.tsx",
-                    "autoMessageTimeline.ts",
-                    "ExtraMemoHint.module.less",
-                    "ExtraMemoHint.tsx",
-                    "HouseAutoMessage.tsx"
+                    "AutoMessage.module.less 138 line",
+                    "AutoMessageEditDrawer.module.less 227 line",
+                    "AutoMessageIcon.module.less 16 line",
+                    "ExtraMemoHint.module.less 35 line"
                   ],
+                  "max": 227,
+                  "average": 58.5,
                   "level": 4
                 },
                 {
@@ -1599,20 +1358,22 @@
                   "yml": 0,
                   "children": [],
                   "leaf": [
-                    "HouseInformations.module.less",
-                    "HouseInformations.tsx",
-                    "IconMaps.tsx",
-                    "InformationForm.tsx",
-                    "Preview.tsx"
+                    "HouseInformations.module.less 91 line"
                   ],
+                  "max": 91,
+                  "average": 45.5,
                   "level": 4
                 }
               ],
               "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1623,16 +1384,14 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "EditProfile.tsx",
-            "ModifyPassword.tsx",
-            "Profile.module.less",
-            "UserNameField.tsx",
-            "useUser.ts"
+            "Profile.module.less 60 line"
           ],
+          "max": 60,
+          "average": 30,
           "level": 2
         },
         {
@@ -1646,9 +1405,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1659,7 +1418,7 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 2,
+          "ts": 0,
           "yml": 0,
           "children": [
             {
@@ -1674,9 +1433,10 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "Breadcrumb.module.less",
-                "Breadcrumb.tsx"
+                "Breadcrumb.module.less 24 line"
               ],
+              "max": 24,
+              "average": 12,
               "level": 3
             },
             {
@@ -1691,9 +1451,10 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "FilterBar.module.less",
-                "FilterBar.tsx"
+                "FilterBar.module.less 32 line"
               ],
+              "max": 32,
+              "average": 16,
               "level": 3
             },
             {
@@ -1707,9 +1468,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "PerCountry.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1723,9 +1484,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "PerOTAData.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1739,9 +1500,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "PerPeriodData.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1755,9 +1516,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "PerRoomTypeData.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1771,9 +1532,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "SalesDetail.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1788,9 +1549,10 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "Tooltip.module.less",
-                "Tooltip.tsx"
+                "Tooltip.module.less 37 line"
               ],
+              "max": 37,
+              "average": 18.5,
               "level": 3
             },
             {
@@ -1804,9 +1566,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "TotalSales.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1821,18 +1583,18 @@
               "yml": 0,
               "children": [],
               "leaf": [
-                "TotalSummary.module.less",
-                "TotalSummary.tsx"
+                "TotalSummary.module.less 27 line"
               ],
+              "max": 27,
+              "average": 13.5,
               "level": 3
             }
           ],
           "leaf": [
-            "index.tsx",
-            "sales.less",
-            "Sales.ts",
-            "useRequest.ts"
+            "sales.less 46 line"
           ],
+          "max": 46,
+          "average": 23,
           "level": 2
         },
         {
@@ -1846,10 +1608,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "SampleAdminLayout.tsx",
-            "SampleLayoutPage.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1860,13 +1621,12 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx",
-            "signin.ts"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1891,11 +1651,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "slide-1.png",
-                "slide-2.png",
-                "slide-3.png"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -1909,18 +1667,15 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "AccountInfo.tsx",
-                "BasicInfo.tsx",
-                "Completed.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
-          "leaf": [
-            "index.tsx",
-            "Swiper.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1931,21 +1686,17 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
           "leaf": [
-            "compare.module.less",
-            "compare.tsx",
-            "currentSubscription.tsx",
-            "index.module.less",
-            "index.tsx",
-            "payment.module.less",
-            "payment.tsx",
-            "updateSubscription.module.less",
-            "updateSubscription.tsx",
-            "useSubscription.ts"
+            "compare.module.less 140 line",
+            "index.module.less 96 line",
+            "payment.module.less 44 line",
+            "updateSubscription.module.less 184 line"
           ],
+          "max": 184,
+          "average": 123.75,
           "level": 2
         },
         {
@@ -1959,9 +1710,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "UserProfile.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -1976,11 +1727,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "AddUsers.tsx",
-            "EditUserDrawer.tsx",
-            "UserList.tsx",
-            "Users.module.less"
+            "Users.module.less 63 line"
           ],
+          "max": 63,
+          "average": 31.5,
           "level": 2
         },
         {
@@ -1991,7 +1741,7 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [
             {
@@ -2005,38 +1755,31 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "photo.png",
-                "video.png"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [
-            "bookingInfo.module.less",
-            "bookingInfo.tsx",
-            "bookingSummary.module.less",
-            "bookingSummary.tsx",
-            "comments.module.less",
-            "comments.tsx",
-            "demo.ts",
-            "guest.module.less",
-            "guest.tsx",
-            "guestInfo.module.less",
-            "guestInfo.tsx",
-            "header.module.less",
-            "header.tsx",
-            "videoInfo.module.less",
-            "videoInfo.tsx",
-            "videoList.module.less",
-            "videoList.tsx",
-            "videosManagement.module.less",
-            "videosManagement.tsx"
+            "bookingInfo.module.less 138 line",
+            "bookingSummary.module.less 14 line",
+            "comments.module.less 14 line",
+            "guest.module.less 63 line",
+            "guestInfo.module.less 62 line",
+            "header.module.less 35 line",
+            "videoInfo.module.less 41 line",
+            "videoList.module.less 113 line",
+            "videosManagement.module.less 64 line"
           ],
+          "max": 138,
+          "average": 70.91796875,
           "level": 2
         }
       ],
       "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -2050,9 +1793,9 @@
       "ts": 0,
       "yml": 0,
       "children": [],
-      "leaf": [
-        "NavContext.tsx"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -2066,9 +1809,9 @@
       "ts": 0,
       "yml": 0,
       "children": [],
-      "leaf": [
-        "logo.png"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -2090,7 +1833,7 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [
             {
@@ -2104,31 +1847,23 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "signin.png",
-                "signup.png"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [
-            "FormTitle.tsx",
-            "FormWrapper.ts",
-            "index.tsx",
-            "Left.tsx",
-            "StartHeader.module.less",
-            "StartHeader.tsx"
+            "StartHeader.module.less 44 line"
           ],
+          "max": 44,
+          "average": 22,
           "level": 2
         }
       ],
-      "leaf": [
-        "EmptyLayout.tsx",
-        "PageTitle.tsx",
-        "ProfileLayout.tsx",
-        "SecondaryLayout.tsx",
-        "WithHead.tsx"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -2147,16 +1882,15 @@
           "currentLess": 0,
           "childrenLess": 0,
           "totalLess": 0,
-          "js": 2,
+          "js": 0,
           "sh": 0,
           "json": 0,
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "guests.js",
-            "table_sort.js"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -2179,7 +1913,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2188,20 +1922,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 2,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "billings-detail-get.json",
-                    "billings-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "billings.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2213,7 +1946,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2222,23 +1955,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 5,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "booking_imports.json",
-                    "comments.json",
-                    "createComment.json",
-                    "export.json",
-                    "overlapped_count.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "bookings.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2250,7 +1979,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2259,25 +1988,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 7,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "booking_imports-post.json",
-                    "booking_import_template-delete.json",
-                    "booking_import_template-get.json",
-                    "booking_import_templates-get.json",
-                    "booking_import_templates-post.json",
-                    "booking_import_templates-put.json",
-                    "upload-post.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "checkin.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2289,7 +2012,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2298,30 +2021,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 12,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "attachments-post.json",
-                    "booking.json",
-                    "bookings.json",
-                    "guests-delete.json",
-                    "guests-get.json",
-                    "guests-patch.json",
-                    "guests-post.json",
-                    "house-settings.json",
-                    "houses-get.json",
-                    "houses.json",
-                    "linkedBooking.json",
-                    "transactions.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "checkin.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2333,7 +2045,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2342,19 +2054,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "configuration.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "configuration.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2366,7 +2078,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2375,22 +2087,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 4,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "guest-get.json",
-                    "guests-get.json",
-                    "guests-patch.json",
-                    "guests_order-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "detail.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2402,7 +2111,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2411,19 +2120,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "channel_sources.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "channel.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2435,7 +2144,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2444,44 +2153,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 26,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "addresses-get.json",
-                    "addresses-put.json",
-                    "advanced-create.json",
-                    "checkin-house-details.json",
-                    "checkin-settings.json",
-                    "clients-get.json",
-                    "clients-put.json",
-                    "currencies-get.json",
-                    "currencies-put.json",
-                    "descriptions-get.json",
-                    "descriptions-put.json",
-                    "facilities-get.json",
-                    "facilities-put.json",
-                    "house-detail-put.json",
-                    "house-message.json",
-                    "houses-get.json",
-                    "houses-roomTypes-get.json",
-                    "rooms_simple-get.json",
-                    "settings-get.json",
-                    "settings-put.json",
-                    "settings_clients-get.json",
-                    "simple-get.json",
-                    "statuses-get.json",
-                    "statuses-put.json",
-                    "summaries-get.json",
-                    "summaries-put.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "houses.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2493,7 +2177,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2502,19 +2186,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "invoice-detail.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "invoices.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2526,7 +2210,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2535,21 +2219,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 3,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "iot_accesses-delete.json",
-                    "iot_accesses-put.json",
-                    "iot_accesses_revoke-post.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "iotAccesses.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2561,7 +2243,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2570,19 +2252,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "me.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "me.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2594,7 +2276,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2603,19 +2285,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "navbar.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "navbar.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2627,7 +2309,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2636,22 +2318,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 4,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "hotel-product-order.json",
-                    "payment.json",
-                    "room-order.json",
-                    "split-order.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "order.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2663,7 +2342,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2672,22 +2351,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 4,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "delete-payment-detail.json",
-                    "payment-detail.json",
-                    "refund.json",
-                    "update-payment-detail.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "payment.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2699,7 +2375,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 6,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2708,37 +2384,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 14,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "account-detail-get.json",
-                    "auto-message-detail-before-checkin-get.json",
-                    "auto-message-detail-get.json",
-                    "auto-message-get.json",
-                    "bookings-post.json",
-                    "checkin-settings-security-deposit-get.json",
-                    "checkin-settings-security-deposit-put.json",
-                    "house-auto-message-detail-get.json",
-                    "house-auto-message-get.json",
-                    "houses-detail-get.json",
-                    "houses-room-types-delete.json",
-                    "houses-room-types-get.json",
-                    "houses-room-types-post.json",
-                    "preflights-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "account.yml",
-                "autoMessages.yml",
-                "bookings.yml",
-                "checkinSettings.yml",
-                "houses.yml",
-                "settings.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2750,7 +2408,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2759,20 +2417,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 2,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "products.json",
-                    "ratePlans.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "product.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2784,7 +2441,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2793,29 +2450,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 11,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "clients-get.json",
-                    "listings-get.json",
-                    "period_fee_type-get.json",
-                    "period_ota_data-get.json",
-                    "per_country-get.json",
-                    "per_fee_type-get.json",
-                    "per_ota-get.json",
-                    "per_period-get.json",
-                    "per_room_type-get.json",
-                    "total_by_ota-get.json",
-                    "total_summary-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "report-sales.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2827,7 +2474,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2836,27 +2483,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 9,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "adjustment_type.json",
-                    "availableHouses.json",
-                    "google_maps-get.json",
-                    "onboardings.json",
-                    "preflights-get.json",
-                    "property_styles-get.json",
-                    "roomStyles.json",
-                    "settings_currencies-get.json",
-                    "timezones-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "settings.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2868,7 +2507,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2877,19 +2516,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "signup.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "signup.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2901,7 +2540,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2910,21 +2549,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 3,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "subscription-get.json",
-                    "subscription-patch.json",
-                    "subscription-products-get.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "subscription.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2936,7 +2573,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2945,19 +2582,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 1,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "unread.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "tickets.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -2969,7 +2606,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -2978,20 +2615,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 2,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "getTransactions.json",
-                    "prints-post.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "transactions.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3003,7 +2639,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -3012,20 +2648,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 2,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "get-confirmation.json",
-                    "post-password.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "user.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3037,7 +2672,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -3046,22 +2681,19 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 4,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "eventList.json",
-                    "settings.json",
-                    "subscribableEvents.json",
-                    "userNotifications.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "notifications.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3073,7 +2705,7 @@
               "sh": 0,
               "json": 0,
               "ts": 0,
-              "yml": 1,
+              "yml": 0,
               "children": [
                 {
                   "name": "mock-data",
@@ -3082,31 +2714,31 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 5,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "user-delete.json",
-                    "user-get.json",
-                    "user-put.json",
-                    "users-get.json",
-                    "users-post.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "users.yml"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
       "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -3128,12 +2760,12 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "hello.ts"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3148,14 +2780,10 @@
           "yml": 0,
           "children": [],
           "leaf": [
-            "checkin-management.tsx",
-            "checkin_management.tsx",
-            "import.module.less",
-            "import.tsx",
-            "import_bak.tsx",
-            "import_history.tsx",
-            "[id].tsx"
+            "import.module.less 33 line"
           ],
+          "max": 33,
+          "average": 16.5,
           "level": 2
         },
         {
@@ -3169,9 +2797,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "archives.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3185,9 +2813,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3201,9 +2829,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3217,9 +2845,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "table_sort.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3233,9 +2861,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "[invoiceId].tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3249,10 +2877,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "edit.tsx",
-            "new.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3266,10 +2893,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "change-password.tsx",
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3283,9 +2909,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3299,10 +2925,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "admin.tsx",
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3327,9 +2952,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3343,9 +2968,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3381,9 +3006,9 @@
                       "ts": 0,
                       "yml": 0,
                       "children": [],
-                      "leaf": [
-                        "index.tsx"
-                      ],
+                      "leaf": [],
+                      "max": 0,
+                      "average": 0,
                       "level": 5
                     },
                     {
@@ -3397,13 +3022,9 @@
                       "ts": 0,
                       "yml": 0,
                       "children": [],
-                      "leaf": [
-                        "guest-information.tsx",
-                        "house-settings.tsx",
-                        "payment-collections.tsx",
-                        "room-key-configuration.tsx",
-                        "verification-steps.tsx"
-                      ],
+                      "leaf": [],
+                      "max": 0,
+                      "average": 0,
                       "level": 5
                     },
                     {
@@ -3417,9 +3038,9 @@
                       "ts": 0,
                       "yml": 0,
                       "children": [],
-                      "leaf": [
-                        "index.tsx"
-                      ],
+                      "leaf": [],
+                      "max": 0,
+                      "average": 0,
                       "level": 5
                     },
                     {
@@ -3433,22 +3054,21 @@
                       "ts": 0,
                       "yml": 0,
                       "children": [],
-                      "leaf": [
-                        "index.tsx"
-                      ],
+                      "leaf": [],
+                      "max": 0,
+                      "average": 0,
                       "level": 5
                     }
                   ],
-                  "leaf": [
-                    "index.tsx"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "create.tsx",
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3462,9 +3082,9 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -3478,13 +3098,15 @@
               "ts": 0,
               "yml": 0,
               "children": [],
-              "leaf": [
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3498,9 +3120,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3514,9 +3136,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3530,9 +3152,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3546,9 +3168,9 @@
           "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "index.tsx"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         },
         {
@@ -3584,29 +3206,27 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "order-history.tsx",
-                    "profile.tsx"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
-              "leaf": [
-                "index.tsx"
-              ],
+              "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
-      "leaf": [
-        "index.tsx",
-        "_app.tsx",
-        "_document.tsx",
-        "_error.tsx"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -3653,50 +3273,9 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "agoda.png",
-                    "agoda@2x.png",
-                    "agoda@3x.png",
-                    "airbnb.png",
-                    "airbnb@2x.png",
-                    "airbnb@3x.png",
-                    "airhost.png",
-                    "airhost@2x.png",
-                    "airhost@3x.png",
-                    "asia_yo.png",
-                    "asia_yo@2x.png",
-                    "asia_yo@3x.png",
-                    "booking.png",
-                    "booking@2x.png",
-                    "booking@3x.png",
-                    "ctrip.png",
-                    "ctrip@2x.png",
-                    "ctrip@3x.png",
-                    "expedia.png",
-                    "expedia@2x.png",
-                    "flipkey.png",
-                    "flipkey@2x.png",
-                    "homeaway.png",
-                    "homeaway@2x.png",
-                    "homeaway@3x.png",
-                    "ikyu.png",
-                    "ikyu@2x.png",
-                    "neppan.png",
-                    "neppan@2x.png",
-                    "rakuten.png",
-                    "rakuten@2x.png",
-                    "rakuten_travel.png",
-                    "rakuten_travel@2x.png",
-                    "temairazu.png",
-                    "temairazu@2x.png",
-                    "temairazu@3x.png",
-                    "tujia.png",
-                    "tujia@2x.png",
-                    "tujia@3x.png",
-                    "zizaike.png",
-                    "zizaike@2x.png",
-                    "zizaike@3x.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -3710,14 +3289,9 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "hotel-image.jpg",
-                    "passport-photo.jpg",
-                    "passport-photo.png",
-                    "passport.jpg",
-                    "video-call.jpg",
-                    "video-call.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -3731,265 +3305,9 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "ad.svg",
-                    "ae.svg",
-                    "af.svg",
-                    "ag.svg",
-                    "ai.svg",
-                    "al.svg",
-                    "am.svg",
-                    "an.svg",
-                    "ao.svg",
-                    "aq.svg",
-                    "ar.svg",
-                    "as.svg",
-                    "at.svg",
-                    "au.svg",
-                    "aw.svg",
-                    "ax.svg",
-                    "az.svg",
-                    "ba.svg",
-                    "bb.svg",
-                    "bd.svg",
-                    "be.svg",
-                    "bf.svg",
-                    "bg.svg",
-                    "bh.svg",
-                    "bi.svg",
-                    "bj.svg",
-                    "bl.svg",
-                    "bm.svg",
-                    "bn.svg",
-                    "bo.svg",
-                    "bq.svg",
-                    "br.svg",
-                    "bs.svg",
-                    "bt.svg",
-                    "bv.svg",
-                    "bw.svg",
-                    "by.svg",
-                    "bz.svg",
-                    "ca.svg",
-                    "cc.svg",
-                    "cd.svg",
-                    "cf.svg",
-                    "cg.svg",
-                    "ch.svg",
-                    "ci.svg",
-                    "ck.svg",
-                    "cl.svg",
-                    "cm.svg",
-                    "cn.svg",
-                    "co.svg",
-                    "cr.svg",
-                    "cu.svg",
-                    "cv.svg",
-                    "cw.svg",
-                    "cx.svg",
-                    "cy.svg",
-                    "cz.svg",
-                    "de.svg",
-                    "dj.svg",
-                    "dk.svg",
-                    "dm.svg",
-                    "do.svg",
-                    "dz.svg",
-                    "ec.svg",
-                    "ee.svg",
-                    "eg.svg",
-                    "eh.svg",
-                    "er.svg",
-                    "es.svg",
-                    "et.svg",
-                    "eu.svg",
-                    "fi.svg",
-                    "fj.svg",
-                    "fk.svg",
-                    "fm.svg",
-                    "fo.svg",
-                    "fr.svg",
-                    "ga.svg",
-                    "gb-eng.svg",
-                    "gb-nir.svg",
-                    "gb-sct.svg",
-                    "gb-wls.svg",
-                    "gb.svg",
-                    "gd.svg",
-                    "ge.svg",
-                    "gf.svg",
-                    "gg.svg",
-                    "gh.svg",
-                    "gi.svg",
-                    "gl.svg",
-                    "gm.svg",
-                    "gn.svg",
-                    "gp.svg",
-                    "gq.svg",
-                    "gr.svg",
-                    "gs.svg",
-                    "gt.svg",
-                    "gu.svg",
-                    "gw.svg",
-                    "gy.svg",
-                    "hk.svg",
-                    "hm.svg",
-                    "hn.svg",
-                    "hr.svg",
-                    "ht.svg",
-                    "hu.svg",
-                    "id.svg",
-                    "ie.svg",
-                    "il.svg",
-                    "im.svg",
-                    "in.svg",
-                    "international.svg",
-                    "io.svg",
-                    "iq.svg",
-                    "ir.svg",
-                    "is.svg",
-                    "it.svg",
-                    "je.svg",
-                    "jm.svg",
-                    "jo.svg",
-                    "jp.svg",
-                    "ke.svg",
-                    "kg.svg",
-                    "kh.svg",
-                    "ki.svg",
-                    "km.svg",
-                    "kn.svg",
-                    "kp.svg",
-                    "kr.svg",
-                    "kw.svg",
-                    "ky.svg",
-                    "kz.svg",
-                    "la.svg",
-                    "lb.svg",
-                    "lc.svg",
-                    "li.svg",
-                    "lk.svg",
-                    "lr.svg",
-                    "ls.svg",
-                    "lt.svg",
-                    "lu.svg",
-                    "lv.svg",
-                    "ly.svg",
-                    "ma.svg",
-                    "mc.svg",
-                    "md.svg",
-                    "me.svg",
-                    "mf.svg",
-                    "mg.svg",
-                    "mh.svg",
-                    "mk.svg",
-                    "ml.svg",
-                    "mm.svg",
-                    "mn.svg",
-                    "mo.svg",
-                    "mp.svg",
-                    "mq.svg",
-                    "mr.svg",
-                    "ms.svg",
-                    "mt.svg",
-                    "mu.svg",
-                    "mv.svg",
-                    "mw.svg",
-                    "mx.svg",
-                    "my.svg",
-                    "mz.svg",
-                    "na.svg",
-                    "nc.svg",
-                    "ne.svg",
-                    "nf.svg",
-                    "ng.svg",
-                    "ni.svg",
-                    "nl.svg",
-                    "no.svg",
-                    "np.svg",
-                    "nr.svg",
-                    "nu.svg",
-                    "nz.svg",
-                    "om.svg",
-                    "pa.svg",
-                    "pe.svg",
-                    "pf.svg",
-                    "pg.svg",
-                    "ph.svg",
-                    "pk.svg",
-                    "pl.svg",
-                    "pm.svg",
-                    "pn.svg",
-                    "pr.svg",
-                    "ps.svg",
-                    "pt.svg",
-                    "pw.svg",
-                    "py.svg",
-                    "qa.svg",
-                    "re.svg",
-                    "ro.svg",
-                    "rs.svg",
-                    "ru.svg",
-                    "rw.svg",
-                    "sa.svg",
-                    "sb.svg",
-                    "sc.svg",
-                    "sd.svg",
-                    "se.svg",
-                    "sg.svg",
-                    "sh.svg",
-                    "si.svg",
-                    "sj.svg",
-                    "sk.svg",
-                    "sl.svg",
-                    "sm.svg",
-                    "sn.svg",
-                    "so.svg",
-                    "sr.svg",
-                    "ss.svg",
-                    "st.svg",
-                    "sv.svg",
-                    "sx.svg",
-                    "sy.svg",
-                    "sz.svg",
-                    "tc.svg",
-                    "td.svg",
-                    "tf.svg",
-                    "tg.svg",
-                    "th.svg",
-                    "tj.svg",
-                    "tk.svg",
-                    "tl.svg",
-                    "tm.svg",
-                    "tn.svg",
-                    "to.svg",
-                    "tr.svg",
-                    "tt.svg",
-                    "tv.svg",
-                    "tw.svg",
-                    "tz.svg",
-                    "ua.svg",
-                    "ug.svg",
-                    "um.svg",
-                    "us.svg",
-                    "uy.svg",
-                    "uz.svg",
-                    "va.svg",
-                    "vc.svg",
-                    "ve.svg",
-                    "vg.svg",
-                    "vi.svg",
-                    "vn.svg",
-                    "vu.svg",
-                    "wf.svg",
-                    "ws.svg",
-                    "xk.svg",
-                    "ye.svg",
-                    "yt.svg",
-                    "za.svg",
-                    "zm.svg",
-                    "zw.svg"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4003,12 +3321,9 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "en.png",
-                    "ja.png",
-                    "zh-CN.png",
-                    "zh.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4022,10 +3337,9 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "airhost_logo.svg",
-                    "airhost_logo_large.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4039,16 +3353,15 @@
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "auto-message.png",
-                    "checkin-settings.png",
-                    "create-listing.png",
-                    "import-bookings.png"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
               "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             },
             {
@@ -4069,38 +3382,13 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 26,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "account.json",
-                    "add-room-type.json",
-                    "admin-layout.json",
-                    "auth.json",
-                    "auto-message.json",
-                    "booking-checkin-management.json",
-                    "booking-import-history.json",
-                    "checkin-archives.json",
-                    "common.json",
-                    "country.json",
-                    "create-house.json",
-                    "dashboard.json",
-                    "guests.json",
-                    "house-checkin-settings.json",
-                    "house-detail.json",
-                    "house-information.json",
-                    "house.json",
-                    "import-booking.json",
-                    "profile.json",
-                    "room-type.json",
-                    "sales.json",
-                    "secondary-menu.json",
-                    "signin.json",
-                    "signup.json",
-                    "subscription.json",
-                    "users.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4110,38 +3398,13 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 26,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "account.json",
-                    "add-room-type.json",
-                    "admin-layout.json",
-                    "auth.json",
-                    "auto-message.json",
-                    "booking-checkin-management.json",
-                    "booking-import-history.json",
-                    "checkin-archives.json",
-                    "common.json",
-                    "country.json",
-                    "create-house.json",
-                    "dashboard.json",
-                    "guests.json",
-                    "house-checkin-settings.json",
-                    "house-detail.json",
-                    "house-information.json",
-                    "house.json",
-                    "import-booking.json",
-                    "profile.json",
-                    "room-type.json",
-                    "sales.json",
-                    "secondary-menu.json",
-                    "signin.json",
-                    "signup.json",
-                    "subscription.json",
-                    "users.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4151,38 +3414,13 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 26,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "account.json",
-                    "add-room-type.json",
-                    "admin-layout.json",
-                    "auth.json",
-                    "auto-message.json",
-                    "booking-checkin-management.json",
-                    "booking-import-history.json",
-                    "checkin-archives.json",
-                    "common.json",
-                    "country.json",
-                    "create-house.json",
-                    "dashboard.json",
-                    "guests.json",
-                    "house-checkin-settings.json",
-                    "house-detail.json",
-                    "house-information.json",
-                    "house.json",
-                    "import-booking.json",
-                    "profile.json",
-                    "room-type.json",
-                    "sales.json",
-                    "secondary-menu.json",
-                    "signin.json",
-                    "signup.json",
-                    "subscription.json",
-                    "users.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 },
                 {
@@ -4192,53 +3430,31 @@
                   "totalLess": 0,
                   "js": 0,
                   "sh": 0,
-                  "json": 26,
+                  "json": 0,
                   "ts": 0,
                   "yml": 0,
                   "children": [],
-                  "leaf": [
-                    "account.json",
-                    "add-room-type.json",
-                    "admin-layout.json",
-                    "auth.json",
-                    "auto-message.json",
-                    "booking-checkin-management.json",
-                    "booking-import-history.json",
-                    "checkin-archives.json",
-                    "common.json",
-                    "country.json",
-                    "create-house.json",
-                    "dashboard.json",
-                    "guests.json",
-                    "house-checkin-settings.json",
-                    "house-detail.json",
-                    "house-information.json",
-                    "house.json",
-                    "import-booking.json",
-                    "profile.json",
-                    "room-type.json",
-                    "sales.json",
-                    "secondary-menu.json",
-                    "signin.json",
-                    "signup.json",
-                    "subscription.json",
-                    "users.json"
-                  ],
+                  "leaf": [],
+                  "max": 0,
+                  "average": 0,
                   "level": 4
                 }
               ],
               "leaf": [],
+              "max": 0,
+              "average": 0,
               "level": 3
             }
           ],
           "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
-      "leaf": [
-        "favicon.ico",
-        "vercel.svg"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -4246,15 +3462,15 @@
       "currentLess": 0,
       "childrenLess": 0,
       "totalLess": 0,
-      "js": 1,
+      "js": 0,
       "sh": 0,
       "json": 0,
       "ts": 0,
       "yml": 0,
       "children": [],
-      "leaf": [
-        "index.js"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -4265,7 +3481,7 @@
       "js": 0,
       "sh": 0,
       "json": 0,
-      "ts": 32,
+      "ts": 0,
       "yml": 0,
       "children": [
         {
@@ -4276,55 +3492,18 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 7,
+          "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "account.ts",
-            "autoMessage.ts",
-            "bookings.ts",
-            "checkinSettings.ts",
-            "house.ts",
-            "houseInformation.ts",
-            "houseSettings.ts"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
-      "leaf": [
-        "accounts.ts",
-        "bookingImport.d.ts",
-        "bookingImport.ts",
-        "bookings.ts",
-        "checkin.ts",
-        "checkinArchives.ts",
-        "client.ts",
-        "configuration.ts",
-        "guests.ts",
-        "house.ts",
-        "houses.ts",
-        "invoices.ts",
-        "iotAccesses.ts",
-        "login.d.ts",
-        "login.ts",
-        "order.ts",
-        "payment.ts",
-        "permission.ts",
-        "pmsLogin.ts",
-        "print.ts",
-        "products.ts",
-        "request.ts",
-        "roomUnits.ts",
-        "sales.ts",
-        "settings.ts",
-        "signup.ts",
-        "subscription.ts",
-        "tickets.ts",
-        "transactions.ts",
-        "users.ts",
-        "utils.test.ts",
-        "utils.ts"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -4335,17 +3514,17 @@
       "js": 0,
       "sh": 0,
       "json": 0,
-      "ts": 2,
+      "ts": 0,
       "yml": 0,
       "children": [],
       "leaf": [
-        "antd.less",
-        "color.ts",
-        "font.ts",
-        "nprogress.less",
-        "table.less",
-        "variable.less"
+        "antd.less 118 line",
+        "nprogress.less 83 line",
+        "table.less 68 line",
+        "variable.less 240 line"
       ],
+      "max": 240,
+      "average": 154.75,
       "level": 1
     },
     {
@@ -4356,17 +3535,12 @@
       "js": 0,
       "sh": 0,
       "json": 0,
-      "ts": 6,
+      "ts": 0,
       "yml": 0,
       "children": [],
-      "leaf": [
-        "allListings.d.ts",
-        "currentAccount.d.ts",
-        "currentUser.d.ts",
-        "googlemap.d.ts",
-        "mock.d.ts",
-        "typings.d.ts"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -4377,7 +3551,7 @@
       "js": 0,
       "sh": 0,
       "json": 0,
-      "ts": 6,
+      "ts": 0,
       "yml": 0,
       "children": [
         {
@@ -4388,23 +3562,18 @@
           "js": 0,
           "sh": 0,
           "json": 0,
-          "ts": 1,
+          "ts": 0,
           "yml": 0,
           "children": [],
-          "leaf": [
-            "testUtils.ts"
-          ],
+          "leaf": [],
+          "max": 0,
+          "average": 0,
           "level": 2
         }
       ],
-      "leaf": [
-        "image.ts",
-        "locales.ts",
-        "routes.test.ts",
-        "routes.ts",
-        "time.ts",
-        "useUnsaveForm.ts"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     },
     {
@@ -4412,44 +3581,20 @@
       "currentLess": 0,
       "childrenLess": 0,
       "totalLess": 0,
-      "js": 2,
+      "js": 0,
       "sh": 0,
       "json": 0,
       "ts": 0,
       "yml": 0,
       "children": [],
-      "leaf": [
-        "fileMock.js",
-        "styleMock.js"
-      ],
+      "leaf": [],
+      "max": 0,
+      "average": 0,
       "level": 1
     }
   ],
-  "leaf": [
-    "build-base-image.sh",
-    "build-stage.sh",
-    "build.sh",
-    "buildspec-base-image.yml",
-    "buildspec-stage.yml",
-    "buildspec.yml",
-    "Dockerfile",
-    "Dockerfile-base-image",
-    "Dockerfile-stage",
-    "i18n.d.ts",
-    "i18n.js",
-    "main",
-    "next-env.d.ts",
-    "next.config.js",
-    "next.config.serverless.js",
-    "package.json",
-    "pull_request_template.md",
-    "README.md",
-    "serverless.yml",
-    "tsconfig.json",
-    "tsconfig.server.json",
-    "uploadToS3.js",
-    "yarn.lock",
-    "_proxy.js"
-  ],
+  "leaf": [],
+  "max": 0,
+  "average": 0,
   "level": 0
 }
