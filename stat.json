@@ -27,9 +27,12 @@
       "yml": 0,
       "logo.png": {
         "isFile": true
-      }
-    }
+      },
+      "level": 2
+    },
+    "level": 1
   },
+  "level": 0,
   "build-base-image.sh": {
     "isFile": true
   },
@@ -68,8 +71,10 @@
       "yml": 0,
       "avatar.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
+    "level": 1,
     "buttons": {
       "currentLess": 3,
       "childrenLess": 0,
@@ -82,6 +87,7 @@
       "GiantButton.module.less": {
         "isFile": true
       },
+      "level": 2,
       "GiantButton.tsx": {
         "isFile": true
       },
@@ -125,6 +131,7 @@
       "DateSwitch.tsx": {
         "isFile": true
       },
+      "level": 2,
       "Table.module.less": {
         "isFile": true
       },
@@ -150,6 +157,7 @@
       "DrawerContainer.tsx": {
         "isFile": true
       },
+      "level": 2,
       "DrawerHeader.module.less": {
         "isFile": true
       },
@@ -169,6 +177,7 @@
       "filterPanel.module.less": {
         "isFile": true
       },
+      "level": 2,
       "FilterPanel.tsx": {
         "isFile": true
       },
@@ -203,6 +212,7 @@
       "EditableTextArea.module.less": {
         "isFile": true
       },
+      "level": 2,
       "EditableTextArea.tsx": {
         "isFile": true
       },
@@ -252,6 +262,7 @@
       "PageHeader.module.less": {
         "isFile": true
       },
+      "level": 2,
       "PageHeader.tsx": {
         "isFile": true
       },
@@ -304,6 +315,7 @@
       "AddIcon.tsx": {
         "isFile": true
       },
+      "level": 2,
       "AddNewIcon.tsx": {
         "isFile": true
       },
@@ -328,6 +340,7 @@
         "BeforeCheckinIcon.tsx": {
           "isFile": true
         },
+        "level": 3,
         "BeforeCheckinIconGrey.tsx": {
           "isFile": true
         },
@@ -651,6 +664,7 @@
       "layout.module.less": {
         "isFile": true
       },
+      "level": 2,
       "Layout.tsx": {
         "isFile": true
       },
@@ -684,7 +698,8 @@
       "yml": 0,
       "PageLoading.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "map": {
       "currentLess": 0,
@@ -697,7 +712,8 @@
       "yml": 0,
       "GoogleMap.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "Menu.tsx": {
       "isFile": true
@@ -714,6 +730,7 @@
       "Navbar.module.less": {
         "isFile": true
       },
+      "level": 2,
       "Navbar.tsx": {
         "isFile": true
       },
@@ -733,6 +750,7 @@
       "navigation.module.less": {
         "isFile": true
       },
+      "level": 2,
       "Navigation.tsx": {
         "isFile": true
       }
@@ -749,6 +767,7 @@
       "AdminNav.tsx": {
         "isFile": true
       },
+      "level": 2,
       "InPageNav.tsx": {
         "isFile": true
       },
@@ -789,6 +808,7 @@
       "CardElement.module.less": {
         "isFile": true
       },
+      "level": 2,
       "CardElement.tsx": {
         "isFile": true
       }
@@ -804,7 +824,8 @@
       "yml": 0,
       "THead.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "WindowLayout.module.less": {
       "isFile": true
@@ -825,6 +846,7 @@
     "antdLessLoader.js": {
       "isFile": true
     },
+    "level": 1,
     "colors.ts": {
       "isFile": true
     },
@@ -852,6 +874,7 @@
       "cli.js": {
         "isFile": true
       },
+      "level": 2,
       "config.js": {
         "isFile": true
       },
@@ -901,6 +924,7 @@
       "crt.pem": {
         "isFile": true
       },
+      "level": 2,
       "key.pem": {
         "isFile": true
       }
@@ -930,6 +954,7 @@
       "AdminLayout.module.less": {
         "isFile": true
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       },
@@ -937,6 +962,7 @@
         "isFile": true
       }
     },
+    "level": 1,
     "checkin": {
       "currentLess": 0,
       "childrenLess": 3,
@@ -958,6 +984,7 @@
         "ExportArchiveData.module.less": {
           "isFile": true
         },
+        "level": 3,
         "ExportArchiveData.tsx": {
           "isFile": true
         },
@@ -973,7 +1000,8 @@
         "ListingDropdown.tsx": {
           "isFile": true
         }
-      }
+      },
+      "level": 2
     },
     "checkinManagement": {
       "currentLess": 7,
@@ -996,6 +1024,7 @@
         "AddAdjustment.tsx": {
           "isFile": true
         },
+        "level": 3,
         "AddBookingDrawer.module.less": {
           "isFile": true
         },
@@ -1020,6 +1049,7 @@
           "AdditionalInfo.tsx": {
             "isFile": true
           },
+          "level": 4,
           "PickHotel.tsx": {
             "isFile": true
           },
@@ -1043,6 +1073,7 @@
           }
         }
       },
+      "level": 2,
       "addOrder": {
         "currentLess": 2,
         "childrenLess": 2,
@@ -1055,6 +1086,7 @@
         "AddAdjustment.tsx": {
           "isFile": true
         },
+        "level": 3,
         "AddBookingDrawer.module.less": {
           "isFile": true
         },
@@ -1079,6 +1111,7 @@
           "AdditionalInfo.tsx": {
             "isFile": true
           },
+          "level": 4,
           "PickHotel.tsx": {
             "isFile": true
           },
@@ -1141,6 +1174,7 @@
         "checkin.ts": {
           "isFile": true
         },
+        "level": 3,
         "CheckinDrawer.module.less": {
           "isFile": true
         },
@@ -1187,6 +1221,7 @@
         "InvoiceDetailContent.tsx": {
           "isFile": true
         },
+        "level": 3,
         "InvoiceDetailDrawer.tsx": {
           "isFile": true
         },
@@ -1227,6 +1262,7 @@
         "PaymentDetailDrawer.tsx": {
           "isFile": true
         },
+        "level": 3,
         "RefundModal.tsx": {
           "isFile": true
         }
@@ -1261,6 +1297,7 @@
         "AddTransaction.module.less": {
           "isFile": true
         },
+        "level": 3,
         "AddTransaction.tsx": {
           "isFile": true
         },
@@ -1282,6 +1319,7 @@
           "invoice_item.png": {
             "isFile": true
           },
+          "level": 4,
           "payment.png": {
             "isFile": true
           },
@@ -1339,6 +1377,7 @@
       "index.module.less": {
         "isFile": true
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       }
@@ -1354,7 +1393,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "guests": {
       "currentLess": 1,
@@ -1377,6 +1417,7 @@
         "Aside.tsx": {
           "isFile": true
         },
+        "level": 3,
         "Breadcrumb.tsx": {
           "isFile": true
         },
@@ -1384,6 +1425,7 @@
           "isFile": true
         }
       },
+      "level": 2,
       "guestlist.module.less": {
         "isFile": true
       }
@@ -1409,6 +1451,7 @@
         "BorderedForm.module.less": {
           "isFile": true
         },
+        "level": 3,
         "CheckinLayout.tsx": {
           "isFile": true
         },
@@ -1424,6 +1467,7 @@
           "GuestInformation.module.less": {
             "isFile": true
           },
+          "level": 4,
           "GuestInformation.tsx": {
             "isFile": true
           },
@@ -1439,6 +1483,7 @@
             "GuestInformationPreview.module.less": {
               "isFile": true
             },
+            "level": 5,
             "GuestInformationPreview.tsx": {
               "isFile": true
             }
@@ -1456,6 +1501,7 @@
           "HotelSettings.tsx": {
             "isFile": true
           },
+          "level": 4,
           "previews": {
             "currentLess": 1,
             "childrenLess": 0,
@@ -1468,6 +1514,7 @@
             "HotelSettingsPreview.module.less": {
               "isFile": true
             },
+            "level": 5,
             "HotelSettingsPreview.tsx": {
               "isFile": true
             }
@@ -1488,6 +1535,7 @@
           "HouseCheckinSettingsLayout.tsx": {
             "isFile": true
           },
+          "level": 4,
           "SettingsWithPreviewLayout.module.less": {
             "isFile": true
           },
@@ -1507,6 +1555,7 @@
           "PaymentCollections.module.less": {
             "isFile": true
           },
+          "level": 4,
           "PaymentCollections.tsx": {
             "isFile": true
           },
@@ -1541,10 +1590,12 @@
             "RoomKeyConfigurationPreview.module.less": {
               "isFile": true
             },
+            "level": 5,
             "RoomKeyConfigurationPreview.tsx": {
               "isFile": true
             }
           },
+          "level": 4,
           "RoomKeyConfiguration.module.less": {
             "isFile": true
           },
@@ -1573,6 +1624,7 @@
             "map.jpg": {
               "isFile": true
             },
+            "level": 5,
             "VerificationStepsPreview.module.less": {
               "isFile": true
             },
@@ -1580,6 +1632,7 @@
               "isFile": true
             }
           },
+          "level": 4,
           "VerificationSteps.module.less": {
             "isFile": true
           },
@@ -1588,6 +1641,7 @@
           }
         }
       },
+      "level": 2,
       "components": {
         "currentLess": 1,
         "childrenLess": 0,
@@ -1600,6 +1654,7 @@
         "houseCard.module.less": {
           "isFile": true
         },
+        "level": 3,
         "HouseCard.test.ts": {
           "isFile": true
         },
@@ -1637,6 +1692,7 @@
         "AddClientModal.tsx": {
           "isFile": true
         },
+        "level": 3,
         "HouseClient.tsx": {
           "isFile": true
         },
@@ -1662,6 +1718,7 @@
         "DescriptionItem.tsx": {
           "isFile": true
         },
+        "level": 3,
         "HouseDescription.tsx": {
           "isFile": true
         },
@@ -1690,6 +1747,7 @@
         "HouseFacilities.tsx": {
           "isFile": true
         },
+        "level": 3,
         "HouseFacilitiesEdit.tsx": {
           "isFile": true
         },
@@ -1721,6 +1779,7 @@
         "HouseSettingsEdit.tsx": {
           "isFile": true
         },
+        "level": 3,
         "HouseSettingsView.tsx": {
           "isFile": true
         }
@@ -1744,6 +1803,7 @@
       "ApplyStep.test.ts": {
         "isFile": true
       },
+      "level": 2,
       "ApplyStep.tsx": {
         "isFile": true
       },
@@ -1790,6 +1850,7 @@
       "FilterBar.tsx": {
         "isFile": true
       },
+      "level": 2,
       "ImportHistory.module.less": {
         "isFile": true
       },
@@ -1809,6 +1870,7 @@
       "index.module.less": {
         "isFile": true
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       },
@@ -1840,10 +1902,12 @@
         "CheckinManagementPageNewLayout.module.less": {
           "isFile": true
         },
+        "level": 3,
         "CheckinManagementPageNewLayout.tsx": {
           "isFile": true
         }
       },
+      "level": 2,
       "dashboard": {
         "currentLess": 4,
         "childrenLess": 0,
@@ -1856,6 +1920,7 @@
         "Dashboard.module.less": {
           "isFile": true
         },
+        "level": 3,
         "Dashboard.tsx": {
           "isFile": true
         },
@@ -1890,6 +1955,7 @@
         "AddRoomTypeDrawer.module.less": {
           "isFile": true
         },
+        "level": 3,
         "AddRoomTypeDrawer.tsx": {
           "isFile": true
         },
@@ -1905,6 +1971,7 @@
           "CreateHouse.module.less": {
             "isFile": true
           },
+          "level": 4,
           "CreateHouseProgress.module.less": {
             "isFile": true
           },
@@ -1930,6 +1997,7 @@
           "HouseDetail.module.less": {
             "isFile": true
           },
+          "level": 4,
           "HouseDetail.tsx": {
             "isFile": true
           },
@@ -1949,6 +2017,7 @@
           "HouseBasicInfo.tsx": {
             "isFile": true
           },
+          "level": 4,
           "HouseEditPage.module.less": {
             "isFile": true
           },
@@ -1978,6 +2047,7 @@
         "ApplyStep.tsx": {
           "isFile": true
         },
+        "level": 3,
         "FinishStep.tsx": {
           "isFile": true
         },
@@ -2011,6 +2081,7 @@
           "DateFormat.tsx": {
             "isFile": true
           },
+          "level": 4,
           "EnumField.tsx": {
             "isFile": true
           },
@@ -2058,6 +2129,7 @@
         "HouseDropMenuItem.tsx": {
           "isFile": true
         },
+        "level": 3,
         "HouseSwitcher.module.less": {
           "isFile": true
         },
@@ -2101,6 +2173,7 @@
           "Account.module.less": {
             "isFile": true
           },
+          "level": 4,
           "EditAccount.tsx": {
             "isFile": true
           },
@@ -2111,6 +2184,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "autoMessage": {
           "currentLess": 4,
           "childrenLess": 0,
@@ -2123,6 +2197,7 @@
           "AutoMessage.module.less": {
             "isFile": true
           },
+          "level": 4,
           "AutoMessage.tsx": {
             "isFile": true
           },
@@ -2169,6 +2244,7 @@
           "HouseInformations.module.less": {
             "isFile": true
           },
+          "level": 4,
           "HouseInformations.tsx": {
             "isFile": true
           },
@@ -2196,6 +2272,7 @@
       "EditProfile.tsx": {
         "isFile": true
       },
+      "level": 2,
       "ModifyPassword.tsx": {
         "isFile": true
       },
@@ -2220,7 +2297,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "Sales": {
       "currentLess": 1,
@@ -2243,10 +2321,12 @@
         "Breadcrumb.module.less": {
           "isFile": true
         },
+        "level": 3,
         "Breadcrumb.tsx": {
           "isFile": true
         }
       },
+      "level": 2,
       "FilterBar": {
         "currentLess": 1,
         "childrenLess": 0,
@@ -2259,6 +2339,7 @@
         "FilterBar.module.less": {
           "isFile": true
         },
+        "level": 3,
         "FilterBar.tsx": {
           "isFile": true
         }
@@ -2277,7 +2358,8 @@
         "yml": 0,
         "PerCountry.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "PerOTAData": {
         "currentLess": 0,
@@ -2290,7 +2372,8 @@
         "yml": 0,
         "PerOTAData.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "PerPeriodData": {
         "currentLess": 0,
@@ -2303,7 +2386,8 @@
         "yml": 0,
         "PerPeriodData.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "PerRoomTypeData": {
         "currentLess": 0,
@@ -2316,7 +2400,8 @@
         "yml": 0,
         "PerRoomTypeData.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "sales.less": {
         "isFile": true
@@ -2335,7 +2420,8 @@
         "yml": 0,
         "SalesDetail.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "Tooltip": {
         "currentLess": 1,
@@ -2349,6 +2435,7 @@
         "Tooltip.module.less": {
           "isFile": true
         },
+        "level": 3,
         "Tooltip.tsx": {
           "isFile": true
         }
@@ -2364,7 +2451,8 @@
         "yml": 0,
         "TotalSales.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "TotalSummary": {
         "currentLess": 1,
@@ -2378,6 +2466,7 @@
         "TotalSummary.module.less": {
           "isFile": true
         },
+        "level": 3,
         "TotalSummary.tsx": {
           "isFile": true
         }
@@ -2398,6 +2487,7 @@
       "SampleAdminLayout.tsx": {
         "isFile": true
       },
+      "level": 2,
       "SampleLayoutPage.tsx": {
         "isFile": true
       }
@@ -2414,6 +2504,7 @@
       "index.tsx": {
         "isFile": true
       },
+      "level": 2,
       "signin.ts": {
         "isFile": true
       }
@@ -2439,6 +2530,7 @@
         "slide-1.png": {
           "isFile": true
         },
+        "level": 3,
         "slide-2.png": {
           "isFile": true
         },
@@ -2446,6 +2538,7 @@
           "isFile": true
         }
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       },
@@ -2461,6 +2554,7 @@
         "AccountInfo.tsx": {
           "isFile": true
         },
+        "level": 3,
         "BasicInfo.tsx": {
           "isFile": true
         },
@@ -2484,6 +2578,7 @@
       "compare.module.less": {
         "isFile": true
       },
+      "level": 2,
       "compare.tsx": {
         "isFile": true
       },
@@ -2523,7 +2618,8 @@
       "yml": 0,
       "UserProfile.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "users": {
       "currentLess": 1,
@@ -2537,6 +2633,7 @@
       "AddUsers.tsx": {
         "isFile": true
       },
+      "level": 2,
       "EditUserDrawer.tsx": {
         "isFile": true
       },
@@ -2559,6 +2656,7 @@
       "bookingInfo.module.less": {
         "isFile": true
       },
+      "level": 2,
       "bookingInfo.tsx": {
         "isFile": true
       },
@@ -2607,6 +2705,7 @@
         "photo.png": {
           "isFile": true
         },
+        "level": 3,
         "video.png": {
           "isFile": true
         }
@@ -2642,7 +2741,8 @@
     "yml": 0,
     "NavContext.tsx": {
       "isFile": true
-    }
+    },
+    "level": 1
   },
   "Dockerfile": {
     "isFile": true
@@ -2670,7 +2770,8 @@
     "yml": 0,
     "logo.png": {
       "isFile": true
-    }
+    },
+    "level": 1
   },
   "layouts": {
     "currentLess": 0,
@@ -2684,6 +2785,7 @@
     "EmptyLayout.tsx": {
       "isFile": true
     },
+    "level": 1,
     "PageTitle.tsx": {
       "isFile": true
     },
@@ -2705,6 +2807,7 @@
       "FormTitle.tsx": {
         "isFile": true
       },
+      "level": 2,
       "FormWrapper.ts": {
         "isFile": true
       },
@@ -2720,6 +2823,7 @@
         "signin.png": {
           "isFile": true
         },
+        "level": 3,
         "signup.png": {
           "isFile": true
         }
@@ -2765,10 +2869,12 @@
       "guests.js": {
         "isFile": true
       },
+      "level": 2,
       "table_sort.js": {
         "isFile": true
       }
     },
+    "level": 1,
     "yamlStyle": {
       "currentLess": 0,
       "childrenLess": 0,
@@ -2790,6 +2896,7 @@
         "billings.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2802,11 +2909,13 @@
           "billings-detail-get.json": {
             "isFile": true
           },
+          "level": 4,
           "billings-get.json": {
             "isFile": true
           }
         }
       },
+      "level": 2,
       "bookings": {
         "currentLess": 0,
         "childrenLess": 0,
@@ -2819,6 +2928,7 @@
         "bookings.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2831,6 +2941,7 @@
           "booking_imports.json": {
             "isFile": true
           },
+          "level": 4,
           "comments.json": {
             "isFile": true
           },
@@ -2857,6 +2968,7 @@
         "checkin.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2869,6 +2981,7 @@
           "booking_imports-post.json": {
             "isFile": true
           },
+          "level": 4,
           "booking_import_template-delete.json": {
             "isFile": true
           },
@@ -2901,6 +3014,7 @@
         "checkin.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2913,6 +3027,7 @@
           "attachments-post.json": {
             "isFile": true
           },
+          "level": 4,
           "booking.json": {
             "isFile": true
           },
@@ -2960,6 +3075,7 @@
         "configuration.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2971,7 +3087,8 @@
           "yml": 0,
           "configuration.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         }
       },
       "guests": {
@@ -2986,6 +3103,7 @@
         "detail.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -2998,6 +3116,7 @@
           "guest-get.json": {
             "isFile": true
           },
+          "level": 4,
           "guests-get.json": {
             "isFile": true
           },
@@ -3021,6 +3140,7 @@
         "channel.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -3032,7 +3152,8 @@
           "yml": 0,
           "channel_sources.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         }
       },
       "houses": {
@@ -3047,6 +3168,7 @@
         "houses.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -3059,6 +3181,7 @@
           "addresses-get.json": {
             "isFile": true
           },
+          "level": 4,
           "addresses-put.json": {
             "isFile": true
           },
@@ -3148,6 +3271,7 @@
         "invoices.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -3159,7 +3283,8 @@
           "yml": 0,
           "invoice-detail.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         }
       },
       "iotAccesses": {
@@ -3174,6 +3299,7 @@
         "iotAccesses.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -3186,6 +3312,7 @@
           "iot_accesses-delete.json": {
             "isFile": true
           },
+          "level": 4,
           "iot_accesses-put.json": {
             "isFile": true
           },
@@ -3206,6 +3333,7 @@
         "me.yml": {
           "isFile": true
         },
+        "level": 3,
         "mock-data": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -3217,7 +3345,8 @@
           "yml": 0,
           "me.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         }
       },
       "navbar": {
@@ -3240,8 +3369,10 @@
           "yml": 0,
           "navbar.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         },
+        "level": 3,
         "navbar.yml": {
           "isFile": true
         }
@@ -3267,6 +3398,7 @@
           "hotel-product-order.json": {
             "isFile": true
           },
+          "level": 4,
           "payment.json": {
             "isFile": true
           },
@@ -3277,6 +3409,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "order.yml": {
           "isFile": true
         }
@@ -3302,6 +3435,7 @@
           "delete-payment-detail.json": {
             "isFile": true
           },
+          "level": 4,
           "payment-detail.json": {
             "isFile": true
           },
@@ -3312,6 +3446,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "payment.yml": {
           "isFile": true
         }
@@ -3328,6 +3463,7 @@
         "account.yml": {
           "isFile": true
         },
+        "level": 3,
         "autoMessages.yml": {
           "isFile": true
         },
@@ -3352,6 +3488,7 @@
           "account-detail-get.json": {
             "isFile": true
           },
+          "level": 4,
           "auto-message-detail-before-checkin-get.json": {
             "isFile": true
           },
@@ -3417,10 +3554,12 @@
           "products.json": {
             "isFile": true
           },
+          "level": 4,
           "ratePlans.json": {
             "isFile": true
           }
         },
+        "level": 3,
         "product.yml": {
           "isFile": true
         }
@@ -3446,6 +3585,7 @@
           "clients-get.json": {
             "isFile": true
           },
+          "level": 4,
           "listings-get.json": {
             "isFile": true
           },
@@ -3477,6 +3617,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "report-sales.yml": {
           "isFile": true
         }
@@ -3502,6 +3643,7 @@
           "adjustment_type.json": {
             "isFile": true
           },
+          "level": 4,
           "availableHouses.json": {
             "isFile": true
           },
@@ -3527,6 +3669,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "settings.yml": {
           "isFile": true
         }
@@ -3551,8 +3694,10 @@
           "yml": 0,
           "signup.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         },
+        "level": 3,
         "signup.yml": {
           "isFile": true
         }
@@ -3578,6 +3723,7 @@
           "subscription-get.json": {
             "isFile": true
           },
+          "level": 4,
           "subscription-patch.json": {
             "isFile": true
           },
@@ -3585,6 +3731,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "subscription.yml": {
           "isFile": true
         }
@@ -3609,8 +3756,10 @@
           "yml": 0,
           "unread.json": {
             "isFile": true
-          }
+          },
+          "level": 4
         },
+        "level": 3,
         "tickets.yml": {
           "isFile": true
         }
@@ -3636,10 +3785,12 @@
           "getTransactions.json": {
             "isFile": true
           },
+          "level": 4,
           "prints-post.json": {
             "isFile": true
           }
         },
+        "level": 3,
         "transactions.yml": {
           "isFile": true
         }
@@ -3665,10 +3816,12 @@
           "get-confirmation.json": {
             "isFile": true
           },
+          "level": 4,
           "post-password.json": {
             "isFile": true
           }
         },
+        "level": 3,
         "user.yml": {
           "isFile": true
         }
@@ -3694,6 +3847,7 @@
           "eventList.json": {
             "isFile": true
           },
+          "level": 4,
           "settings.json": {
             "isFile": true
           },
@@ -3704,6 +3858,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "notifications.yml": {
           "isFile": true
         }
@@ -3729,6 +3884,7 @@
           "user-delete.json": {
             "isFile": true
           },
+          "level": 4,
           "user-get.json": {
             "isFile": true
           },
@@ -3742,6 +3898,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "users.yml": {
           "isFile": true
         }
@@ -3780,8 +3937,10 @@
       "yml": 0,
       "hello.ts": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
+    "level": 1,
     "bookings": {
       "currentLess": 1,
       "childrenLess": 0,
@@ -3794,6 +3953,7 @@
       "checkin-management.tsx": {
         "isFile": true
       },
+      "level": 2,
       "checkin_management.tsx": {
         "isFile": true
       },
@@ -3824,7 +3984,8 @@
       "yml": 0,
       "archives.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "confirmation": {
       "currentLess": 0,
@@ -3837,7 +3998,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "dashboard": {
       "currentLess": 0,
@@ -3850,7 +4012,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "example": {
       "currentLess": 0,
@@ -3863,7 +4026,8 @@
       "yml": 0,
       "table_sort.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "index.tsx": {
       "isFile": true
@@ -3879,7 +4043,8 @@
       "yml": 0,
       "[invoiceId].tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "password": {
       "currentLess": 0,
@@ -3893,6 +4058,7 @@
       "edit.tsx": {
         "isFile": true
       },
+      "level": 2,
       "new.tsx": {
         "isFile": true
       }
@@ -3909,6 +4075,7 @@
       "change-password.tsx": {
         "isFile": true
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       }
@@ -3924,7 +4091,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "sample-layout": {
       "currentLess": 0,
@@ -3938,6 +4106,7 @@
       "admin.tsx": {
         "isFile": true
       },
+      "level": 2,
       "index.tsx": {
         "isFile": true
       }
@@ -3962,8 +4131,10 @@
         "yml": 0,
         "index.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
+      "level": 2,
       "auto-message": {
         "currentLess": 0,
         "childrenLess": 0,
@@ -3975,7 +4146,8 @@
         "yml": 0,
         "index.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "houses": {
         "currentLess": 0,
@@ -3989,6 +4161,7 @@
         "create.tsx": {
           "isFile": true
         },
+        "level": 3,
         "index.tsx": {
           "isFile": true
         },
@@ -4012,8 +4185,10 @@
             "yml": 0,
             "index.tsx": {
               "isFile": true
-            }
+            },
+            "level": 5
           },
+          "level": 4,
           "checkin-settings": {
             "currentLess": 0,
             "childrenLess": 0,
@@ -4026,6 +4201,7 @@
             "guest-information.tsx": {
               "isFile": true
             },
+            "level": 5,
             "house-settings.tsx": {
               "isFile": true
             },
@@ -4053,7 +4229,8 @@
             "yml": 0,
             "index.tsx": {
               "isFile": true
-            }
+            },
+            "level": 5
           },
           "room-types": {
             "currentLess": 0,
@@ -4066,7 +4243,8 @@
             "yml": 0,
             "index.tsx": {
               "isFile": true
-            }
+            },
+            "level": 5
           }
         }
       },
@@ -4081,7 +4259,8 @@
         "yml": 0,
         "index.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       },
       "subscription": {
         "currentLess": 0,
@@ -4094,7 +4273,8 @@
         "yml": 0,
         "index.tsx": {
           "isFile": true
-        }
+        },
+        "level": 3
       }
     },
     "sign_in": {
@@ -4108,7 +4288,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "sign_up": {
       "currentLess": 0,
@@ -4121,7 +4302,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "users": {
       "currentLess": 0,
@@ -4134,7 +4316,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "videos": {
       "currentLess": 0,
@@ -4147,7 +4330,8 @@
       "yml": 0,
       "index.tsx": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "websites": {
       "currentLess": 0,
@@ -4170,6 +4354,7 @@
         "index.tsx": {
           "isFile": true
         },
+        "level": 3,
         "[id]": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -4182,11 +4367,13 @@
           "order-history.tsx": {
             "isFile": true
           },
+          "level": 4,
           "profile.tsx": {
             "isFile": true
           }
         }
-      }
+      },
+      "level": 2
     },
     "_app.tsx": {
       "isFile": true
@@ -4210,6 +4397,7 @@
     "favicon.ico": {
       "isFile": true
     },
+    "level": 1,
     "static": {
       "currentLess": 0,
       "childrenLess": 0,
@@ -4240,6 +4428,7 @@
           "agoda.png": {
             "isFile": true
           },
+          "level": 4,
           "agoda@2x.png": {
             "isFile": true
           },
@@ -4364,6 +4553,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "checkin-settings": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -4376,6 +4566,7 @@
           "hotel-image.jpg": {
             "isFile": true
           },
+          "level": 4,
           "passport-photo.jpg": {
             "isFile": true
           },
@@ -4404,6 +4595,7 @@
           "ad.svg": {
             "isFile": true
           },
+          "level": 4,
           "ae.svg": {
             "isFile": true
           },
@@ -5185,6 +5377,7 @@
           "en.png": {
             "isFile": true
           },
+          "level": 4,
           "ja.png": {
             "isFile": true
           },
@@ -5207,6 +5400,7 @@
           "airhost_logo.svg": {
             "isFile": true
           },
+          "level": 4,
           "airhost_logo_large.png": {
             "isFile": true
           }
@@ -5223,6 +5417,7 @@
           "auto-message.png": {
             "isFile": true
           },
+          "level": 4,
           "checkin-settings.png": {
             "isFile": true
           },
@@ -5234,6 +5429,7 @@
           }
         }
       },
+      "level": 2,
       "locales": {
         "currentLess": 0,
         "childrenLess": 0,
@@ -5255,6 +5451,7 @@
           "account.json": {
             "isFile": true
           },
+          "level": 4,
           "add-room-type.json": {
             "isFile": true
           },
@@ -5331,6 +5528,7 @@
             "isFile": true
           }
         },
+        "level": 3,
         "ja": {
           "currentLess": 0,
           "childrenLess": 0,
@@ -5343,6 +5541,7 @@
           "account.json": {
             "isFile": true
           },
+          "level": 4,
           "add-room-type.json": {
             "isFile": true
           },
@@ -5431,6 +5630,7 @@
           "account.json": {
             "isFile": true
           },
+          "level": 4,
           "add-room-type.json": {
             "isFile": true
           },
@@ -5519,6 +5719,7 @@
           "account.json": {
             "isFile": true
           },
+          "level": 4,
           "add-room-type.json": {
             "isFile": true
           },
@@ -5618,7 +5819,8 @@
     "yml": 0,
     "index.js": {
       "isFile": true
-    }
+    },
+    "level": 1
   },
   "serverless.yml": {
     "isFile": true
@@ -5635,6 +5837,7 @@
     "accounts.ts": {
       "isFile": true
     },
+    "level": 1,
     "bookingImport.d.ts": {
       "isFile": true
     },
@@ -5698,6 +5901,7 @@
       "account.ts": {
         "isFile": true
       },
+      "level": 2,
       "autoMessage.ts": {
         "isFile": true
       },
@@ -5772,6 +5976,7 @@
     "antd.less": {
       "isFile": true
     },
+    "level": 1,
     "color.ts": {
       "isFile": true
     },
@@ -5806,6 +6011,7 @@
     "allListings.d.ts": {
       "isFile": true
     },
+    "level": 1,
     "currentAccount.d.ts": {
       "isFile": true
     },
@@ -5837,6 +6043,7 @@
     "image.ts": {
       "isFile": true
     },
+    "level": 1,
     "locales.ts": {
       "isFile": true
     },
@@ -5857,7 +6064,8 @@
       "yml": 0,
       "testUtils.ts": {
         "isFile": true
-      }
+      },
+      "level": 2
     },
     "time.ts": {
       "isFile": true
@@ -5884,6 +6092,7 @@
     "fileMock.js": {
       "isFile": true
     },
+    "level": 1,
     "styleMock.js": {
       "isFile": true
     }

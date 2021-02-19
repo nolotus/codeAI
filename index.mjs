@@ -1,11 +1,11 @@
 import fs from "fs/promises";
 import _ from "lodash";
-const mainPath = "G:/airhost_pms_nextjs";
+import { initStat, mainPath } from "./init.mjs";
 const dirArr = await fs.readdir(mainPath);
 // get validArr
 //stat start
 
-const getStatResult = async (path, dirArr) => {
+const getStatResult = async (path, dirArr, level = 0) => {
   try {
     const StatResult = await dirArr.reduce(async (previousPromise, current) => {
       const acc = await previousPromise;
@@ -13,8 +13,8 @@ const getStatResult = async (path, dirArr) => {
       if (!_.startsWith(current, ".") && current !== "node_modules") {
         const filestat = await fs.stat(currentPath);
         if (filestat.isFile()) {
-          acc[current] = filestat;
           acc[current] = { isFile: true };
+          //need refactor
           if (_.endsWith(current, ".less")) {
             acc.currentLess++;
           }
@@ -36,17 +36,17 @@ const getStatResult = async (path, dirArr) => {
         }
         if (filestat.isDirectory()) {
           const dirArr = await fs.readdir(currentPath);
-          const result = await getStatResult(currentPath, dirArr);
+          const result = await getStatResult(currentPath, dirArr, level + 1);
           console.log("result", result);
           acc.childrenLess =
             acc.childrenLess + result.currentLess + result.childrenLess;
           acc[current] = result;
         }
         acc.totalLess = acc.currentLess + acc.childrenLess;
-        return acc;
+        acc.level = level;
       }
       return acc;
-    }, Promise.resolve({ currentLess: 0, childrenLess: 0, totalLess: 0, js: 0, sh: 0, json: 0, ts: 0, yml: 0 }));
+    }, Promise.resolve(initStat()));
     return StatResult;
   } catch (error) {}
 };
